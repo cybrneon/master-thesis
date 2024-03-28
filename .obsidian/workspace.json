@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "b042173a2ec447db",
+    "type": "split",
+    "children": [
+      {
+        "id": "dddb85ef20be0807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc4f903ef222a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A_INSPIRATION/00_intro-master-thesis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3314960da67f7938",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bf6b2707fdd0d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6518dcf2b102103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "299b826124a5a7cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "343d7f0d50594f91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ca421a90d551bf28",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca11bdfda62f5faf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e90a4fd6213fd5de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "A_INSPIRATION/00_intro-master-thesis.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55575a1286d071e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "A_INSPIRATION/00_intro-master-thesis.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e42f9e111ddc42e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55d3dd4255f9d19a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "A_INSPIRATION/00_intro-master-thesis.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "bdc4f903ef222a95",
+  "lastOpenFiles": [
+    "README.md",
+    "A_INSPIRATION/00_intro-master-thesis.md",
+    "00_intro-master-thesis.pdf",
+    "A_INSPIRATION/Untitled.md",
+    "D_OUTPUT",
+    "C_DATA",
+    "B_METHOD",
+    "A_INSPIRATION",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2024-03-28.md",
+    "obsidian.md.md"
+  ]
+}
