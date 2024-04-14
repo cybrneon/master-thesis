@@ -1,32 +1,26 @@
-# Introduction to the Master Thesis
-### With Nicolas Nova
-
-## Intro of an intro
-After the discussing my ideas for a master thesis at the end of the HEAD x Ecal Research Week with Anthony Masure, I came to the conclusion that I would like to work on user interfaces in the field of open-source software.
-
-I knew for months that I wanted to work on user interfaces / graphical user interfaces.
-
-Here were ideas I've been writing since October 23:
-- Why open source UI design is boring? looks bad?
-- User Interfaces in the age of spatial computing.
-- Web browsers UI? Experimental UI?
-- The democratisation of personal computers and smartphones through UI. (ex. Skeumorphism)
-- Keynote and presentation apps UI (Keynote, PPT, Slides)
-- Sexyness of user interfaces in the indie app developer scene.
-
-Anthony told me that the first idea sounds more interesting and funny. The open source software dilema is interesting.
-
-## Design Research Question
-#### Themes/Topics
+# Design Research Question
+## Themes/Topics
 Here are themes/topics I find interesting:
-- Open Source
-- UI Design
-- Interaction Design
-- Experience Design
-- Design System
-- Free Software (as in Libre software, libreware)
 
-### Academic Ressources
+- **Open Source**
+Open source is source code that is made freely available for possible modification and redistribution. Products include permission to use the source code, design documents, or content of the product. The open-source model is a decentralised software development model that encourages open collaboration.
+
+- **UI Design**
+User interface (UI) design or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximising usability and the user experience.
+
+- **Interaction Design**
+Interaction design, often abbreviated as IxD, is "the practice of designing interactive digital products, environments, systems, and services,   While interaction design has an interest in form (similar to other design fields), its main area of focus rests on behavior.
+
+- **Experience Design**
+**User experience design** (**UX design**, **UXD**, **UED**, or **XD**) defines the experience a user would go through when interacting with a company, its services, and its products. User Experience Design is a user centered design approach because it considers the user's experience when using a product or platform.
+
+- **Design System**
+A design system is a collection of reusable components and clear standards that can be assembled together to build any number of applications. Design systems aid in digital product design and development of products such as mobile applications or websites. They may contain but are not limited to, pattern/component libraries, design languages, style guides (font, color, spacing, placement), coded components, brand languages, and documentation.
+
+- **Free Software (as in Libre software, libreware)**
+Free software is computer software distributed under terms that allow users to run the software for any purpose as well as to study, change, and distribute it and any adapted versions. Free software is a matter of liberty, not price; all users are legally free to do what they want with their copies of a free software (including profiting from them) regardless of how much is paid to obtain the program. Computer programs are deemed "free" if they give end-users (not just the developer) ultimate control over the software and, subsequently, over their devices.
+
+## Academic Ressources
 Bach, P., Carroll, J., & The Pennsylvania State University. (2010). Characterizing the Dynamics of Open User Experience Design: The Cases of Firefox and OpenOffice.org. _Journal of the Association for Information Systems_, _11_(12), 902–925. [https://doi.org/10.17705/1jais.00247](https://doi.org/10.17705/1jais.00247)
 
 Bach, P. M. (n.d.). _Supporting the User Experience in Free/Libre/Open Source Software Development_. [https://www.proquest.com/docview/304986686?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/304986686?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
@@ -43,7 +37,7 @@ Linghammar, F. (n.d.). _Usability and Aesthetics- is beautiful more usable?_ [ht
 
 Türkyilmaz, A., Kantar, S., Bulak, M. E., & Uysal, O. (2015). _User Experience Design: Aesthetics or Functionality_. [https://ideas.repec.org/h/tkp/mklp15/559-565.html](https://ideas.repec.org/h/tkp/mklp15/559-565.html)
 
-### Research Question Exercise
+## Research Question Exercise
 #### Question 01
 I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to to help understand **why designers aren't that much invested in the design of these interfaces**.
 #### Question 02
