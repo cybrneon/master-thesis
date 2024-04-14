@@ -4,3 +4,5 @@ Post HEADxECAL Research Week with Anthony Masure, and introduction by Nicolas No
 
 ### [Design Research Question](A_INSPIRATION/2024-04-15/README)
 List of terms/topics, potential research questions and academic ressources.
+
+### [.](.)
