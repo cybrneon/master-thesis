@@ -1,5 +1,5 @@
 # Design Research Questions
-## Themes/Topics
+## 📒 Themes/Topics
 Here are themes/topics I find interesting:
 
 - **Open Source**
@@ -7,6 +7,12 @@ Open source is source code that is made freely available for possible modificati
 
 - **UI Design**
 User interface (UI) design or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximising usability and the user experience.
+
+- **Skeuomorphism**
+Skeuomorphism is a term most often used in graphical user interface design to describe interface objects that mimic their real-world counterparts in how they appear and/or how the user can interact with them. A well-known example is the recycle bin icon used for discarding files.
+
+- **Flat Design**
+Flat design is a style of interface design emphasizing minimalist use of simple elements, typography, and flat colors. Designers may prefer flat design because it allows interface designs to be more streamlined and efficient.
 
 - **Interaction Design**
 Interaction design, often abbreviated as IxD, is "the practice of designing interactive digital products, environments, systems, and services,   While interaction design has an interest in form (similar to other design fields), its main area of focus rests on behavior.
@@ -20,7 +26,8 @@ A design system is a collection of reusable components and clear standards that 
 - **Free Software (as in Libre software, libreware)**
 Free software is computer software distributed under terms that allow users to run the software for any purpose as well as to study, change, and distribute it and any adapted versions. Free software is a matter of liberty, not price; all users are legally free to do what they want with their copies of a free software (including profiting from them) regardless of how much is paid to obtain the program. Computer programs are deemed "free" if they give end-users (not just the developer) ultimate control over the software and, subsequently, over their devices.
 
-## Academic Ressources
+## 📚 Academic Ressources
+#### Open Source
 Bach, P., Carroll, J., & The Pennsylvania State University. (2010). Characterizing the Dynamics of Open User Experience Design: The Cases of Firefox and OpenOffice.org. _Journal of the Association for Information Systems_, _11_(12), 902–925. [https://doi.org/10.17705/1jais.00247](https://doi.org/10.17705/1jais.00247)
 
 Bach, P. M. (n.d.). _Supporting the User Experience in Free/Libre/Open Source Software Development_. [https://www.proquest.com/docview/304986686?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses](https://www.proquest.com/docview/304986686?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses)
@@ -37,18 +44,54 @@ Linghammar, F. (n.d.). _Usability and Aesthetics- is beautiful more usable?_ [ht
 
 Türkyilmaz, A., Kantar, S., Bulak, M. E., & Uysal, O. (2015). _User Experience Design: Aesthetics or Functionality_. [https://ideas.repec.org/h/tkp/mklp15/559-565.html](https://ideas.repec.org/h/tkp/mklp15/559-565.html)
 
-## Research Question Exercise
+#### Skeuomorphism
+Backhaus, N., Trapp, A. K., & Thüring, M. (2018). Skeuomorph Versus Flat Design: User Experience and Age-Related Preferences. In A. Marcus & W. Wang (Eds.), _Design, User Experience, and Usability: Designing Interactions_ (Vol. 10919, pp. 527–542). Springer International Publishing. [https://doi.org/10.1007/978-3-319-91803-7_40](https://doi.org/10.1007/978-3-319-91803-7_40)
+
+Bollini, L. (2016). _From Skeuomorphism to Material Design and back. The language of colours in the 2nd generation of mobile interface design._ _Colour and colorimetry. Multidisciplinary contributions_. [https://boa.unimib.it/handle/10281/133589](https://boa.unimib.it/handle/10281/133589)
+
+Bollini, L. (2017). Beautiful interfaces. From user experience to user interface design. _The Design Journal_, _20_(sup1), S89–S101. [https://doi.org/10.1080/14606925.2017.1352649](https://doi.org/10.1080/14606925.2017.1352649)
+
+Curtis, A. (2015). _RHETORIC OF FLAT DESIGN AND SKEUOMORPHISM IN APPLE’S iOS GRAPHICAL USER INTERFACE_ [University of Rhode Island]. [https://doi.org/10.23860/thesis-curtis-ambrose-2015](https://doi.org/10.23860/thesis-curtis-ambrose-2015)
+
+Gatsou, C., & Farrington, J. S. (2022). THE EVOLUTION OF THE GRAPHICAL USER INTERFACE: FROM SKEUOMORPHISM TO MATERIAL DESIGN. _Design/Arts/Culture_, _2_. [https://doi.org/10.12681/dac.27466](https://doi.org/10.12681/dac.27466)
+
+Kim, S., & Lee, S. (2020). Smash the dichotomy of Skeuomorphism and flat design: Designing an affordable interface to correspond with the human perceptuomotor process. _International Journal of Human-Computer Studies_, _141_, 102435. [https://doi.org/10.1016/j.ijhcs.2020.102435](https://doi.org/10.1016/j.ijhcs.2020.102435)
+
+Meng, M. D., & Leary, R. B. (2022). Mitigating the detrimental effect of skeuomorphism on gambling behavior. _Journal of Consumer Affairs_, _56_(2), 969–981. [https://doi.org/10.1111/joca.12427](https://doi.org/10.1111/joca.12427)
+
+Page, T. (2014). Skeuomorphism or flat design: Future directions in mobile device User Interface (UI) design education. _International Journal of Mobile Learning and Organisation_, _8_(2), 130. [https://doi.org/10.1504/IJMLO.2014.062350](https://doi.org/10.1504/IJMLO.2014.062350)
+
+Spiliotopoulos, K., Rigou, M., & Sirmakessis, S. (2018). A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective. _Multimodal Technologies and Interaction_, _2_(2), 31. [https://doi.org/10.3390/mti2020031](https://doi.org/10.3390/mti2020031)
+
+Türkyilmaz, A., Kantar, S., Bulak, M. E., & Uysal, O. (2015). _User Experience Design: Aesthetics or Functionality_. [https://ideas.repec.org/h/tkp/mklp15/559-565.html](https://ideas.repec.org/h/tkp/mklp15/559-565.html)
+
+Urbano, I. C. V. P. (2018). _From Skeuomorphism to Flat design: Investigating Older Adults Experience_ [Instituto Superior Técnico]. [https://scholar.tecnico.ulisboa.pt/records/V2Aqmnvev-ae41koPVR9yMsjmh3U5CegEOq_](https://scholar.tecnico.ulisboa.pt/records/V2Aqmnvev-ae41koPVR9yMsjmh3U5CegEOq_)
+
+Urbano, I. C. V. P., Guerreiro, J. P. V., & Nicolau, H. M. A. A. (2022a). From skeuomorphism to flat design: Age-related differences in performance and aesthetic perceptions. _Behaviour & Information Technology_, _41_(3), 452–467. [https://doi.org/10.1080/0144929X.2020.1814867](https://doi.org/10.1080/0144929X.2020.1814867)
+
+Urbano, I. C. V. P., Guerreiro, J. P. V., & Nicolau, H. M. A. A. (2022b). From skeuomorphism to flat design: Age-related differences in performance and aesthetic perceptions. _Behaviour & Information Technology_, _41_(3), 452–467. [https://doi.org/10.1080/0144929X.2020.1814867](https://doi.org/10.1080/0144929X.2020.1814867)
+
+Wu, L., Lei, T., Li, J., & Li, B. (2015). Skeuomorphism and Flat Design: Evaluating Users’ Emotion Experience in Car Navigation Interface Design. In A. Marcus (Ed.), _Design, User Experience, and Usability: Design Discourse_ (Vol. 9186, pp. 567–575). Springer International Publishing. [https://doi.org/10.1007/978-3-319-20886-2_53](https://doi.org/10.1007/978-3-319-20886-2_53)
+
+## 🙇 Research Question Exercise
 #### Question 01
 I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to help understand **why designers aren't that much invested in the design of these interfaces.**
 #### Question 02
 I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to help understand **why the general public haven't already moved to open source software.**
 
-## Questions
+## ❓Questions
 Why do user interfaces in open source applications look unattractive?
 Why do user interfaces in open source design applications look unattractive?
 Why aren't open source applications mainstream already?
 Why is open source design not that diversified?
+How can user interfaces of open source software feel more polished?
+How can user interfaces of open source software become mainstream?
+
+How Skeuomorphism democratised personal computing?
+Why do skeuomorphic user interfaces making a come back?
+How Skeuomorphism democratised personal computing?
+How Skeuomorphism democratised
 
 
-
-## Final Research Question
+## 🧪 Final Research Question
+TBW
