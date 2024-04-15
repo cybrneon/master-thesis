@@ -1,4 +1,4 @@
-# Design Research Question
+# Design Research Questions
 ## Themes/Topics
 Here are themes/topics I find interesting:
 
@@ -39,6 +39,16 @@ Türkyilmaz, A., Kantar, S., Bulak, M. E., & Uysal, O. (2015). _User Experience 
 
 ## Research Question Exercise
 #### Question 01
-I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to to help understand **why designers aren't that much invested in the design of these interfaces**.
+I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to help understand **why designers aren't that much invested in the design of these interfaces.**
 #### Question 02
-I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to to help understand **why the general public haven't already moved to open source software**.
+I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to help understand **why the general public haven't already moved to open source software.**
+
+## Questions
+Why do user interfaces in open source applications look unattractive?
+Why do user interfaces in open source design applications look unattractive?
+Why aren't open source applications mainstream already?
+Why is open source design not that diversified?
+
+
+
+## Final Research Question
