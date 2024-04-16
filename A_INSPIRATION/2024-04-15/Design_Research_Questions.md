@@ -78,6 +78,8 @@ Wu, L., Lei, T., Li, J., & Li, B. (2015). Skeuomorphism and Flat Design: Evaluat
 I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to help understand **why designers aren't that much invested in the design of these interfaces.**
 #### Question 02
 I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to help understand **why the general public haven't already moved to open source software.**
+#### Question 03
+I am trying to learn about **skeuomorphism** because I want to find out **how personal computers became widely adopted** in order to help understand **skeuomorphism is making a come back.**
 
 ## ❓Questions
 Why do user interfaces in open source applications look unattractive?
@@ -90,7 +92,10 @@ How can user interfaces of open source software become mainstream?
 How Skeuomorphism democratised personal computing?
 Why do skeuomorphic user interfaces making a come back?
 How Skeuomorphism democratised personal computing?
-How Skeuomorphism democratised
+How Skeuomorphism helped democratise skeuomorphism?
+How is Skeuomorphism making a come back through nostalgia?
+How nostalgia is bringing back Skeuomorphism?
+Why wont Skeuomorphism die?
 
 
 ## 🧪 Final Research Question
