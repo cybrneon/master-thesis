@@ -78,6 +78,20 @@ Wu, L., Lei, T., Li, J., & Li, B. (2015). Skeuomorphism and Flat Design: Evaluat
 
 _Frutiger Aero_. (2024, May 13). Aesthetics Wiki. [https://aesthetics.fandom.com/wiki/Frutiger_Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 
+Oliveri, S. (2020, August 4). Skeuomorphism: Design we Learned to Outgrow. _Design Warp_. [https://medium.com/design-warp/skeuomorphism-design-we-learned-to-outgrow-8a24895a80d0](https://medium.com/design-warp/skeuomorphism-design-we-learned-to-outgrow-8a24895a80d0)
+
+Darius, M. (2023a, October 19). _From Paper Ballots to Pixels: Tracing the history of the radio button & checkbox_. [https://skeuomorphic.design/p/from-paper-ballots-to-pixels-tracing](https://skeuomorphic.design/p/from-paper-ballots-to-pixels-tracing)
+
+Darius, M. (2023b, October 19). _The Quiet Disappearance of Skeuomorphism in Modern UI: A Re-examination_. [https://skeuomorphic.design/p/the-quiet-disappearance-of-skeuomorphism](https://skeuomorphic.design/p/the-quiet-disappearance-of-skeuomorphism)
+
+Darius, M. (2023c, October 19). _Unsung Revolutions: A Brief History of Natural User Interfaces_. [https://skeuomorphic.design/p/unsung-revolutions-a-brief-history](https://skeuomorphic.design/p/unsung-revolutions-a-brief-history)
+
+Irish, R. (2022, August 23). _What Apple learned from skeuomorphism and why it still matters_. AppleInsider. [https://appleinsider.com/articles/22/08/23/what-apple-learned-from-skeuomorphism-and-why-it-still-matters](https://appleinsider.com/articles/22/08/23/what-apple-learned-from-skeuomorphism-and-why-it-still-matters)
+
+Manjoo, F. (2012, November 1). Should a Calendar App Look Like a Calendar? _Slate_. [https://slate.com/technology/2012/11/scott-forstall-fired-skeuomorphism-the-design-concept-thats-tearing-apple-and-the-tech-world-apart.html](https://slate.com/technology/2012/11/scott-forstall-fired-skeuomorphism-the-design-concept-thats-tearing-apple-and-the-tech-world-apart.html)
+
+Nguyen, T. (2023, March 17). _Dirt: Skeuomorphia_. The Dirtyverse. [https://dirt.fyi/article/2023/03/skeuomorphia](https://dirt.fyi/article/2023/03/skeuomorphia)
+
 ## 🙇 Research Question Exercise
 #### Question 01
 I am trying to learn about **user interfaces in the open source community** because I want to find out **why user interfaces look ugly** in order to help understand **why designers aren't that much invested in the design of these interfaces.**
