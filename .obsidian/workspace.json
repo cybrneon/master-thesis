@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A_INSPIRATION/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A_INSPIRATION/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A_INSPIRATION/README.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A_INSPIRATION/README.md"
+                "file": "README.md"
               }
             }
           }
@@ -145,12 +145,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f234701adb81a66",
+  "active": "f6518dcf2b102103",
   "lastOpenFiles": [
-    "A_INSPIRATION/2024-04-15/Design_Research_Questions.md",
-    "A_INSPIRATION/2024-05-15",
+    "E_ASSETS/skeumorphism_hero.png",
+    "E_ASSETS",
+    "D_OUTPUT/E_ASSETS",
+    "B_METHOD/README.md",
     "A_INSPIRATION/README.md",
     "README.md",
+    "A_INSPIRATION/2024-04-15/Design_Research_Questions.md",
+    "A_INSPIRATION/2024-05-15",
     "A_INSPIRATION/2024-03-28/Introduction_to_Master_Thesis.md",
     "A_INSPIRATION/2024-03-28/Introduction.md",
     "2024-04-15/README.md",
@@ -165,12 +169,9 @@
     "C_DATA/README.md",
     "Untitled.canvas",
     "D_OUTPUT/README.md",
-    "B_METHOD/README.md",
     "00_intro-master-thesis.pdf",
     "D_OUTPUT",
     "C_DATA",
-    "B_METHOD",
-    "A_INSPIRATION",
     "Untitled 1.canvas",
     "2024-03-28.md",
     "obsidian.md.md"
