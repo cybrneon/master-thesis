@@ -26,6 +26,9 @@ A design system is a collection of reusable components and clear standards that 
 - **Free Software (as in Libre software, libreware)**
 Free software is computer software distributed under terms that allow users to run the software for any purpose as well as to study, change, and distribute it and any adapted versions. Free software is a matter of liberty, not price; all users are legally free to do what they want with their copies of a free software (including profiting from them) regardless of how much is paid to obtain the program. Computer programs are deemed "free" if they give end-users (not just the developer) ultimate control over the software and, subsequently, over their devices.
 
+- **Frutiger Aero**
+Frutiger Aero (also known as Web 2.0 Gloss) is a broad design style and aesthetic that was prevalent in advertising, media, stock imagery and technology from roughly 2004 to 2014, following the end of the Y2K era. Overlapping with the McBling and ElectroPop 08 aesthetics, it is characterised by its vast use of Skeuomorphism, glossy textures, cloudy skies, tropical fish, water, bubbles, glass, lens flare, sprawling patterns, "humanism", aero glass, bokeh, Frutiger fonts, Abstract Tech, auroras and bright, vibrant colors (usually greens and blues).
+
 ## 📚 Academic Ressources
 #### Open Source
 Bach, P., Carroll, J., & The Pennsylvania State University. (2010). Characterizing the Dynamics of Open User Experience Design: The Cases of Firefox and OpenOffice.org. _Journal of the Association for Information Systems_, _11_(12), 902–925. [https://doi.org/10.17705/1jais.00247](https://doi.org/10.17705/1jais.00247)
@@ -72,6 +75,8 @@ Urbano, I. C. V. P., Guerreiro, J. P. V., & Nicolau, H. M. A. A. (2022a). From s
 Urbano, I. C. V. P., Guerreiro, J. P. V., & Nicolau, H. M. A. A. (2022b). From skeuomorphism to flat design: Age-related differences in performance and aesthetic perceptions. _Behaviour & Information Technology_, _41_(3), 452–467. [https://doi.org/10.1080/0144929X.2020.1814867](https://doi.org/10.1080/0144929X.2020.1814867)
 
 Wu, L., Lei, T., Li, J., & Li, B. (2015). Skeuomorphism and Flat Design: Evaluating Users’ Emotion Experience in Car Navigation Interface Design. In A. Marcus (Ed.), _Design, User Experience, and Usability: Design Discourse_ (Vol. 9186, pp. 567–575). Springer International Publishing. [https://doi.org/10.1007/978-3-319-20886-2_53](https://doi.org/10.1007/978-3-319-20886-2_53)
+
+_Frutiger Aero_. (2024, May 13). Aesthetics Wiki. [https://aesthetics.fandom.com/wiki/Frutiger_Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 
 ## 🙇 Research Question Exercise
 #### Question 01
