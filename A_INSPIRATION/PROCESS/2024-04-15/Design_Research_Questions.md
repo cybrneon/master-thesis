@@ -108,6 +108,8 @@ Why is open source design not that diversified?
 How can user interfaces of open source software feel more polished?
 How can user interfaces of open source software become mainstream?
 
+
+
 How Skeuomorphism democratised personal computing?
 Why do skeuomorphic user interfaces making a come back?
 How Skeuomorphism democratised personal computing?

@@ -11,7 +11,6 @@
 - [Jack](https://twitter.com/hunktwink123) Digital Designer
 - [Lucia Scarlet](https://twitter.com/luciascarlet) Digital Designer
 - [Nate Parrott](https://twitter.com/nateparrott) Product Design Lead of the Arc Browser at The Browser Company Of New York
-- 
 
 ### A/B Testing
 - Confronting people to Flat Design and Skeuomorphism UIs to gain their insights and feelings.
