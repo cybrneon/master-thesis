@@ -7,4 +7,4 @@
 **2024-05-15:** Writing the first process.
 
 # DICTIONARY
-[Skeuomorphism](DICTIONARY/Skeuomorphism.md) [Nostalgia](DICTIONARY/Nostalgia.md)
+[macOS](DICTIONARY/macOS.md) [Nostalgia](DICTIONARY/Nostalgia.md) [Skeuomorphism](DICTIONARY/Skeuomorphism.md) [Windows](DICTIONARY/Windows.md)

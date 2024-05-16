@@ -10,5 +10,5 @@
 **2024-05-15:** Talk with Nicolas Nova and sharpening of the research question.
 
 # SOURCES
-# [Bibliography](BIBLIOGRAPHY/Bibliography.md)
+### [Bibliography](BIBLIOGRAPHY/Bibliography.md)
 Papers, Websites, Blogs
