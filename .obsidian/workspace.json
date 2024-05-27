@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B_METHOD/README.md",
+                "file": "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B_METHOD/README.md",
+                "file": "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B_METHOD/README.md",
+                "file": "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B_METHOD/README.md"
+                "file": "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "3f234701adb81a66",
   "lastOpenFiles": [
-    "D_OUTPUT/README.md",
     "B_METHOD/README.md",
+    "D_OUTPUT/README.md",
     "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
     "B_METHOD/Methodology Canvas.canvas",
     "README.md",
