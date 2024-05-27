@@ -19,8 +19,7 @@ I need to make an experiment with two people as a startup point for my research.
    - Open an image in the drive.
    - Write an email to a friend.
    - Play some music.
-1. After 10 minutes, end the experience and get their insights about the overall experience:
-	   1. Was the user interface easy to navigate?
-	   2. Did you enjoy using apps?
-	   3. What did you feel?
-	   4. _Skeuomorphism makes interface objects in a UI design familiar to users by using concepts they recognize_. Would you like Skeuomorphism to come back?
+4. After 10 minutes, end the experience and get their insights about the overall experience:
+   - Was the user interface easy to navigate?
+   - Did you enjoy using apps?
+   - _Skeuomorphism makes interface objects in a UI design familiar to users by using concepts they recognize_. Would you like Skeuomorphism to come back?
