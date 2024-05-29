@@ -16,7 +16,14 @@ A Testing: Presented Mac OS X 10.8 first.
 B Testing: Presented Windows 10 (2016) second.
 - More appealing interface, simpler and clearer.
 - Less nostalgia, no particular feeling.
-#### Subject #2 — 26 years old (1997)
+
+#### Subject #2 — 24 years old (2000)
+A Testing: Presented Mac OS X 10.8.
+- The subject enjoyed the experience and really like diving back into "old" apps.
+- Nostalgia came back, and the user didn't really have trouble finding their way in the OS, as nothing has really changed on today's macOS.
+B Testing: None.
+
+#### Subject #3 — 26 years old (1997)
 A Testing: Presented Windows 10 (2016) second.
 - ffr
 B Testing: Presented Mac OS X 10.8 first.
