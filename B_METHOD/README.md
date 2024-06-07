@@ -9,5 +9,8 @@
 ### [Early Thesis Research Presentation + First Insights](PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md)
 **2024-05-15:** Visual presentation with speech and first a/b testing insights.
 
+### [Presentation of Early Findings](PROCESS/2024-06-07/Presentation_of_Early_Findings.md)
+**2024-06-07:** Feedback from Nicolas Nova.
+
 # DICTIONARY
 [macOS](DICTIONARY/macOS.md) [Nostalgia](DICTIONARY/Nostalgia.md) [Skeuomorphism](DICTIONARY/Skeuomorphism.md) [Windows](DICTIONARY/Windows.md)

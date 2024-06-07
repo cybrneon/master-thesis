@@ -3,15 +3,19 @@
 ### Papers
 Backhaus, N., Trapp, A. K., & Thüring, M. (2018). Skeuomorph Versus Flat Design: User Experience and Age-Related Preferences. In A. Marcus & W. Wang (Eds.), _Design, User Experience, and Usability: Designing Interactions_ (Vol. 10919, pp. 527–542). Springer International Publishing. [https://doi.org/10.1007/978-3-319-91803-7_40](https://doi.org/10.1007/978-3-319-91803-7_40)
 
-Bollini, L. (2016). _From Skeuomorphism to Material Design and back. The language of colours in the 2nd generation of mobile interface design._ _Colour and colorimetry. Multidisciplinary contributions_. [https://boa.unimib.it/handle/10281/133589](https://boa.unimib.it/handle/10281/133589)
+Bollini, L. (2016). _From Skeuomorphism to Material Design and back. The language of colours in the 2nd generation of mobile interface design._ _Colour and colorimetry. Multidisciplinary contributions_.[https://boa.unimib.it/handle/10281/133589](https://boa.unimib.it/handle/10281/133589)
 
-Bollini, L. (2017). Beautiful interfaces. From user experience to user interface design. _The Design Journal_, _20_(sup1), S89–S101. [https://doi.org/10.1080/14606925.2017.1352649](https://doi.org/10.1080/14606925.2017.1352649)
+Bollini, L. (2017). Beautiful interfaces. From user experience to user interface design. _The Design Journal_, _20_(sup1), S89–S101.[https://doi.org/10.1080/14606925.2017.1352649](https://doi.org/10.1080/14606925.2017.1352649)
 
 Curtis, A. (2015). _RHETORIC OF FLAT DESIGN AND SKEUOMORPHISM IN APPLE’S iOS GRAPHICAL USER INTERFACE_ [University of Rhode Island]. [https://doi.org/10.23860/thesis-curtis-ambrose-2015](https://doi.org/10.23860/thesis-curtis-ambrose-2015)
 
 Gatsou, C., & Farrington, J. S. (2022). THE EVOLUTION OF THE GRAPHICAL USER INTERFACE: FROM SKEUOMORPHISM TO MATERIAL DESIGN. _Design/Arts/Culture_, _2_. [https://doi.org/10.12681/dac.27466](https://doi.org/10.12681/dac.27466)
 
+Gaver, W. W. (1991). Technology affordances. _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Reaching through Technology - CHI ’91_, 79–84. [https://doi.org/10.1145/108844.108856](https://doi.org/10.1145/108844.108856)
+
 Kim, S., & Lee, S. (2020). Smash the dichotomy of Skeuomorphism and flat design: Designing an affordable interface to correspond with the human perceptuomotor process. _International Journal of Human-Computer Studies_, _141_, 102435. [https://doi.org/10.1016/j.ijhcs.2020.102435](https://doi.org/10.1016/j.ijhcs.2020.102435)
+
+Magaudda, P., & Minniti, S. (2019). Retromedia-in-practice: A practice theory approach for rethinking old and new media technologies. _Convergence: The International Journal of Research into New Media Technologies_, _25_(4), 673–693. [https://doi.org/10.1177/1354856519842805](https://doi.org/10.1177/1354856519842805)
 
 Meng, M. D., & Leary, R. B. (2022). Mitigating the detrimental effect of skeuomorphism on gambling behavior. _Journal of Consumer Affairs_, _56_(2), 969–981. [https://doi.org/10.1111/joca.12427](https://doi.org/10.1111/joca.12427)
 

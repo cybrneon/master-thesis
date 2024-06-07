@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "B_METHOD/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "B_METHOD/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "B_METHOD/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "B_METHOD/README.md"
               }
             }
           }
@@ -147,12 +147,18 @@
   },
   "active": "3f234701adb81a66",
   "lastOpenFiles": [
-    "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
+    "README.md",
     "B_METHOD/README.md",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "B_METHOD/PROCESS/2024-06-07/Presentation_of_Early_Findings.md",
+    "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
+    "PROCESS/2024-06-07/Presentation_of_First_Insights.md",
+    "PROCESS/2024-06-07",
+    "PROCESS",
+    "B_METHOD/PROCESS/2024-06-07",
+    "B_METHOD/Methodology Canvas.canvas",
     "B_METHOD/PROCESS/2024-05-15/A-B_Testing.md",
     "D_OUTPUT/README.md",
-    "B_METHOD/Methodology Canvas.canvas",
-    "README.md",
     "B_METHOD/PROCESS/2024-05-30",
     "B_METHOD/PROCESS/2024-05-14/Thinking_Methodology.md",
     "B_METHOD/PROCESS/2024-05-30",
@@ -165,20 +171,16 @@
     "A_INSPIRATION/README.md",
     "C_DATA/README.md",
     "B_METHOD/PROCESS/2024-05-15",
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "A_INSPIRATION/BIBLIOGRAPHY",
     "B_METHOD/PROCESS",
     "B_METHOD/DICTIONARY",
     "A_INSPIRATION/PROCESS",
-    "A_INSPIRATION/PROCESS/2024-05-15",
     "A_INSPIRATION/PROCESS/2024-03-28/Introduction_to_Master_Thesis.md",
     "E_ASSETS/repo-images/skeumorphism_output.png",
     "E_ASSETS/repo-images/skeumorphism_data.png",
     "E_ASSETS/repo-images/skeumorphism_method.png",
     "E_ASSETS/repo-images/skeumorphism_inspiration.png",
     "E_ASSETS/repo-images/skeumorphism_hero.png",
-    "E_ASSETS/repo-images",
-    "B_METHOD/PROCESS/2024-05-14",
     "A_INSPIRATION/2024-03-28/Introduction.md",
     "2024-04-15/README.md",
     "2024-03-28/README.md",
