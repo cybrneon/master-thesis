@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "b042173a2ec447db",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf2870652e96abe6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f234701adb81a66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3314960da67f7938",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bf6b2707fdd0d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6518dcf2b102103",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "299b826124a5a7cd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "343d7f0d50594f91",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "ca421a90d551bf28",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca11bdfda62f5faf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e90a4fd6213fd5de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55575a1286d071e5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0e42f9e111ddc42e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55d3dd4255f9d19a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3f234701adb81a66",
+  "lastOpenFiles": [
+    "B_METHOD/README.md",
+    "README.md",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "B_METHOD/PROCESS/2024-06-07/Presentation_of_Early_Findings.md",
+    "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
+    "PROCESS/2024-06-07/Presentation_of_First_Insights.md",
+    "PROCESS/2024-06-07",
+    "PROCESS",
+    "B_METHOD/PROCESS/2024-06-07",
+    "B_METHOD/Methodology Canvas.canvas",
+    "B_METHOD/PROCESS/2024-05-15/A-B_Testing.md",
+    "D_OUTPUT/README.md",
+    "B_METHOD/PROCESS/2024-05-30",
+    "B_METHOD/PROCESS/2024-05-14/Thinking_Methodology.md",
+    "B_METHOD/PROCESS/2024-05-30",
+    "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
+    "A_INSPIRATION/PROCESS/2024-04-15/Design_Research_Questions.md",
+    "B_METHOD/DICTIONARY/Windows.md",
+    "B_METHOD/DICTIONARY/Skeuomorphism.md",
+    "B_METHOD/DICTIONARY/macOS.md",
+    "B_METHOD/DICTIONARY/Nostalgia.md",
+    "A_INSPIRATION/README.md",
+    "C_DATA/README.md",
+    "B_METHOD/PROCESS/2024-05-15",
+    "A_INSPIRATION/BIBLIOGRAPHY",
+    "B_METHOD/PROCESS",
+    "B_METHOD/DICTIONARY",
+    "A_INSPIRATION/PROCESS",
+    "A_INSPIRATION/PROCESS/2024-03-28/Introduction_to_Master_Thesis.md",
+    "E_ASSETS/repo-images/skeumorphism_output.png",
+    "E_ASSETS/repo-images/skeumorphism_data.png",
+    "E_ASSETS/repo-images/skeumorphism_method.png",
+    "E_ASSETS/repo-images/skeumorphism_inspiration.png",
+    "E_ASSETS/repo-images/skeumorphism_hero.png",
+    "A_INSPIRATION/2024-03-28/Introduction.md",
+    "2024-04-15/README.md",
+    "2024-03-28/README.md",
+    "A_INSPIRATION/2024-04-15.md",
+    "A_INSPIRATION/2024-03-28/01_Intro Master Thesis.md",
+    "2024-03-29.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2024-03-28.md",
+    "obsidian.md.md"
+  ]
+}
