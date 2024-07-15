@@ -1,7 +1,6 @@
 {
 	"nodes":[
-		{"id":"1aed939edf57e819","type":"file","file":"B_METHOD/DICTIONARY/Skeuomorphism.md","x":-860,"y":-540,"width":400,"height":540,"color":"3"},
-		{"id":"e9b41f3b0380f8fa","x":-440,"y":20,"width":300,"height":100,"color":"4","type":"file","file":"B_METHOD/list-devices+people.xlsx"}
+		{"id":"1aed939edf57e819","type":"file","file":"B_METHOD/DICTIONARY/Skeuomorphism.md","x":-860,"y":-540,"width":400,"height":540,"color":"3"}
 	],
 	"edges":[]
 }

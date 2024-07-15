@@ -13,6 +13,7 @@ The procedure doesn't need to happen in two phases like the initial tests were h
 
 Different devices are positioned on a table, and users can chose which one to pick. They will have to try them all.
 
+![](../../../E_ASSETS/method/user-tests-disposition-scheme.png)
 Each device has its own experience in itself, so here are questions I'm going to ask people while they use the device they chose:
 - Did you own such device?
 - Do you remember if user interfaces made you feel in a certain way?
@@ -21,3 +22,18 @@ Each device has its own experience in itself, so here are questions I'm going to
 Of course, I will ask other questions going with the flow and reactions of the users.
 
 This will be a multi-devices experience, so minimum time would be 5 minutes and maximum 15 when I'm not constrained by time.
+
+### The Devices
+![](../../../E_ASSETS/method/devices-excel-screenshot.png)
+
+## Notes
+If I'm interested in that subject, there is something that's interesting.
+I have to make a distinction, how I talk about it, how I theorize it.
+It's an exploratory approach, but at some point I can test a hypothesis.
+Bring in something on the theme of nostalgia, 
+What's the profile of the people, the sampling (semester 1) - snowball sampling.
+Interesting to have people over 60 and under 30, for example, instead of all ages, so that results can be sharper (people who used these devices and people who didn't).
+Affordance Theory.
+
+TIME TO READ!
+And the methodology will probably change and get better :)
