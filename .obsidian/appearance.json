@@ -3,5 +3,6 @@
   "translucency": false,
   "cssTheme": "Typewriter",
   "theme": "system",
-  "nativeMenus": true
+  "nativeMenus": true,
+  "textFontFamily": ""
 }
