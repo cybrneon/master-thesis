@@ -2,7 +2,9 @@
 
 ### Prologue (Quantitative Results)
 These surveys are a way to get people to know about Skeuomorphism if they didn't, give me their insights on user interfaces they design or use and then make them interested in user tests I'm doing later so that I can get people interested.
+
 The first **Survey, for Designers,** is directed to the people who design stuff.
+
 The second **Survey, for People,** is directed to the ordinary users who use the interfaces that designers design every day.
 
 - **Survey for Designers**
@@ -41,6 +43,7 @@ Introducing the experience and asking basic first questions to learn more about 
 #### Phase 2 - User Test
 The goal is to let the user explore by themselves.
 If they need or look lost, I can give them ideas of apps they can open:
+
 **Smartphone**
 - Contacts
 - Compass
@@ -50,6 +53,7 @@ If they need or look lost, I can give them ideas of apps they can open:
 - Music
 - Settings
 - Calculator
+
 **Computer**
 - Contacts
 - Notes

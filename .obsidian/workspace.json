@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C_DATA/README.md",
+                "file": "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C_DATA/README.md",
+                "file": "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C_DATA/README.md",
+                "file": "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C_DATA/README.md"
+                "file": "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "3f234701adb81a66",
   "lastOpenFiles": [
-    "C_DATA/THOUGHTS/Thoughts_Collection.md",
     "C_DATA/README.md",
+    "C_DATA/THOUGHTS/Thoughts_Collection.md",
     "A_INSPIRATION/README.md",
     "B_METHOD/README.md",
     "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
