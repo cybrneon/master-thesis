@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C_DATA/THOUGHTS/Thoughts_Collection.md",
+                "file": "C_DATA/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C_DATA/THOUGHTS/Thoughts_Collection.md",
+                "file": "C_DATA/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C_DATA/THOUGHTS/Thoughts_Collection.md",
+                "file": "C_DATA/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C_DATA/THOUGHTS/Thoughts_Collection.md"
+                "file": "C_DATA/README.md"
               }
             }
           }
@@ -147,11 +147,12 @@
   },
   "active": "3f234701adb81a66",
   "lastOpenFiles": [
-    "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
     "C_DATA/THOUGHTS/Thoughts_Collection.md",
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
-    "B_METHOD/README.md",
     "C_DATA/README.md",
+    "A_INSPIRATION/README.md",
+    "B_METHOD/README.md",
+    "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "README.md",
     "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
     "B_METHOD/PROCESS/2024-07-26",
@@ -178,7 +179,6 @@
     "B_METHOD/DICTIONARY/Skeuomorphism.md",
     "B_METHOD/DICTIONARY/macOS.md",
     "B_METHOD/DICTIONARY/Nostalgia.md",
-    "A_INSPIRATION/README.md",
     "B_METHOD/PROCESS/2024-05-15",
     "A_INSPIRATION/BIBLIOGRAPHY",
     "A_INSPIRATION/PROCESS/2024-03-28/Introduction_to_Master_Thesis.md",
