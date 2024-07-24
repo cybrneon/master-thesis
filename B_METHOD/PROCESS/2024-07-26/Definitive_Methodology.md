@@ -63,5 +63,8 @@ If they need or look lost, I can give them ideas of apps they can open:
 - Internet
 - Customisation
 
+#### Phase 3 - Conclusion
+Ask questions
+
 ### Epilogue
 Maybe interview some UI designers face to face (or online if not possible).
