@@ -1,4 +1,4 @@
-# Methodology Design
+# 1st Methodology Design
 
 The original methodology was putting a device in front of people and asking them to use and interact with the UI, while explaining what they're doing and feeling to me at the same time. The definitive methodology will be almost identical.
 

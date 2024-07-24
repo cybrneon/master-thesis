@@ -15,5 +15,8 @@
 ### [Methodology Design](PROCESS/2024-07-12/Methodology_Design.md)
 **2024-07-12:** Designing and refining the definitive methodology, user testing.
 
+### [Definitive Methodology](PROCESS/2024-07-26/Definitive_Methodology.md)
+**2024-07-26:** Definitive Methodology (work-in-progress)
+
 # DICTIONARY
 [macOS](DICTIONARY/macOS.md) [Nostalgia](DICTIONARY/Nostalgia.md) [Skeuomorphism](DICTIONARY/Skeuomorphism.md) [Windows](DICTIONARY/Windows.md)

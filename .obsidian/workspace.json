@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
+                "file": "C_DATA/THOUGHTS/Thoughts_Collection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
+                "file": "C_DATA/THOUGHTS/Thoughts_Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
+                "file": "C_DATA/THOUGHTS/Thoughts_Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md"
+                "file": "C_DATA/THOUGHTS/Thoughts_Collection.md"
               }
             }
           }
@@ -147,20 +147,22 @@
   },
   "active": "3f234701adb81a66",
   "lastOpenFiles": [
-    "B_METHOD/README.md",
-    "D_OUTPUT/README.md",
-    "C_DATA/README.md",
+    "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
     "C_DATA/THOUGHTS/Thoughts_Collection.md",
-    "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
-    "C_DATA/THOUGHTS",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "B_METHOD/README.md",
+    "C_DATA/README.md",
+    "README.md",
+    "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
+    "B_METHOD/PROCESS/2024-07-26",
+    "D_OUTPUT/README.md",
+    "C_DATA/THOUGHTS",
     "E_ASSETS/method/devices-excel-screenshot.png",
     "E_ASSETS/method/Screenshot 2024-07-15 at 17.47.38.png",
     "B_METHOD/Methodology Canvas.canvas",
     "E_ASSETS/method/user-tests-disposition-scheme.png",
     "E_ASSETS/method",
     "B_METHOD/PROCESS/2024-06-07/Presentation_of_Early_Findings.md",
-    "README.md",
     "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
     "PROCESS/2024-06-07/Presentation_of_First_Insights.md",
     "PROCESS/2024-06-07",
@@ -179,7 +181,6 @@
     "A_INSPIRATION/README.md",
     "B_METHOD/PROCESS/2024-05-15",
     "A_INSPIRATION/BIBLIOGRAPHY",
-    "B_METHOD/PROCESS",
     "A_INSPIRATION/PROCESS/2024-03-28/Introduction_to_Master_Thesis.md",
     "E_ASSETS/repo-images/skeumorphism_output.png",
     "E_ASSETS/repo-images/skeumorphism_data.png",
@@ -191,7 +192,6 @@
     "2024-03-28/README.md",
     "A_INSPIRATION/2024-04-15.md",
     "A_INSPIRATION/2024-03-28/01_Intro Master Thesis.md",
-    "2024-03-29.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

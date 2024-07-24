@@ -33,6 +33,9 @@ Urbano, I. C. V. P., Guerreiro, J. P. V., & Nicolau, H. M. A. A. (2022b). From s
 
 Wu, L., Lei, T., Li, J., & Li, B. (2015). Skeuomorphism and Flat Design: Evaluating Users’ Emotion Experience in Car Navigation Interface Design. In A. Marcus (Ed.), _Design, User Experience, and Usability: Design Discourse_ (Vol. 9186, pp. 567–575). Springer International Publishing. [https://doi.org/10.1007/978-3-319-20886-2_53](https://doi.org/10.1007/978-3-319-20886-2_53)
 
+### Podcasts
+Romero, T., & Romero, T. (2024, May 4). The lies, myths, and secrets of Japanese UI design (No. 202) [Audio podcast episode] - In _Disrupting Japan: Startups and Venture Capital in Japan - What you need to know about startups and innovation in Japan_. https://www.disruptingjapan.com/the-lies-myths-and-secrets-of-japanese-ui-design/
+
 ### Websites
 _Frutiger Aero_. (2024, May 13). Aesthetics Wiki. [https://aesthetics.fandom.com/wiki/Frutiger_Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 
@@ -41,6 +44,8 @@ Darius, M. (2023a, October 19). _From Paper Ballots to Pixels: Tracing the histo
 Darius, M. (2023b, October 19). _The Quiet Disappearance of Skeuomorphism in Modern UI: A Re-examination_. [https://skeuomorphic.design/p/the-quiet-disappearance-of-skeuomorphism](https://skeuomorphic.design/p/the-quiet-disappearance-of-skeuomorphism)
 
 Darius, M. (2023c, October 19). _Unsung Revolutions: A Brief History of Natural User Interfaces_. [https://skeuomorphic.design/p/unsung-revolutions-a-brief-history](https://skeuomorphic.design/p/unsung-revolutions-a-brief-history)
+
+Hein, B. (2015, July 26). _Jony Ive explains why he decided to gut skeuomorphism from IOS 7_. Cult of Mac. https://www.cultofmac.com/246312/jony-ive-explains-why-he-decided-to-gut-skeuomorphism-out-of-ios/
 
 Irish, R. (2022, August 23). _What Apple learned from skeuomorphism and why it still matters_. AppleInsider. [https://appleinsider.com/articles/22/08/23/what-apple-learned-from-skeuomorphism-and-why-it-still-matters](https://appleinsider.com/articles/22/08/23/what-apple-learned-from-skeuomorphism-and-why-it-still-matters)
 
