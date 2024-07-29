@@ -31,7 +31,18 @@ The second **Survey, for People,** is directed to the ordinary users who use the
 
 ### The User Tests (Qualitative Results)
 The user tests are going to be documented with photos, videos and an audio recording of course. These tests will be super important as I will have to be super observant and attentive to what the person will do and think.
-#### Phase 1 - Small talk
+
+#### 0. Range of People
+##### Generation Z (1997-2010)
+People who grew up with diverse technologies.
+
+##### Millennials (1981-1996)
+People who grew up during the boom of the personal computer, and discovered the internet.
+
+##### Generation X (1965-1980)
+People who experienced a big chunk of the computer revolution and saw game consoles and computers gently sliding into homes.
+
+#### 1. Phase 1 - Small talk
 Introducing the experience and asking basic first questions to learn more about the person that will take part in this experience.
 
 *This experience is about user interfaces, and especially a wide spectrum of skeuomorphic user interfaces, where I'm trying to understand how ordinary people use, view and feel these interfaces that designers conceive.*
@@ -40,7 +51,7 @@ Introducing the experience and asking basic first questions to learn more about 
 
 *Have you ever used one of these devices on the table?*
 
-#### Phase 2 - User Test
+#### 2. Phase 2 - User Test
 The goal is to let the user explore by themselves.
 If they need or look lost, I can give them ideas of apps they can open:
 
@@ -63,7 +74,7 @@ If they need or look lost, I can give them ideas of apps they can open:
 - Internet
 - Customisation
 
-#### Phase 3 - Conclusion
+#### 3. Phase 3 - Conclusion
 Ask questions
 
 ### Epilogue
