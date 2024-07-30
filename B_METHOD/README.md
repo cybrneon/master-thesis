@@ -18,5 +18,9 @@
 ### [Definitive Methodology](PROCESS/2024-07-26/Definitive_Methodology.md)
 **2024-07-26:** Definitive Methodology (work-in-progress)
 
+### [Early Thesis Structure](PROCESS/2024-07-30/Early_Thesis_Structure.md)
+**2024-07-30:** First draft of how I see the thesis structure itself.
+
+
 # DICTIONARY
 [macOS](DICTIONARY/macOS.md) [Nostalgia](DICTIONARY/Nostalgia.md) [Skeuomorphism](DICTIONARY/Skeuomorphism.md) [Windows](DICTIONARY/Windows.md)

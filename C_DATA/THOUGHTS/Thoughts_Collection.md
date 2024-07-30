@@ -14,3 +14,5 @@
   “This is the first post-Retina (Display) UI (user interface), with amazing graphics processing thanks to tremendous GPU (graphics processing unit) power growth, so we had a different set of tools to bring to bear on the problem as compared to seven years ago (when the iPhone first launched). Before, the shadowing effect we used was a great way to distract from the limitations of the display. But with a display that’s this precise, there’s nowhere to hide. So we wanted a clear typography.”
   Jony Ive, September 2013
 - A race to dematerialisation, also through interfaces? Is this why people want to bring back skeuomorphism and all that style?
+- We witnessed the voyage from skeuomorphic, realistic and 3D UI, to complete flat UIs, because that was the trend, and now we're kind of backtracking? We're witnessing a rebirth of skeuomorphism in a new way, shape and form.
+  WHY? HOW IS IT COMING BACK? (They call that Flat 2.0, Google called it Material Design in 2014 *-Now at version 3-*, Microsoft called it Fluent Design in 2017 *-Now at version 2-*).

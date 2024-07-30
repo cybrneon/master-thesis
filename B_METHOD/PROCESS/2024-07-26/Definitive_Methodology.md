@@ -34,10 +34,10 @@ The user tests are going to be documented with photos, videos and an audio recor
 
 #### 0. Range of People
 ##### Generation Z (1997-2010)
-People who grew up with diverse technologies.
+People who grew up with a plethora of technologies.
 
 ##### Millennials (1981-1996)
-People who grew up during the boom of the personal computer, and discovered the internet.
+People who grew up during the boom of the personal computer, and discovered the internet in its early days and form.
 
 ##### Generation X (1965-1980)
 People who experienced a big chunk of the computer revolution and saw game consoles and computers gently sliding into homes.
@@ -75,7 +75,9 @@ If they need or look lost, I can give them ideas of apps they can open:
 - Customisation
 
 #### 3. Phase 3 - Conclusion
-Ask questions
+- We're kind of making a comeback to a new kind of skeuomorphic design, what do you think we'll see in the near future in terms of UI?
+  What about in 10 years?
+- rjefowexwijei
 
 ### Epilogue
-Maybe interview some UI designers face to face (or online if not possible).
+Maybe interview some UI designers face to face (or online, if not possible).
