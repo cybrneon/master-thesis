@@ -16,3 +16,5 @@
 - A race to dematerialisation, also through interfaces? Is this why people want to bring back skeuomorphism and all that style?
 - We witnessed the voyage from skeuomorphic, realistic and 3D UI, to complete flat UIs, because that was the trend, and now we're kind of backtracking? We're witnessing a rebirth of skeuomorphism in a new way, shape and form.
   WHY? HOW IS IT COMING BACK? (They call that Flat 2.0, Google called it Material Design in 2014 *-Now at version 3-*, Microsoft called it Fluent Design in 2017 *-Now at version 2-*).
+- Emotional responses!
+- On a video about *Flat Design is Dead* form Malewicz, he mentions that because of the UI landscape today and the boredom from flat design, people are just becoming *Figma Operators*, doing drag and drops from design systems everyday.

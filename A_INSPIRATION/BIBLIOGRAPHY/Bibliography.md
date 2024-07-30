@@ -19,6 +19,8 @@ Magaudda, P., & Minniti, S. (2019). Retromedia-in-practice: A practice theory ap
 
 Meng, M. D., & Leary, R. B. (2022). Mitigating the detrimental effect of skeuomorphism on gambling behavior. _Journal of Consumer Affairs_, _56_(2), 969–981. [https://doi.org/10.1111/joca.12427](https://doi.org/10.1111/joca.12427)
 
+Oswald, D. (2018, July). _Affordances and Metaphors Revisited: Testing Flat vs. Skeuomorph Design with Digital Natives and Digital Immigrants_. Proceedings of the 32nd International BCS Human Computer Interaction Conference. [https://doi.org/10.14236/ewic/HCI2018.57](https://doi.org/10.14236/ewic/HCI2018.57)
+
 Page, T. (2014). Skeuomorphism or flat design: Future directions in mobile device User Interface (UI) design education. _International Journal of Mobile Learning and Organisation_, _8_(2), 130. [https://doi.org/10.1504/IJMLO.2014.062350](https://doi.org/10.1504/IJMLO.2014.062350)
 
 Spiliotopoulos, K., Rigou, M., & Sirmakessis, S. (2018). A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective. _Multimodal Technologies and Interaction_, _2_(2), 31. [https://doi.org/10.3390/mti2020031](https://doi.org/10.3390/mti2020031)
@@ -35,6 +37,17 @@ Wu, L., Lei, T., Li, J., & Li, B. (2015). Skeuomorphism and Flat Design: Evaluat
 
 ### Podcasts
 Romero, T., & Romero, T. (2024, May 4). The lies, myths, and secrets of Japanese UI design (No. 202) [Audio podcast episode] - In _Disrupting Japan: Startups and Venture Capital in Japan - What you need to know about startups and innovation in Japan_. https://www.disruptingjapan.com/the-lies-myths-and-secrets-of-japanese-ui-design/
+
+### Videos
+jerry woo hu. (2020, October 19). _Apple Design Part 1: Skeuomorphism_ [Video]. 11'18".YouTube. https://www.youtube.com/watch?v=jG2iaU-JVhI
+
+jerry woo hu. (2021, January 1). _Apple Design Part 2: Beyond flat_ [Video]. 15'44". YouTube. https://www.youtube.com/watch?v=8XjuE-2k1z8
+
+Malewicz. (2024, February 26). _UI Design Trend 2024: Plasticity_ [Video]. 8'05". YouTube. https://www.youtube.com/watch?v=w1kITFbUU1U
+
+Malewicz. (2023, November 29). _Flat design is OVER. What’s next?_ [Video]. 8'.YouTube. https://www.youtube.com/watch?v=WDBLKbGGUTM
+
+Phoebe Yu. (2024, July 15). _Japanese web design: weird, but it works. Here’s why_ [Video]. 11'48".YouTube. https://www.youtube.com/watch?v=vi8pyS076a8
 
 ### Websites
 _Frutiger Aero_. (2024, May 13). Aesthetics Wiki. [https://aesthetics.fandom.com/wiki/Frutiger_Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
