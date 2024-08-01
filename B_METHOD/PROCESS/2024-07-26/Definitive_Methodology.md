@@ -7,8 +7,7 @@ The first **Survey, for Designers,** is directed to the people who design stuff.
 
 The second **Survey, for People,** is directed to the ordinary users who use the interfaces that designers design every day.
 
-- **Survey for Designers**
-  https://tally.so/r/nG0Vbe
+- **Survey for Designers** (https://tally.so/r/nG0Vbe)
 	1. Are you familiar with Skeuomorphism?
 	2. Are you into User Interfaces?
 		1. Do you have a preferred style of user interface you like to design? And Why?
@@ -18,8 +17,7 @@ The second **Survey, for People,** is directed to the ordinary users who use the
 	5. In your opinion, what's next for user interfaces design? What if we project ourselves to 2035 (or further), what do you see?
 	6. Would you be interested in taking part in real-life user tests?
 
-- **Survey for People**
-  https://tally.so/r/meEGyl
+- **Survey for People** (https://tally.so/r/meEGyl)
 	1. Are you familiar with Skeuomorphism?
 	2. What computer and/or phone do you currently own?
 	3. What is your age?
