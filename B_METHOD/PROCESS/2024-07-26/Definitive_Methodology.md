@@ -13,9 +13,11 @@ The second **Survey, for People,** is directed to the ordinary users who use the
 		1. Do you have a preferred style of user interface you like to design? And Why?
 		2. Have you ever designed a skeuomorphic user interface? If yes, when? And what was the mission?
 	3. How would you define the style of user interfaces on the web in 2024?
-	4. Do you think we reached the peak of Flat Design?
-	5. In your opinion, what's next for user interfaces design? What if we project ourselves to 2035 (or further), what do you see?
-	6. Would you be interested in taking part in real-life user tests?
+	4. How would you define the style of user interfaces on devices like phones, computers or any other smart device in 2024?
+	5. Do you think we reached the peak of Flat Design?
+	6. In your opinion, what's next for user interfaces design? What if we project ourselves to 2035 (or further), what do you see?
+	7. I have to ask it... What do you think about AI making its way into the design process, or doing the whole design process as a whole? (In UI+UX, but not only)
+	8. Would you be interested in taking part in real-life user tests?
 
 - **Survey for People** (https://tally.so/r/meEGyl)
 	1. Are you familiar with Skeuomorphism?
