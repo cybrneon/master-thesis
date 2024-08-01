@@ -18,3 +18,5 @@
   WHY? HOW IS IT COMING BACK? (They call that Flat 2.0, Google called it Material Design in 2014 *-Now at version 3-*, Microsoft called it Fluent Design in 2017 *-Now at version 2-*).
 - Emotional responses!
 - On a video about *Flat Design is Dead* form Malewicz, he mentions that because of the UI landscape today and the boredom from flat design, people are just becoming *Figma Operators*, doing drag and drops from design systems everyday.
+- Nostalgia is a spacio-temporary experience (Space and Time).
+- Are people going to feel nostalgic during the experiences?
