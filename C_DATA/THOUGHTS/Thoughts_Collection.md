@@ -20,3 +20,4 @@
 - On a video about *Flat Design is Dead* form Malewicz, he mentions that because of the UI landscape today and the boredom from flat design, people are just becoming *Figma Operators*, doing drag and drops from design systems everyday.
 - Nostalgia is a spacio-temporary experience (Space and Time).
 - Are people going to feel nostalgic during the experiences?
+- Creating user interfaces closer to existing objects, human-made machinery and most importantly nature (ex. Frutiger Eco, subgenre of Frutiger Aero).
