@@ -21,6 +21,5 @@
 ### [Early Thesis Structure](PROCESS/2024-07-30/Early_Thesis_Structure.md)
 **2024-07-30:** First draft of how I see the thesis structure itself.
 
-
-# DICTIONARY
-[macOS](DICTIONARY/macOS.md) [Nostalgia](DICTIONARY/Nostalgia.md) [Skeuomorphism](DICTIONARY/Skeuomorphism.md) [Windows](DICTIONARY/Windows.md)
+### [S.O.S. How should I start? And where?](PROCESS/2024-09-04/How_To_Start.md)
+**2024-09-04:** Small meeting with Nicolas Nova to discuss where should I begin.

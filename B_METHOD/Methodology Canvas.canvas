@@ -1,6 +1,901 @@
 {
-	"nodes":[
-		{"id":"1aed939edf57e819","type":"file","file":"B_METHOD/DICTIONARY/Skeuomorphism.md","x":-860,"y":-540,"width":400,"height":540,"color":"3"}
-	],
-	"edges":[]
+  "nodes": [
+    {
+      "id": "29d607946b904fc7",
+      "type": "text",
+      "text": "Mimetic Approach",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -443,
+      "y": -786,
+      "width": 212,
+      "height": 60
+    },
+    {
+      "id": "a9c57757e1b6e0e2",
+      "type": "text",
+      "text": "Metaphores",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -416,
+      "y": -620,
+      "width": 157,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "02191b1ef5f1f931",
+      "type": "text",
+      "text": "Affordance",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -200,
+      "y": -620,
+      "width": 160,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "3ee8ac937dc0aa4d",
+      "type": "text",
+      "text": "Accessibility",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -180,
+      "y": -140,
+      "width": 160,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "5e07dee529b04cf1",
+      "type": "text",
+      "text": "Nostalgia",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1783,
+      "y": 80,
+      "width": 164,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "fc96ba8238934542",
+      "type": "text",
+      "text": "Positiveness",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -840,
+      "y": 660,
+      "width": 157,
+      "height": 60
+    },
+    {
+      "id": "1db8b5f41647fb65",
+      "type": "text",
+      "text": "Accomplishement",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -643,
+      "y": 660,
+      "width": 183,
+      "height": 60
+    },
+    {
+      "id": "b100a35e3b8cf287",
+      "type": "text",
+      "text": "Materiality",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1681,
+      "y": -353,
+      "width": 157,
+      "height": 59,
+      "color": "4"
+    },
+    {
+      "id": "451ad2b17dd94f8b",
+      "type": "text",
+      "text": "Intuitiveness",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 195,
+      "y": -580,
+      "width": 170,
+      "height": 60
+    },
+    {
+      "id": "decb1489f7269dac",
+      "type": "text",
+      "text": "Cognitive Ability",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": -786,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "86c04d8fdc33ef3c",
+      "type": "text",
+      "text": "Visual Cues",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 218,
+      "y": -710,
+      "width": 125,
+      "height": 60
+    },
+    {
+      "id": "b886c74477fb1d44",
+      "type": "text",
+      "text": "Functionality",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -755,
+      "y": -816,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "fa0fbe8dfd5fed42",
+      "type": "text",
+      "text": "Visual Style (Aesthetics)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1252,
+      "y": -566,
+      "width": 275,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "c17a6565996a7bc8",
+      "type": "text",
+      "text": "Apple's iOS and Mac OS X",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1426,
+      "y": -1166,
+      "width": 280,
+      "height": 59
+    },
+    {
+      "id": "b326123c66953089",
+      "type": "text",
+      "text": "Microsoft's Windows Phone and Windows 8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1089,
+      "y": -1166,
+      "width": 265,
+      "height": 59
+    },
+    {
+      "id": "02216bd448afa4ad",
+      "type": "text",
+      "text": "An element of a graphical user interface which mimics a physical object",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1411,
+      "y": -966,
+      "width": 250,
+      "height": 134
+    },
+    {
+      "id": "61be5bc977c47964",
+      "type": "text",
+      "text": "Simple and minimalist, bold colors, focus on typography",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1082,
+      "y": -966,
+      "width": 250,
+      "height": 134
+    },
+    {
+      "id": "c96a5415ededf8e7",
+      "type": "text",
+      "text": "Skeuomorphism",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1376,
+      "y": -726,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "b317be493f654724",
+      "type": "text",
+      "text": "Flat Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1035,
+      "y": -726,
+      "width": 155,
+      "height": 60
+    },
+    {
+      "id": "f32b94b4dd085c8d",
+      "type": "text",
+      "text": "Elements from the real world",
+      "styleAttributes": {},
+      "x": -1765,
+      "y": -940,
+      "width": 190,
+      "height": 82
+    },
+    {
+      "id": "4f0280c2de9103d6",
+      "type": "text",
+      "text": "Audio and Sound Effects",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1705,
+      "y": -566,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "15f0a23f69aa5927",
+      "type": "text",
+      "text": "Mobile",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -649,
+      "y": 320,
+      "width": 112,
+      "height": 60
+    },
+    {
+      "id": "2e4d53d169d4d8fa",
+      "type": "text",
+      "text": "Desktop",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -512,
+      "y": 320,
+      "width": 120,
+      "height": 60
+    },
+    {
+      "id": "3a3529098ddfb14a",
+      "type": "text",
+      "text": "Spatial (AR/VR)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -367,
+      "y": 320,
+      "width": 190,
+      "height": 60
+    },
+    {
+      "id": "de3807e718ca8256",
+      "type": "text",
+      "text": "Website Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -140,
+      "y": 80,
+      "width": 185,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "33ffc5647e5967d4",
+      "type": "text",
+      "text": "Plus All Frutiger Stuff Styles",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1312,
+      "y": 550,
+      "width": 192,
+      "height": 80
+    },
+    {
+      "id": "7f7e8e377d395005",
+      "type": "text",
+      "text": "Frutiger Aurora",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1227,
+      "y": 400,
+      "width": 192,
+      "height": 60
+    },
+    {
+      "id": "4af913caf9b599ef",
+      "type": "text",
+      "text": "Frutiger Eco",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -996,
+      "y": 400,
+      "width": 165,
+      "height": 60
+    },
+    {
+      "id": "7a4c5d175506a17d",
+      "type": "text",
+      "text": "Frutiger Aero",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1173,
+      "y": 230,
+      "width": 170,
+      "height": 60
+    },
+    {
+      "id": "903f9f7f22cee730",
+      "type": "text",
+      "text": "The New Skeuomorphism?",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1386,
+      "y": 230,
+      "width": 170,
+      "height": 60
+    },
+    {
+      "id": "468a7252cee7ac1d",
+      "type": "text",
+      "text": "Reappropriation of Analog Technologies",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1798,
+      "y": 380,
+      "width": 195,
+      "height": 58
+    },
+    {
+      "id": "c3c97154f199082e",
+      "type": "text",
+      "text": "Glassmorphism",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1456,
+      "y": 400,
+      "width": 190,
+      "height": 60
+    },
+    {
+      "id": "3a3dc60157939602",
+      "type": "text",
+      "text": "Retromedia",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1761,
+      "y": 230,
+      "width": 121,
+      "height": 60
+    },
+    {
+      "id": "32e3797fd8d6933a",
+      "type": "text",
+      "text": "Emotion",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -815,
+      "y": 490,
+      "width": 121,
+      "height": 60
+    },
+    {
+      "id": "aed65aa021a27b74",
+      "type": "text",
+      "text": "Other Aeras",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1916,
+      "y": -264,
+      "width": 164,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "ad24c05814bfcf75",
+      "type": "text",
+      "text": "Architecture",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2255,
+      "y": -324,
+      "width": 159,
+      "height": 53
+    },
+    {
+      "id": "95c81b7068c580dc",
+      "type": "text",
+      "text": "Interior Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2280,
+      "y": -211,
+      "width": 184,
+      "height": 53
+    },
+    {
+      "id": "2627ef671a34c8b7",
+      "type": "text",
+      "text": "UX",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 240,
+      "y": -324,
+      "width": 80,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "03a3a3763a90d4d3",
+      "type": "text",
+      "text": "Input / Output",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 440,
+      "y": -170,
+      "width": 199,
+      "height": 60
+    },
+    {
+      "id": "27d80dd6c8b8ba35",
+      "type": "text",
+      "text": "Perception",
+      "styleAttributes": {},
+      "x": 440,
+      "y": -324,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "2b16a7e9a402fc0f",
+      "type": "text",
+      "text": "Skeuomorphism",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -720,
+      "y": -324,
+      "width": 180,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "c96114a2239386d7",
+      "type": "text",
+      "text": "Legacy",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1213,
+      "y": 80,
+      "width": 125,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "2afec8e1cae8b21f",
+      "type": "text",
+      "text": "User Interface",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -537,
+      "y": 80,
+      "width": 170,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "4f8ad8dedc2a5f9c",
+      "type": "text",
+      "text": "Icon Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -337,
+      "y": 80,
+      "width": 160,
+      "height": 60,
+      "color": "4"
+    }
+  ],
+  "edges": [
+    {
+      "id": "90b889be77e3e77c",
+      "fromNode": "fa0fbe8dfd5fed42",
+      "fromSide": "top",
+      "toNode": "b317be493f654724",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b51f9e4c54bd9624",
+      "fromNode": "7a4c5d175506a17d",
+      "fromSide": "bottom",
+      "toNode": "4af913caf9b599ef",
+      "toSide": "top"
+    },
+    {
+      "id": "053058000084d94e",
+      "fromNode": "7a4c5d175506a17d",
+      "fromSide": "bottom",
+      "toNode": "c3c97154f199082e",
+      "toSide": "top"
+    },
+    {
+      "id": "7fda5f511deaa29a",
+      "fromNode": "7a4c5d175506a17d",
+      "fromSide": "bottom",
+      "toNode": "7f7e8e377d395005",
+      "toSide": "top"
+    },
+    {
+      "id": "3d34ae8a948e1171",
+      "fromNode": "7a4c5d175506a17d",
+      "fromSide": "bottom",
+      "toNode": "33ffc5647e5967d4",
+      "toSide": "top"
+    },
+    {
+      "id": "9b3b13f6ffcc82ea",
+      "fromNode": "2627ef671a34c8b7",
+      "fromSide": "top",
+      "toNode": "02191b1ef5f1f931",
+      "toSide": "right"
+    },
+    {
+      "id": "b7cf36521d549ba8",
+      "fromNode": "2627ef671a34c8b7",
+      "fromSide": "bottom",
+      "toNode": "3ee8ac937dc0aa4d",
+      "toSide": "right"
+    },
+    {
+      "id": "be5ebfd921e721d7",
+      "fromNode": "a9c57757e1b6e0e2",
+      "fromSide": "right",
+      "toNode": "02191b1ef5f1f931",
+      "toSide": "left"
+    },
+    {
+      "id": "4e6ace85a0a164ff",
+      "fromNode": "02191b1ef5f1f931",
+      "fromSide": "left",
+      "toNode": "a9c57757e1b6e0e2",
+      "toSide": "right"
+    },
+    {
+      "id": "31f3f2605ab02df5",
+      "fromNode": "02191b1ef5f1f931",
+      "fromSide": "top",
+      "toNode": "decb1489f7269dac",
+      "toSide": "bottom"
+    },
+    {
+      "id": "02bf72c04bbd6173",
+      "fromNode": "fa0fbe8dfd5fed42",
+      "fromSide": "top",
+      "toNode": "c96a5415ededf8e7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "b6eae2eac5bf468e",
+      "fromNode": "b317be493f654724",
+      "fromSide": "top",
+      "toNode": "61be5bc977c47964",
+      "toSide": "bottom"
+    },
+    {
+      "id": "64e3e6e089cbeea4",
+      "fromNode": "c96a5415ededf8e7",
+      "fromSide": "top",
+      "toNode": "02216bd448afa4ad",
+      "toSide": "bottom"
+    },
+    {
+      "id": "62ab1e1261eab8e7",
+      "styleAttributes": {},
+      "fromNode": "02216bd448afa4ad",
+      "fromSide": "top",
+      "toNode": "c17a6565996a7bc8",
+      "toSide": "bottom"
+    },
+    {
+      "id": "7bdea122079a44b3",
+      "styleAttributes": {},
+      "fromNode": "61be5bc977c47964",
+      "fromSide": "top",
+      "toNode": "b326123c66953089",
+      "toSide": "bottom"
+    },
+    {
+      "id": "dfd5f1e0f8726711",
+      "styleAttributes": {},
+      "fromNode": "a9c57757e1b6e0e2",
+      "fromSide": "top",
+      "toNode": "29d607946b904fc7",
+      "toSide": "bottom"
+    },
+    {
+      "id": "283de95e95caecd8",
+      "styleAttributes": {},
+      "fromNode": "02216bd448afa4ad",
+      "fromSide": "left",
+      "toNode": "f32b94b4dd085c8d",
+      "toSide": "right"
+    },
+    {
+      "id": "8453d2630e8e2a3e",
+      "styleAttributes": {},
+      "fromNode": "5e07dee529b04cf1",
+      "fromSide": "bottom",
+      "toNode": "3a3dc60157939602",
+      "toSide": "top"
+    },
+    {
+      "id": "fd4d4a7f53d49d27",
+      "styleAttributes": {},
+      "fromNode": "3a3dc60157939602",
+      "fromSide": "bottom",
+      "toNode": "468a7252cee7ac1d",
+      "toSide": "top"
+    },
+    {
+      "id": "9f77ddba0cd1bbf4",
+      "styleAttributes": {},
+      "fromNode": "2627ef671a34c8b7",
+      "fromSide": "top",
+      "toNode": "451ad2b17dd94f8b",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d09477347d4e5e80",
+      "styleAttributes": {},
+      "fromNode": "32e3797fd8d6933a",
+      "fromSide": "bottom",
+      "toNode": "fc96ba8238934542",
+      "toSide": "top"
+    },
+    {
+      "id": "547e1643033b7fef",
+      "styleAttributes": {},
+      "fromNode": "32e3797fd8d6933a",
+      "fromSide": "bottom",
+      "toNode": "1db8b5f41647fb65",
+      "toSide": "top"
+    },
+    {
+      "id": "72c279f68e0470b8",
+      "styleAttributes": {},
+      "fromNode": "451ad2b17dd94f8b",
+      "fromSide": "top",
+      "toNode": "86c04d8fdc33ef3c",
+      "toSide": "bottom"
+    },
+    {
+      "id": "123748a2259b592f",
+      "styleAttributes": {},
+      "fromNode": "decb1489f7269dac",
+      "fromSide": "right",
+      "toNode": "86c04d8fdc33ef3c",
+      "toSide": "top"
+    },
+    {
+      "id": "982b4662ed667a44",
+      "styleAttributes": {},
+      "fromNode": "aed65aa021a27b74",
+      "fromSide": "left",
+      "toNode": "ad24c05814bfcf75",
+      "toSide": "right"
+    },
+    {
+      "id": "776eadb9a975117b",
+      "styleAttributes": {},
+      "fromNode": "aed65aa021a27b74",
+      "fromSide": "left",
+      "toNode": "95c81b7068c580dc",
+      "toSide": "right"
+    },
+    {
+      "id": "18a52339c1c69e71",
+      "styleAttributes": {},
+      "fromNode": "2627ef671a34c8b7",
+      "fromSide": "right",
+      "toNode": "27d80dd6c8b8ba35",
+      "toSide": "left"
+    },
+    {
+      "id": "0537ec7247ada570",
+      "styleAttributes": {},
+      "fromNode": "2627ef671a34c8b7",
+      "fromSide": "right",
+      "toNode": "03a3a3763a90d4d3",
+      "toSide": "left"
+    },
+    {
+      "id": "72ce13583bc4d91e",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "top",
+      "toNode": "02191b1ef5f1f931",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5ef27b7b8ff73d19",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "top",
+      "toNode": "fa0fbe8dfd5fed42",
+      "toSide": "bottom"
+    },
+    {
+      "id": "ecb57b37a5283256",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "bottom",
+      "toNode": "c96114a2239386d7",
+      "toSide": "top"
+    },
+    {
+      "id": "8255ef16c9b52e7f",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "bottom",
+      "toNode": "3ee8ac937dc0aa4d",
+      "toSide": "top"
+    },
+    {
+      "id": "b20a09b23cd45050",
+      "fromNode": "c96114a2239386d7",
+      "fromSide": "bottom",
+      "toNode": "7a4c5d175506a17d",
+      "toSide": "top"
+    },
+    {
+      "id": "ec822f5d284dbd3f",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "right",
+      "toNode": "2627ef671a34c8b7",
+      "toSide": "left"
+    },
+    {
+      "id": "4f117cf707671a33",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "bottom",
+      "toNode": "2afec8e1cae8b21f",
+      "toSide": "top"
+    },
+    {
+      "id": "66567a70f12f3f33",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "bottom",
+      "toNode": "4f8ad8dedc2a5f9c",
+      "toSide": "top"
+    },
+    {
+      "id": "c536d3cee7414982",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "top",
+      "toNode": "a9c57757e1b6e0e2",
+      "toSide": "bottom"
+    },
+    {
+      "id": "6efbe34971a3d34c",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "bottom",
+      "toNode": "de3807e718ca8256",
+      "toSide": "top"
+    },
+    {
+      "id": "b6394d5667798293",
+      "fromNode": "2afec8e1cae8b21f",
+      "fromSide": "bottom",
+      "toNode": "15f0a23f69aa5927",
+      "toSide": "top"
+    },
+    {
+      "id": "3fd47ae0075f7921",
+      "fromNode": "2afec8e1cae8b21f",
+      "fromSide": "bottom",
+      "toNode": "2e4d53d169d4d8fa",
+      "toSide": "top"
+    },
+    {
+      "id": "1b70d6dc6e5bfbd9",
+      "fromNode": "2afec8e1cae8b21f",
+      "fromSide": "bottom",
+      "toNode": "3a3529098ddfb14a",
+      "toSide": "top"
+    },
+    {
+      "id": "49f590406865638c",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "left",
+      "toNode": "aed65aa021a27b74",
+      "toSide": "right"
+    },
+    {
+      "id": "09e7d598ccdaf15d",
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "top",
+      "toNode": "b886c74477fb1d44",
+      "toSide": "bottom"
+    },
+    {
+      "id": "e1a54c970cbaad72",
+      "styleAttributes": {},
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "bottom",
+      "toNode": "5e07dee529b04cf1",
+      "toSide": "top"
+    },
+    {
+      "id": "a91f75dbfbe40de7",
+      "styleAttributes": {},
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "left",
+      "toNode": "b100a35e3b8cf287",
+      "toSide": "right"
+    },
+    {
+      "id": "bef88df59f2949da",
+      "styleAttributes": {},
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "bottom",
+      "toNode": "32e3797fd8d6933a",
+      "toSide": "top"
+    },
+    {
+      "id": "a3ce2b7299b819bc",
+      "styleAttributes": {},
+      "fromNode": "2b16a7e9a402fc0f",
+      "fromSide": "top",
+      "toNode": "4f0280c2de9103d6",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d6472efb6fe3b2f8",
+      "styleAttributes": {},
+      "fromNode": "c96114a2239386d7",
+      "fromSide": "bottom",
+      "toNode": "903f9f7f22cee730",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
 }

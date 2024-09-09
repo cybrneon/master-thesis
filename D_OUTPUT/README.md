@@ -3,5 +3,5 @@
 
 ### Writing
 
-#### [2024-08-06](WRITING/2024-08-06.md)
-Initialising and organising the repo for writing.
+#### [240902_Structure](WRITING/0_Table-of-Contents/240902_Structure.md)
+The Thesis's Table of Contents.

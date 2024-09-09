@@ -51,7 +51,9 @@ Introducing the experience and asking basic first questions to learn more about 
 
 *In front of you are all types of devices you can try and explore. Please define and explain your process, thoughts and actions out loud.*
 
-*Have you ever used one of these devices on the table?*
+*Have you ever used one of these devices on the table? Can you think of one example for a skeuomorphic user interface you have in mind?*
+
+I can also ask some of the questions I used in the survey.
 
 #### 2. Phase 2 - User Test
 The goal is to let the user explore by themselves.
@@ -76,10 +78,14 @@ If they need or look lost, I can give them ideas of apps they can open:
 - Internet
 - Customisation
 
+**Notes App**
+- What do you feel landing on a page of this type?
+
 #### 3. Phase 3 - Conclusion
+- Now that you've experienced Skeuomorphism again, do you think Skeuomorphism was relevant? Do you think it could still be relevant today? How?
+- Do you feel Skeuomorphism can be
 - We're kind of making a comeback to a new kind of skeuomorphic design, what do you think we'll see in the near future in terms of UI?
   What about in 10 years?
-- rjefowexwijei
 
 ### Epilogue
 Maybe interview some UI designers face to face (or online, if not possible).

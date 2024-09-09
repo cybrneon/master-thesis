@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf2870652e96abe6",
+        "id": "3239c4d466562c88",
         "type": "tabs",
         "children": [
           {
-            "id": "3f234701adb81a66",
+            "id": "95e39eb63c6916a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
+                "file": "B_METHOD/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
+                "file": "B_METHOD/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
+                "file": "B_METHOD/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md"
+                "file": "B_METHOD/README.md"
               }
             }
           }
@@ -145,20 +145,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f234701adb81a66",
+  "active": "95e39eb63c6916a3",
   "lastOpenFiles": [
     "C_DATA/THOUGHTS/Thoughts_Collection.md",
-    "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
-    "B_METHOD/PROCESS/2024-07-30/Early_Thesis_Structure.md",
-    "D_OUTPUT/README.md",
-    "D_OUTPUT/WRITING/2024-08-06.md",
     "C_DATA/README.md",
+    "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/1_Introduction/240902_Introduction.md",
+    "D_OUTPUT/WRITING/0_Table-of-Contents/240902_Structure.md",
+    "D_OUTPUT/WRITING/2_Materiality/240902_Materiality.md",
+    "B_METHOD/PROCESS/2024-09-04/How_To_Start.md",
+    "B_METHOD/README.md",
+    "B_METHOD/Methodology Canvas.canvas",
+    "B_METHOD/PROCESS/2024-07-30/Early_Thesis_Structure.md",
+    "B_METHOD/DICTIONARY/Skeuomorphism.md",
+    "B_METHOD/PROCESS/2024-09-04",
+    "C_DATA/INTERVIEWS",
+    "D_OUTPUT/WRITING/2_Materiality",
+    "D_OUTPUT/WRITING/1_Introduction",
+    "D_OUTPUT/WRITING/0_Table-of-Contents",
+    "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
     "D_OUTPUT/WRITING/2024-08-06/Untitled.md",
     "D_OUTPUT/WRITING/2024-08-06",
     "D_OUTPUT/WRITING",
-    "C_DATA/Untitled",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
-    "B_METHOD/README.md",
     "B_METHOD/PROCESS/2024-07-30",
     "A_INSPIRATION/README.md",
     "README.md",
@@ -167,31 +176,21 @@
     "C_DATA/THOUGHTS",
     "E_ASSETS/method/devices-excel-screenshot.png",
     "E_ASSETS/method/Screenshot 2024-07-15 at 17.47.38.png",
-    "B_METHOD/Methodology Canvas.canvas",
     "E_ASSETS/method/user-tests-disposition-scheme.png",
-    "E_ASSETS/method",
     "B_METHOD/PROCESS/2024-06-07/Presentation_of_Early_Findings.md",
     "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
     "PROCESS/2024-06-07/Presentation_of_First_Insights.md",
-    "PROCESS/2024-06-07",
-    "PROCESS",
-    "B_METHOD/PROCESS/2024-06-07",
     "B_METHOD/PROCESS/2024-05-15/A-B_Testing.md",
     "B_METHOD/PROCESS/2024-05-14/Thinking_Methodology.md",
     "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
     "A_INSPIRATION/PROCESS/2024-04-15/Design_Research_Questions.md",
     "B_METHOD/DICTIONARY/Windows.md",
-    "B_METHOD/DICTIONARY/Skeuomorphism.md",
     "B_METHOD/DICTIONARY/macOS.md",
-    "B_METHOD/DICTIONARY/Nostalgia.md",
-    "A_INSPIRATION/PROCESS/2024-03-28/Introduction_to_Master_Thesis.md",
     "E_ASSETS/repo-images/skeumorphism_output.png",
     "E_ASSETS/repo-images/skeumorphism_data.png",
     "E_ASSETS/repo-images/skeumorphism_method.png",
     "E_ASSETS/repo-images/skeumorphism_inspiration.png",
     "E_ASSETS/repo-images/skeumorphism_hero.png",
-    "A_INSPIRATION/2024-03-28/Introduction.md",
-    "2024-04-15/README.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
