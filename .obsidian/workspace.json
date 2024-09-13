@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "3239c4d466562c88",
+        "id": "a446d67214ea8431",
         "type": "tabs",
         "children": [
           {
-            "id": "95e39eb63c6916a3",
+            "id": "915b5414e063ac8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B_METHOD/README.md",
+                "file": "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "dfc19cad3f90cc9e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "B_METHOD/Methodology_Canvas.canvas",
+                "viewState": {
+                  "x": -442.15172693606814,
+                  "y": 116.6850096795778,
+                  "zoom": -0.49979219925915375
+                }
               }
             }
           }
@@ -85,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B_METHOD/README.md",
+                "file": "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B_METHOD/README.md",
+                "file": "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B_METHOD/README.md"
+                "file": "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md"
               }
             }
           }
@@ -145,17 +160,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "95e39eb63c6916a3",
+  "active": "915b5414e063ac8e",
   "lastOpenFiles": [
+    "B_METHOD/Methodology_Canvas.canvas",
+    "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
+    "B_METHOD/README.md",
+    "B_METHOD/PROCESS/2024-09-13/Methodology_Canvas_130924.png",
+    "B_METHOD/PROCESS/2024-09-04/How_To_Start.md",
+    "B_METHOD/PROCESS/2024-09-13",
+    "PROCESS/Methodology_Canvas.md",
+    "PROCESS",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
     "C_DATA/THOUGHTS/Thoughts_Collection.md",
     "C_DATA/README.md",
     "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/1_Introduction/240902_Introduction.md",
     "D_OUTPUT/WRITING/0_Table-of-Contents/240902_Structure.md",
     "D_OUTPUT/WRITING/2_Materiality/240902_Materiality.md",
-    "B_METHOD/PROCESS/2024-09-04/How_To_Start.md",
-    "B_METHOD/README.md",
-    "B_METHOD/Methodology Canvas.canvas",
     "B_METHOD/PROCESS/2024-07-30/Early_Thesis_Structure.md",
     "B_METHOD/DICTIONARY/Skeuomorphism.md",
     "B_METHOD/PROCESS/2024-09-04",
@@ -167,25 +189,19 @@
     "D_OUTPUT/WRITING/2024-08-06/Untitled.md",
     "D_OUTPUT/WRITING/2024-08-06",
     "D_OUTPUT/WRITING",
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "B_METHOD/PROCESS/2024-07-30",
     "A_INSPIRATION/README.md",
     "README.md",
     "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
-    "B_METHOD/PROCESS/2024-07-26",
-    "C_DATA/THOUGHTS",
     "E_ASSETS/method/devices-excel-screenshot.png",
     "E_ASSETS/method/Screenshot 2024-07-15 at 17.47.38.png",
     "E_ASSETS/method/user-tests-disposition-scheme.png",
     "B_METHOD/PROCESS/2024-06-07/Presentation_of_Early_Findings.md",
-    "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
     "PROCESS/2024-06-07/Presentation_of_First_Insights.md",
     "B_METHOD/PROCESS/2024-05-15/A-B_Testing.md",
     "B_METHOD/PROCESS/2024-05-14/Thinking_Methodology.md",
     "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
     "A_INSPIRATION/PROCESS/2024-04-15/Design_Research_Questions.md",
-    "B_METHOD/DICTIONARY/Windows.md",
-    "B_METHOD/DICTIONARY/macOS.md",
     "E_ASSETS/repo-images/skeumorphism_output.png",
     "E_ASSETS/repo-images/skeumorphism_data.png",
     "E_ASSETS/repo-images/skeumorphism_method.png",

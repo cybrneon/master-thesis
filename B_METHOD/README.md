@@ -21,5 +21,8 @@
 ### [Early Thesis Structure](PROCESS/2024-07-30/Early_Thesis_Structure.md)
 **2024-07-30:** First draft of how I see the thesis structure itself.
 
+### [Methodology Canvas](Methodology_Canvas.canvas) (Opens Only in Obsidian)
+**2024-09-03:** Mapping words and themes coming from papers I red and interviews I conducted with people.
+
 ### [S.O.S. How should I start? And where?](PROCESS/2024-09-04/How_To_Start.md)
 **2024-09-04:** Small meeting with Nicolas Nova to discuss where should I begin.

@@ -60,6 +60,8 @@ Darius, M. (2023c, October 19). _Unsung Revolutions: A Brief History of Natural 
 
 Hein, B. (2015, July 26). _Jony Ive explains why he decided to gut skeuomorphism from IOS 7_. Cult of Mac. https://www.cultofmac.com/246312/jony-ive-explains-why-he-decided-to-gut-skeuomorphism-out-of-ios/
 
+Ilies, A. (2024, May 31). Frutiger Aero: the Trend of 2024? - elevenpm - Medium. _Medium_. https://medium.com/elevenpm/frutiger-aero-the-trend-of-2024-1be502c0b367
+
 Irish, R. (2022, August 23). _What Apple learned from skeuomorphism and why it still matters_. AppleInsider. [https://appleinsider.com/articles/22/08/23/what-apple-learned-from-skeuomorphism-and-why-it-still-matters](https://appleinsider.com/articles/22/08/23/what-apple-learned-from-skeuomorphism-and-why-it-still-matters)
 
 Manjoo, F. (2012, November 1). Should a Calendar App Look Like a Calendar? _Slate_. [https://slate.com/technology/2012/11/scott-forstall-fired-skeuomorphism-the-design-concept-thats-tearing-apple-and-the-tech-world-apart.html](https://slate.com/technology/2012/11/scott-forstall-fired-skeuomorphism-the-design-concept-thats-tearing-apple-and-the-tech-world-apart.html)
