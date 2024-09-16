@@ -21,6 +21,12 @@ Here is a list of themes I pulled from the Obsidian Methodology Canvas
 - **Visual Style (Aesthetics)**
   - The Skeuomorphism spectrum (Apple's Skeuomorphic Design Language and the industry.)
 
+- **Sound Design (Audio)**
+  - How sound design is important in UI.
+
+- **Animation and Motion Design**
+  - The importance of fluidity and movement, to replicate real world objects and materials.
+
 - **Legacy**
   - Frutiger Aero style and all subgenres.
   - The future of user interfaces, in VR and AR for example. Or in general, what's after? What's next?

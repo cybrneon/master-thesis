@@ -563,19 +563,6 @@
       "color": "4"
     },
     {
-      "id": "2afec8e1cae8b21f",
-      "type": "text",
-      "text": "User Interface",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -537,
-      "y": 80,
-      "width": 170,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "2e4d53d169d4d8fa",
       "type": "text",
       "text": "Desktop",
@@ -598,6 +585,19 @@
       "y": 320,
       "width": 190,
       "height": 60
+    },
+    {
+      "id": "2afec8e1cae8b21f",
+      "type": "text",
+      "text": "User Interface",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -537,
+      "y": 80,
+      "width": 170,
+      "height": 60,
+      "color": "4"
     }
   ],
   "edges": [
