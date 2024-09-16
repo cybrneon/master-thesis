@@ -12,66 +12,6 @@
       "label": "RESURGENCE ARE A RESULT OF NOSTALGIA"
     },
     {
-      "id": "7a4c5d175506a17d",
-      "type": "text",
-      "text": "Frutiger Aero",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1151,
-      "y": 290,
-      "width": 170,
-      "height": 60
-    },
-    {
-      "id": "4af913caf9b599ef",
-      "type": "text",
-      "text": "Frutiger Eco",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -974,
-      "y": 439,
-      "width": 165,
-      "height": 60
-    },
-    {
-      "id": "c3c97154f199082e",
-      "type": "text",
-      "text": "Glassmorphism",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1434,
-      "y": 439,
-      "width": 190,
-      "height": 60
-    },
-    {
-      "id": "7f7e8e377d395005",
-      "type": "text",
-      "text": "Frutiger Aurora",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1205,
-      "y": 439,
-      "width": 192,
-      "height": 60
-    },
-    {
-      "id": "33ffc5647e5967d4",
-      "type": "text",
-      "text": "Plus All Frutiger Stuff Styles",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1198,
-      "y": 560,
-      "width": 192,
-      "height": 80
-    },
-    {
       "id": "c17a6565996a7bc8",
       "type": "text",
       "text": "Apple's iOS and Mac OS X",
@@ -106,106 +46,6 @@
       "height": 134
     },
     {
-      "id": "b100a35e3b8cf287",
-      "type": "text",
-      "text": "Materiality",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1681,
-      "y": -353,
-      "width": 157,
-      "height": 59,
-      "color": "4"
-    },
-    {
-      "id": "aed65aa021a27b74",
-      "type": "text",
-      "text": "Other Aeras",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1916,
-      "y": -264,
-      "width": 164,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "b326123c66953089",
-      "type": "text",
-      "text": "Microsoft's Windows Phone and Windows 8",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1089,
-      "y": -1166,
-      "width": 265,
-      "height": 59
-    },
-    {
-      "id": "61be5bc977c47964",
-      "type": "text",
-      "text": "Simple and minimalist, bold colors, focus on typography",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1082,
-      "y": -966,
-      "width": 250,
-      "height": 134
-    },
-    {
-      "id": "ad24c05814bfcf75",
-      "type": "text",
-      "text": "Architecture",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -2255,
-      "y": -324,
-      "width": 159,
-      "height": 53
-    },
-    {
-      "id": "95c81b7068c580dc",
-      "type": "text",
-      "text": "Interior Design",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -2280,
-      "y": -211,
-      "width": 184,
-      "height": 53
-    },
-    {
-      "id": "4f0280c2de9103d6",
-      "type": "text",
-      "text": "Audio and Sound Effects",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1705,
-      "y": -566,
-      "width": 260,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "3ee8ac937dc0aa4d",
-      "type": "text",
-      "text": "Accessibility",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -180,
-      "y": -140,
-      "width": 160,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "c96a5415ededf8e7",
       "type": "text",
       "text": "Skeuomorphism",
@@ -228,93 +68,6 @@
       "y": -763,
       "width": 220,
       "height": 134
-    },
-    {
-      "id": "fa0fbe8dfd5fed42",
-      "type": "text",
-      "text": "Visual Style (Aesthetics)",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1252,
-      "y": -566,
-      "width": 275,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "b317be493f654724",
-      "type": "text",
-      "text": "Flat Design",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1035,
-      "y": -726,
-      "width": 155,
-      "height": 60
-    },
-    {
-      "id": "2b16a7e9a402fc0f",
-      "type": "text",
-      "text": "**Skeuomorphism**",
-      "styleAttributes": {
-        "textAlign": "center",
-        "shape": "pill"
-      },
-      "x": -720,
-      "y": -332,
-      "width": 180,
-      "height": 77,
-      "color": "5"
-    },
-    {
-      "id": "2627ef671a34c8b7",
-      "type": "text",
-      "text": "UX",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 240,
-      "y": -324,
-      "width": 80,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "03a3a3763a90d4d3",
-      "type": "text",
-      "text": "Input / Output",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 440,
-      "y": -170,
-      "width": 164,
-      "height": 60
-    },
-    {
-      "id": "27d80dd6c8b8ba35",
-      "type": "text",
-      "text": "Perception",
-      "styleAttributes": {},
-      "x": 440,
-      "y": -324,
-      "width": 164,
-      "height": 60
-    },
-    {
-      "id": "de3807e718ca8256",
-      "type": "text",
-      "text": "Website Design",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -140,
-      "y": 80,
-      "width": 185,
-      "height": 60,
-      "color": "4"
     },
     {
       "id": "fef86473bfbc27c1",
@@ -378,6 +131,122 @@
       "height": 60
     },
     {
+      "id": "b100a35e3b8cf287",
+      "type": "text",
+      "text": "Materiality",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1681,
+      "y": -353,
+      "width": 157,
+      "height": 59,
+      "color": "4"
+    },
+    {
+      "id": "aed65aa021a27b74",
+      "type": "text",
+      "text": "Other Aeras",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1916,
+      "y": -264,
+      "width": 164,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "ad24c05814bfcf75",
+      "type": "text",
+      "text": "Architecture",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2255,
+      "y": -324,
+      "width": 159,
+      "height": 53
+    },
+    {
+      "id": "95c81b7068c580dc",
+      "type": "text",
+      "text": "Interior Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2280,
+      "y": -211,
+      "width": 184,
+      "height": 53
+    },
+    {
+      "id": "4f0280c2de9103d6",
+      "type": "text",
+      "text": "Audio and Sound Effects",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1705,
+      "y": -566,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "3ee8ac937dc0aa4d",
+      "type": "text",
+      "text": "Accessibility",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -180,
+      "y": -140,
+      "width": 160,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "fa0fbe8dfd5fed42",
+      "type": "text",
+      "text": "Visual Style (Aesthetics)",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1252,
+      "y": -566,
+      "width": 275,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "2b16a7e9a402fc0f",
+      "type": "text",
+      "text": "**Skeuomorphism**",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "pill"
+      },
+      "x": -720,
+      "y": -332,
+      "width": 180,
+      "height": 77,
+      "color": "5"
+    },
+    {
+      "id": "2627ef671a34c8b7",
+      "type": "text",
+      "text": "UX",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 240,
+      "y": -324,
+      "width": 80,
+      "height": 60,
+      "color": "4"
+    },
+    {
       "id": "a04d5bdb07379855",
       "type": "text",
       "text": "Neuemorphism",
@@ -387,6 +256,164 @@
       "x": -1850,
       "y": 550,
       "width": 170,
+      "height": 60
+    },
+    {
+      "id": "c3c97154f199082e",
+      "type": "text",
+      "text": "Glassmorphism",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1434,
+      "y": 439,
+      "width": 190,
+      "height": 60
+    },
+    {
+      "id": "7f7e8e377d395005",
+      "type": "text",
+      "text": "Frutiger Aurora",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1205,
+      "y": 439,
+      "width": 192,
+      "height": 60
+    },
+    {
+      "id": "33ffc5647e5967d4",
+      "type": "text",
+      "text": "Plus All Frutiger Stuff Styles",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1198,
+      "y": 560,
+      "width": 192,
+      "height": 80
+    },
+    {
+      "id": "03a3a3763a90d4d3",
+      "type": "text",
+      "text": "Input / Output",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 440,
+      "y": -170,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "27d80dd6c8b8ba35",
+      "type": "text",
+      "text": "Perception",
+      "styleAttributes": {},
+      "x": 440,
+      "y": -324,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "de3807e718ca8256",
+      "type": "text",
+      "text": "Website Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -140,
+      "y": 80,
+      "width": 185,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "4f8ad8dedc2a5f9c",
+      "type": "text",
+      "text": "Icon Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -337,
+      "y": 80,
+      "width": 160,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "c96114a2239386d7",
+      "type": "text",
+      "text": "Legacy",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1213,
+      "y": 80,
+      "width": 125,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "2afec8e1cae8b21f",
+      "type": "text",
+      "text": "User Interface",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -537,
+      "y": 80,
+      "width": 170,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "7a4c5d175506a17d",
+      "type": "text",
+      "text": "Frutiger Aero",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1151,
+      "y": 290,
+      "width": 170,
+      "height": 60
+    },
+    {
+      "id": "b326123c66953089",
+      "type": "text",
+      "text": "Microsoft's Windows Phone and Windows 8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1089,
+      "y": -1166,
+      "width": 265,
+      "height": 59
+    },
+    {
+      "id": "61be5bc977c47964",
+      "type": "text",
+      "text": "Simple and minimalist, bold colors, focus on typography",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1082,
+      "y": -966,
+      "width": 250,
+      "height": 134
+    },
+    {
+      "id": "b317be493f654724",
+      "type": "text",
+      "text": "Flat Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1035,
+      "y": -726,
+      "width": 155,
       "height": 60
     },
     {
@@ -426,31 +453,6 @@
       "height": 60
     },
     {
-      "id": "4f8ad8dedc2a5f9c",
-      "type": "text",
-      "text": "Icon Design",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -337,
-      "y": 80,
-      "width": 160,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "86c04d8fdc33ef3c",
-      "type": "text",
-      "text": "Visual Cues",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 218,
-      "y": -710,
-      "width": 125,
-      "height": 60
-    },
-    {
       "id": "451ad2b17dd94f8b",
       "type": "text",
       "text": "Intuitiveness",
@@ -487,6 +489,30 @@
       "width": 157,
       "height": 60,
       "color": "4"
+    },
+    {
+      "id": "4af913caf9b599ef",
+      "type": "text",
+      "text": "Frutiger Eco",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -974,
+      "y": 439,
+      "width": 165,
+      "height": 60
+    },
+    {
+      "id": "86c04d8fdc33ef3c",
+      "type": "text",
+      "text": "Visual Cues",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 218,
+      "y": -710,
+      "width": 125,
+      "height": 60
     },
     {
       "id": "b8b851b3688ec22c",
@@ -550,19 +576,6 @@
       "height": 60
     },
     {
-      "id": "c96114a2239386d7",
-      "type": "text",
-      "text": "Legacy",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1213,
-      "y": 80,
-      "width": 125,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "2e4d53d169d4d8fa",
       "type": "text",
       "text": "Desktop",
@@ -585,19 +598,6 @@
       "y": 320,
       "width": 190,
       "height": 60
-    },
-    {
-      "id": "2afec8e1cae8b21f",
-      "type": "text",
-      "text": "User Interface",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -537,
-      "y": 80,
-      "width": 170,
-      "height": 60,
-      "color": "4"
     }
   ],
   "edges": [

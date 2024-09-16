@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
+                "file": "B_METHOD/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
+                "file": "B_METHOD/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
+                "file": "B_METHOD/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md"
+                "file": "B_METHOD/README.md"
               }
             }
           }
@@ -147,19 +147,23 @@
   },
   "active": "915b5414e063ac8e",
   "lastOpenFiles": [
-    "B_METHOD/Methodology_Canvas.canvas",
     "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
     "B_METHOD/README.md",
-    "B_METHOD/PROCESS/2024-09-13/Methodology_Canvas_130924.png",
     "B_METHOD/PROCESS/2024-09-04/How_To_Start.md",
+    "B_METHOD/Methodology_Canvas.canvas",
+    "C_DATA/INTERVIEWS/README.md",
+    "C_DATA/THOUGHTS/Thoughts_Collection.md",
+    "D_OUTPUT/README.md",
+    "C_DATA/README.md",
+    "INTERVIEWS.md",
+    "C_DATA/INTERVIEWS/NUMBER 2",
+    "C_DATA/INTERVIEWS/NUMBER 1",
+    "B_METHOD/PROCESS/2024-09-13/Methodology_Canvas_130924.png",
     "B_METHOD/PROCESS/2024-09-13",
     "PROCESS/Methodology_Canvas.md",
     "PROCESS",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
-    "C_DATA/THOUGHTS/Thoughts_Collection.md",
-    "C_DATA/README.md",
-    "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/1_Introduction/240902_Introduction.md",
     "D_OUTPUT/WRITING/0_Table-of-Contents/240902_Structure.md",
     "D_OUTPUT/WRITING/2_Materiality/240902_Materiality.md",
@@ -173,8 +177,6 @@
     "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
     "D_OUTPUT/WRITING/2024-08-06/Untitled.md",
     "D_OUTPUT/WRITING/2024-08-06",
-    "D_OUTPUT/WRITING",
-    "B_METHOD/PROCESS/2024-07-30",
     "A_INSPIRATION/README.md",
     "README.md",
     "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
@@ -185,8 +187,6 @@
     "PROCESS/2024-06-07/Presentation_of_First_Insights.md",
     "B_METHOD/PROCESS/2024-05-15/A-B_Testing.md",
     "B_METHOD/PROCESS/2024-05-14/Thinking_Methodology.md",
-    "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
-    "A_INSPIRATION/PROCESS/2024-04-15/Design_Research_Questions.md",
     "E_ASSETS/repo-images/skeumorphism_output.png",
     "E_ASSETS/repo-images/skeumorphism_data.png",
     "E_ASSETS/repo-images/skeumorphism_method.png",

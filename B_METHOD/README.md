@@ -26,3 +26,6 @@
 
 ### [S.O.S. How should I start? And where?](PROCESS/2024-09-04/How_To_Start.md)
 **2024-09-04:** Small meeting with Nicolas Nova to discuss where should I begin.
+
+### [Pulled Themes from Methodology Canvas](PROCESS/2024-09-13/Pulled_Themes.md)
+**2024-09-13:** Main axis of research.
