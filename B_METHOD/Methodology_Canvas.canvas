@@ -46,89 +46,16 @@
       "height": 134
     },
     {
-      "id": "c96a5415ededf8e7",
+      "id": "b326123c66953089",
       "type": "text",
-      "text": "Skeuomorphism",
+      "text": "Microsoft's Windows Phone and Windows 8",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -1376,
-      "y": -726,
-      "width": 180,
-      "height": 60
-    },
-    {
-      "id": "19a8965ed44dc47e",
-      "type": "text",
-      "text": "Skeuomorphic Sound Effects: Water drops, Locker, Pages turning, ...",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1685,
-      "y": -763,
-      "width": 220,
-      "height": 134
-    },
-    {
-      "id": "fef86473bfbc27c1",
-      "type": "text",
-      "text": "Thinking of an unrealized future",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -2255,
-      "y": 230,
-      "width": 188,
-      "height": 60
-    },
-    {
-      "id": "5e07dee529b04cf1",
-      "type": "text",
-      "text": "Nostalgia",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -2111,
-      "y": 80,
-      "width": 164,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "468a7252cee7ac1d",
-      "type": "text",
-      "text": "Reappropriation of Analog Technologies",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -2029,
-      "y": 380,
-      "width": 195,
-      "height": 58
-    },
-    {
-      "id": "3a3dc60157939602",
-      "type": "text",
-      "text": "Retromedia",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1992,
-      "y": 230,
-      "width": 121,
-      "height": 60
-    },
-    {
-      "id": "903f9f7f22cee730",
-      "type": "text",
-      "text": "The New Skeuomorphism?",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1719,
-      "y": 230,
-      "width": 170,
-      "height": 60
+      "x": -1089,
+      "y": -1166,
+      "width": 265,
+      "height": 59
     },
     {
       "id": "b100a35e3b8cf287",
@@ -181,6 +108,18 @@
       "height": 53
     },
     {
+      "id": "19a8965ed44dc47e",
+      "type": "text",
+      "text": "Skeuomorphic Sound Effects: Water drops, Locker, Pages turning, ...",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1685,
+      "y": -763,
+      "width": 220,
+      "height": 134
+    },
+    {
       "id": "4f0280c2de9103d6",
       "type": "text",
       "text": "Audio and Sound Effects",
@@ -194,6 +133,154 @@
       "color": "4"
     },
     {
+      "id": "fef86473bfbc27c1",
+      "type": "text",
+      "text": "Thinking of an unrealized future",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2255,
+      "y": 230,
+      "width": 188,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "5e07dee529b04cf1",
+      "type": "text",
+      "text": "Nostalgia",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2111,
+      "y": 80,
+      "width": 164,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "468a7252cee7ac1d",
+      "type": "text",
+      "text": "Reappropriation of Analog Technologies",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -2029,
+      "y": 380,
+      "width": 195,
+      "height": 58,
+      "color": "1"
+    },
+    {
+      "id": "3a3dc60157939602",
+      "type": "text",
+      "text": "Retromedia",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1992,
+      "y": 230,
+      "width": 121,
+      "height": 60,
+      "color": "1"
+    },
+    {
+      "id": "61be5bc977c47964",
+      "type": "text",
+      "text": "Simple and minimalist, bold colors, focus on typography",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1082,
+      "y": -966,
+      "width": 250,
+      "height": 134
+    },
+    {
+      "id": "c96a5415ededf8e7",
+      "type": "text",
+      "text": "Skeuomorphism",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1376,
+      "y": -726,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "b317be493f654724",
+      "type": "text",
+      "text": "Flat Design",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1035,
+      "y": -726,
+      "width": 155,
+      "height": 60
+    },
+    {
+      "id": "b886c74477fb1d44",
+      "type": "text",
+      "text": "Functionality",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -755,
+      "y": -816,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "decb1489f7269dac",
+      "type": "text",
+      "text": "Cognitive Ability",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": -786,
+      "width": 200,
+      "height": 60
+    },
+    {
+      "id": "29d607946b904fc7",
+      "type": "text",
+      "text": "Mimetic Approach",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -443,
+      "y": -786,
+      "width": 212,
+      "height": 60
+    },
+    {
+      "id": "a04d5bdb07379855",
+      "type": "text",
+      "text": "Neuemorphism",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1850,
+      "y": 550,
+      "width": 170,
+      "height": 60
+    },
+    {
+      "id": "903f9f7f22cee730",
+      "type": "text",
+      "text": "The New Skeuomorphism?",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1719,
+      "y": 230,
+      "width": 170,
+      "height": 60
+    },
+    {
       "id": "3ee8ac937dc0aa4d",
       "type": "text",
       "text": "Accessibility",
@@ -203,19 +290,6 @@
       "x": -180,
       "y": -140,
       "width": 160,
-      "height": 60,
-      "color": "4"
-    },
-    {
-      "id": "fa0fbe8dfd5fed42",
-      "type": "text",
-      "text": "Visual Style (Aesthetics)",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1252,
-      "y": -566,
-      "width": 275,
       "height": 60,
       "color": "4"
     },
@@ -234,87 +308,17 @@
       "color": "5"
     },
     {
-      "id": "2627ef671a34c8b7",
+      "id": "fa0fbe8dfd5fed42",
       "type": "text",
-      "text": "UX",
+      "text": "Visual Style (Aesthetics)",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 240,
-      "y": -324,
-      "width": 80,
+      "x": -1252,
+      "y": -566,
+      "width": 275,
       "height": 60,
       "color": "4"
-    },
-    {
-      "id": "a04d5bdb07379855",
-      "type": "text",
-      "text": "Neuemorphism",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1850,
-      "y": 550,
-      "width": 170,
-      "height": 60
-    },
-    {
-      "id": "c3c97154f199082e",
-      "type": "text",
-      "text": "Glassmorphism",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1434,
-      "y": 439,
-      "width": 190,
-      "height": 60
-    },
-    {
-      "id": "7f7e8e377d395005",
-      "type": "text",
-      "text": "Frutiger Aurora",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1205,
-      "y": 439,
-      "width": 192,
-      "height": 60
-    },
-    {
-      "id": "33ffc5647e5967d4",
-      "type": "text",
-      "text": "Plus All Frutiger Stuff Styles",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1198,
-      "y": 560,
-      "width": 192,
-      "height": 80
-    },
-    {
-      "id": "03a3a3763a90d4d3",
-      "type": "text",
-      "text": "Input / Output",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 440,
-      "y": -170,
-      "width": 164,
-      "height": 60
-    },
-    {
-      "id": "27d80dd6c8b8ba35",
-      "type": "text",
-      "text": "Perception",
-      "styleAttributes": {},
-      "x": 440,
-      "y": -324,
-      "width": 164,
-      "height": 60
     },
     {
       "id": "de3807e718ca8256",
@@ -343,19 +347,6 @@
       "color": "4"
     },
     {
-      "id": "c96114a2239386d7",
-      "type": "text",
-      "text": "Legacy",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1213,
-      "y": 80,
-      "width": 125,
-      "height": 60,
-      "color": "4"
-    },
-    {
       "id": "2afec8e1cae8b21f",
       "type": "text",
       "text": "User Interface",
@@ -367,102 +358,6 @@
       "width": 170,
       "height": 60,
       "color": "4"
-    },
-    {
-      "id": "7a4c5d175506a17d",
-      "type": "text",
-      "text": "Frutiger Aero",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1151,
-      "y": 290,
-      "width": 170,
-      "height": 60
-    },
-    {
-      "id": "b326123c66953089",
-      "type": "text",
-      "text": "Microsoft's Windows Phone and Windows 8",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1089,
-      "y": -1166,
-      "width": 265,
-      "height": 59
-    },
-    {
-      "id": "61be5bc977c47964",
-      "type": "text",
-      "text": "Simple and minimalist, bold colors, focus on typography",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1082,
-      "y": -966,
-      "width": 250,
-      "height": 134
-    },
-    {
-      "id": "b317be493f654724",
-      "type": "text",
-      "text": "Flat Design",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -1035,
-      "y": -726,
-      "width": 155,
-      "height": 60
-    },
-    {
-      "id": "decb1489f7269dac",
-      "type": "text",
-      "text": "Cognitive Ability",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -220,
-      "y": -786,
-      "width": 200,
-      "height": 60
-    },
-    {
-      "id": "29d607946b904fc7",
-      "type": "text",
-      "text": "Mimetic Approach",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -443,
-      "y": -786,
-      "width": 212,
-      "height": 60
-    },
-    {
-      "id": "b886c74477fb1d44",
-      "type": "text",
-      "text": "Functionality",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -755,
-      "y": -816,
-      "width": 250,
-      "height": 60
-    },
-    {
-      "id": "451ad2b17dd94f8b",
-      "type": "text",
-      "text": "Intuitiveness",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": 195,
-      "y": -580,
-      "width": 170,
-      "height": 60
     },
     {
       "id": "02191b1ef5f1f931",
@@ -491,39 +386,97 @@
       "color": "4"
     },
     {
-      "id": "4af913caf9b599ef",
+      "id": "62344bdfb73a1755",
       "type": "text",
-      "text": "Frutiger Eco",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -974,
-      "y": 439,
-      "width": 165,
+      "text": "",
+      "styleAttributes": {},
+      "x": -813,
+      "y": -936,
+      "width": 260,
       "height": 60
     },
     {
-      "id": "86c04d8fdc33ef3c",
+      "id": "2627ef671a34c8b7",
       "type": "text",
-      "text": "Visual Cues",
+      "text": "UX",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": 218,
-      "y": -710,
+      "x": 240,
+      "y": -324,
+      "width": 80,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "03a3a3763a90d4d3",
+      "type": "text",
+      "text": "Input / Output",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 440,
+      "y": -170,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "27d80dd6c8b8ba35",
+      "type": "text",
+      "text": "Perception",
+      "styleAttributes": {},
+      "x": 440,
+      "y": -324,
+      "width": 164,
+      "height": 60
+    },
+    {
+      "id": "c96114a2239386d7",
+      "type": "text",
+      "text": "Legacy",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1213,
+      "y": 80,
       "width": 125,
-      "height": 60
+      "height": 60,
+      "color": "4"
     },
     {
-      "id": "b8b851b3688ec22c",
+      "id": "c3c97154f199082e",
       "type": "text",
-      "text": "Dreamy",
+      "text": "Glassmorphism",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "x": -940,
-      "y": 840,
-      "width": 157,
+      "x": -1434,
+      "y": 439,
+      "width": 190,
+      "height": 60
+    },
+    {
+      "id": "451ad2b17dd94f8b",
+      "type": "text",
+      "text": "Intuitiveness",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 195,
+      "y": -580,
+      "width": 170,
+      "height": 60
+    },
+    {
+      "id": "7a4c5d175506a17d",
+      "type": "text",
+      "text": "Frutiger Aero",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1151,
+      "y": 290,
+      "width": 170,
       "height": 60
     },
     {
@@ -538,6 +491,78 @@
       "width": 235,
       "height": 60,
       "color": "4"
+    },
+    {
+      "id": "15f0a23f69aa5927",
+      "type": "text",
+      "text": "Mobile",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -649,
+      "y": 320,
+      "width": 112,
+      "height": 60
+    },
+    {
+      "id": "7f7e8e377d395005",
+      "type": "text",
+      "text": "Frutiger Aurora",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1205,
+      "y": 439,
+      "width": 192,
+      "height": 60
+    },
+    {
+      "id": "33ffc5647e5967d4",
+      "type": "text",
+      "text": "Plus All Frutiger Stuff Styles",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -1198,
+      "y": 560,
+      "width": 192,
+      "height": 80
+    },
+    {
+      "id": "86c04d8fdc33ef3c",
+      "type": "text",
+      "text": "Visual Cues",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 218,
+      "y": -710,
+      "width": 125,
+      "height": 60
+    },
+    {
+      "id": "4af913caf9b599ef",
+      "type": "text",
+      "text": "Frutiger Eco",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -974,
+      "y": 439,
+      "width": 165,
+      "height": 60
+    },
+    {
+      "id": "b8b851b3688ec22c",
+      "type": "text",
+      "text": "Dreamy",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -940,
+      "y": 840,
+      "width": 157,
+      "height": 60
     },
     {
       "id": "fc96ba8238934542",
@@ -561,18 +586,6 @@
       "x": -550,
       "y": 840,
       "width": 183,
-      "height": 60
-    },
-    {
-      "id": "15f0a23f69aa5927",
-      "type": "text",
-      "text": "Mobile",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "x": -649,
-      "y": 320,
-      "width": 112,
       "height": 60
     },
     {

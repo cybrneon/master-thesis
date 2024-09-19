@@ -3,5 +3,5 @@
 
 ### Writing
 
-#### [240902_Structure](WRITING/0_Table-of-Contents/240902_Structure.md)
+#### [240902_Structure](WRITING/2024-09-02/240902_Structure.md)
 The Thesis's Table of Contents.

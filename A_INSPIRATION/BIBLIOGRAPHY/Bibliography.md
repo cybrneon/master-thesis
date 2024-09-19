@@ -19,6 +19,8 @@ Magaudda, P., & Minniti, S. (2019). Retromedia-in-practice: A practice theory ap
 
 Meng, M. D., & Leary, R. B. (2022). Mitigating the detrimental effect of skeuomorphism on gambling behavior. _Journal of Consumer Affairs_, _56_(2), 969–981. [https://doi.org/10.1111/joca.12427](https://doi.org/10.1111/joca.12427)
 
+Minniti, S. (2016). _Photo-Objects and Analogue Instant Photography in the Digital Age_. _TECNOSCIENZA_. https://www.research.unipd.it/handle/11577/3455939
+
 Oswald, D. (2018, July). _Affordances and Metaphors Revisited: Testing Flat vs. Skeuomorph Design with Digital Natives and Digital Immigrants_. Proceedings of the 32nd International BCS Human Computer Interaction Conference. [https://doi.org/10.14236/ewic/HCI2018.57](https://doi.org/10.14236/ewic/HCI2018.57)
 
 Page, T. (2014). Skeuomorphism or flat design: Future directions in mobile device User Interface (UI) design education. _International Journal of Mobile Learning and Organisation_, _8_(2), 130. [https://doi.org/10.1504/IJMLO.2014.062350](https://doi.org/10.1504/IJMLO.2014.062350)
