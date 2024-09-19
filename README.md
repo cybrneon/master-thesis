@@ -1,4 +1,4 @@
-![](E_ASSETS/repo-images/skeumorphism_hero.png)
+![](E_ASSETS/repo-images/skeuomorphism_hero.png)
 # master-thesis
 
 Title says it all, for now.

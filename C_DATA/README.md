@@ -1,4 +1,4 @@
-![](../E_ASSETS/repo-images/skeumorphism_data.png)
+![](../E_ASSETS/repo-images/skeuomorphism_data.png)
 # DATA
 
 ### [Interviews Highlights](INTERVIEWS/README)

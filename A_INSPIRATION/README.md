@@ -1,4 +1,4 @@
-![](../E_ASSETS/repo-images/skeumorphism_inspiration.png)
+![](../E_ASSETS/repo-images/skeuomorphism_inspiration.png)
 # PROCESS
 ### [Introduction to Master Thesis](PROCESS/2024-03-28/Introduction_to_Master_Thesis.md)
 **2024-03-28:** Post introduction to HEADxECAL Research Week with Anthony Masure, and introduction to the master thesis by Nicolas Nova.

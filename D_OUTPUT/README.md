@@ -1,4 +1,4 @@
-![](../E_ASSETS/repo-images/skeumorphism_output.png)
+![](../E_ASSETS/repo-images/skeuomorphism_output.png)
 # OUTPUT
 
 ### Writing

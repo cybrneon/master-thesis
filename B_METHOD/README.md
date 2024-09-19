@@ -1,4 +1,4 @@
-![](../E_ASSETS/repo-images/skeumorphism_method.png)
+![](../E_ASSETS/repo-images/skeuomorphism_method.png)
 # PROCESS
 ### [Thinking Methodology...](PROCESS/2024-05-14/Thinking_Methodology.md)
 **2024-05-14:** Starting to think about a methodology, what am I gonna do? what am I going to share? receive? etc.
