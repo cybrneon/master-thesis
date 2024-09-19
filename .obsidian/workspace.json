@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,38 +147,40 @@
   },
   "active": "915b5414e063ac8e",
   "lastOpenFiles": [
+    "D_OUTPUT/README.md",
+    "README.md",
+    "C_DATA/README.md",
+    "B_METHOD/README.md",
+    "A_INSPIRATION/README.md",
+    "PROCESS/Methodology_Canvas.md",
+    "D_OUTPUT/WRITING/2024-09-02/240902_Structure.md",
+    "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md",
     "C_DATA/INTERVIEWS/README.md",
+    "C_DATA/THOUGHTS/Thoughts_Collection.md",
+    "E_ASSETS/method/devices-excel-screenshot.png",
+    "E_ASSETS/method/user-tests-disposition-scheme.png",
+    "D_OUTPUT/WRITING/2024-09-02/240902_Materiality.md",
     "C_DATA/INTERVIEWS/Interviews_Table.jpeg",
     "C_DATA/INTERVIEWS/NUMBER 1/IMG_8268.jpeg",
     "B_METHOD/Methodology_Canvas.canvas",
     "C_DATA/INTERVIEWS/NUMBER 1/IMG_8267.jpeg",
-    "D_OUTPUT/README.md",
     "C_DATA/INTERVIEWS/NUMBER 2/IMG_8297.jpeg",
     "C_DATA/INTERVIEWS/NUMBER 2/IMG_8296.jpeg",
     "C_DATA/INTERVIEWS/NUMBER 2/IMG_8295.jpeg",
     "C_DATA/INTERVIEWS/NUMBER 2/IMG_8293.jpeg",
     "C_DATA/INTERVIEWS/NUMBER 2/IMG_8292.jpeg",
-    "C_DATA/INTERVIEWS/NUMBER 2/IMG_8291.jpeg",
-    "C_DATA/INTERVIEWS/NUMBER 2/IMG_8290.jpeg",
     "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
-    "B_METHOD/README.md",
     "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
     "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
-    "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
     "D_OUTPUT/PRACTICAL-PROJECT",
-    "D_OUTPUT/WRITING/2024-09-02/240902_Structure.md",
     "D_OUTPUT/WRITING/2024-09-02",
-    "C_DATA/README.md",
-    "D_OUTPUT/WRITING/2024-09-02/240902_Materiality.md",
     "B_METHOD/PROCESS/2024-09-04/How_To_Start.md",
-    "C_DATA/THOUGHTS/Thoughts_Collection.md",
     "INTERVIEWS.md",
     "C_DATA/INTERVIEWS/NUMBER 2",
     "C_DATA/INTERVIEWS/NUMBER 1",
     "B_METHOD/PROCESS/2024-09-13",
-    "PROCESS/Methodology_Canvas.md",
     "PROCESS",
     "D_OUTPUT/WRITING/2024-09-02/240902_Introduction.md",
     "B_METHOD/PROCESS/2024-07-30/Early_Thesis_Structure.md",
@@ -189,8 +191,6 @@
     "D_OUTPUT/WRITING/1_Introduction",
     "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
     "D_OUTPUT/WRITING/2024-08-06/Untitled.md",
-    "A_INSPIRATION/README.md",
-    "README.md",
     "B_METHOD/PROCESS/2024-07-12/Methodology_Design.md",
     "B_METHOD/PROCESS/2024-06-07/Presentation_of_Early_Findings.md",
     "Untitled.canvas",
