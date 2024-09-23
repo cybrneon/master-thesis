@@ -1,5 +1,5 @@
 ![](E_ASSETS/repo-images/skeuomorphism_hero.png)
-# master-thesis
+# Master Thesis
 
 Title says it all, for now.
 

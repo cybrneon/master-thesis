@@ -29,3 +29,6 @@
 
 ### [Pulled Themes from Methodology Canvas](PROCESS/2024-09-13/Pulled_Themes.md)
 **2024-09-13:** Main axis of research.
+
+### [Meeting with Nicolas Nova](PROCESS/2024-09-23/Meeting_With_Nicolas_Nova)
+**2024-09-23:** Talking with Nicolas about how should I handle all this data, themes and infos.
