@@ -1,7 +1,7 @@
 # Pulled Themes
 Here is a list of themes I pulled from the Obsidian Methodology Canvas
 
-![Methodology Canvas](../../Methodology_Canvas.canvas)
+![Methodology Canvas](../../Methodology_Canvas-2024-09-03.canvas)
 ![](Methodology_Canvas_130924.png)
 
 - **Materiality**

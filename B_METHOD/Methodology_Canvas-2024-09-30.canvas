@@ -1,0 +1,404 @@
+{
+  "nodes": [
+    {
+      "id": "badd0966dacdac72",
+      "type": "text",
+      "text": "Skeuomorphism",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": -180,
+      "y": -80,
+      "width": 260,
+      "height": 60,
+      "color": "4"
+    },
+    {
+      "id": "8ba55620eac1e242",
+      "type": "text",
+      "text": "Usability and Accessibility",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -180,
+      "y": 80,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "ca47760d3575f111",
+      "type": "text",
+      "text": "Metaphors",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": 263,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "311c000693f31c62",
+      "type": "text",
+      "text": "Affordances",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -20,
+      "y": 263,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "6debdda16398452d",
+      "type": "text",
+      "text": "Design Elements",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -680,
+      "y": 160,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "dabf2a0937b792f8",
+      "type": "text",
+      "text": "Audio",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -624,
+      "y": 343,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "b9637499e4426593",
+      "type": "text",
+      "text": "Motion",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -440,
+      "y": 343,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "cc6e29ef9b65fbe3",
+      "type": "text",
+      "text": "Visuals",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -800,
+      "y": 343,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "e9c4797b6962b24b",
+      "type": "text",
+      "text": "UI, icons, layouts, ...",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -800,
+      "y": 480,
+      "width": 148,
+      "height": 167
+    },
+    {
+      "id": "172ae053f4157218",
+      "type": "text",
+      "text": "Sound effects, paper crushing, notification sound, ...",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -624,
+      "y": 480,
+      "width": 148,
+      "height": 167
+    },
+    {
+      "id": "2adb1fd8718342e2",
+      "type": "text",
+      "text": "Simpler Times",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 200,
+      "y": 343,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "9ad3935c94c0c815",
+      "type": "text",
+      "text": "Nostalgia",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 332,
+      "y": 160,
+      "width": 260,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "3c19d83a069bc604",
+      "type": "text",
+      "text": "Legacy",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 388,
+      "y": 343,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "d038018048ae349c",
+      "type": "text",
+      "text": "An unrealized future",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 572,
+      "y": 343,
+      "width": 148,
+      "height": 60
+    },
+    {
+      "id": "b33df7b178e8ee89",
+      "type": "text",
+      "text": "How affordances are setup to democratize personal computing.",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -20,
+      "y": 373,
+      "width": 148,
+      "height": 167
+    },
+    {
+      "id": "d372689effbaf14f",
+      "type": "text",
+      "text": "Glassmorphism, Neomorphism, ... But most importantly, Frutiger Aero and its subgenres.",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 388,
+      "y": 457,
+      "width": 148,
+      "height": 167
+    },
+    {
+      "id": "64b1b2fa73306241",
+      "type": "text",
+      "text": "Simple and straightforward user interfaces compared to today's.",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 200,
+      "y": 457,
+      "width": 148,
+      "height": 167
+    },
+    {
+      "id": "ab2b79252e9bd724",
+      "type": "text",
+      "text": "How old interfaces felt closer to people, closer to nature in a way.",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": 572,
+      "y": 457,
+      "width": 148,
+      "height": 167
+    },
+    {
+      "id": "a16576996b4e142c",
+      "type": "text",
+      "text": "The desktop and its metaphors:\nThe icons, the trashbin, the wallpaper, the windows,...",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -220,
+      "y": 373,
+      "width": 148,
+      "height": 167
+    },
+    {
+      "id": "b0c961ee377d26b8",
+      "type": "text",
+      "text": "Natural Motion of windows, animations, ...",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "x": -440,
+      "y": 480,
+      "width": 148,
+      "height": 167
+    }
+  ],
+  "edges": [
+    {
+      "id": "e870a1c25bb08a8f",
+      "styleAttributes": {},
+      "fromNode": "badd0966dacdac72",
+      "fromSide": "bottom",
+      "toNode": "6debdda16398452d",
+      "toSide": "top"
+    },
+    {
+      "id": "a2f06bf19ab7db13",
+      "styleAttributes": {},
+      "fromNode": "badd0966dacdac72",
+      "fromSide": "bottom",
+      "toNode": "8ba55620eac1e242",
+      "toSide": "top"
+    },
+    {
+      "id": "ee35de4b43eef534",
+      "styleAttributes": {},
+      "fromNode": "badd0966dacdac72",
+      "fromSide": "bottom",
+      "toNode": "9ad3935c94c0c815",
+      "toSide": "top"
+    },
+    {
+      "id": "057ae9adca443be2",
+      "styleAttributes": {},
+      "fromNode": "6debdda16398452d",
+      "fromSide": "bottom",
+      "toNode": "cc6e29ef9b65fbe3",
+      "toSide": "top"
+    },
+    {
+      "id": "2236b70c5dbb4007",
+      "styleAttributes": {},
+      "fromNode": "6debdda16398452d",
+      "fromSide": "bottom",
+      "toNode": "dabf2a0937b792f8",
+      "toSide": "top"
+    },
+    {
+      "id": "fe924ea8f600eeb3",
+      "styleAttributes": {},
+      "fromNode": "6debdda16398452d",
+      "fromSide": "bottom",
+      "toNode": "b9637499e4426593",
+      "toSide": "top"
+    },
+    {
+      "id": "e8f8322b8808f0f1",
+      "styleAttributes": {},
+      "fromNode": "8ba55620eac1e242",
+      "fromSide": "bottom",
+      "toNode": "ca47760d3575f111",
+      "toSide": "top"
+    },
+    {
+      "id": "943656269d435826",
+      "styleAttributes": {},
+      "fromNode": "8ba55620eac1e242",
+      "fromSide": "bottom",
+      "toNode": "311c000693f31c62",
+      "toSide": "top"
+    },
+    {
+      "id": "2e3ab57f65286bab",
+      "styleAttributes": {},
+      "fromNode": "9ad3935c94c0c815",
+      "fromSide": "bottom",
+      "toNode": "3c19d83a069bc604",
+      "toSide": "top"
+    },
+    {
+      "id": "4d213957553b9d86",
+      "styleAttributes": {},
+      "fromNode": "9ad3935c94c0c815",
+      "fromSide": "bottom",
+      "toNode": "2adb1fd8718342e2",
+      "toSide": "top"
+    },
+    {
+      "id": "d48db40ca45d6560",
+      "styleAttributes": {},
+      "fromNode": "9ad3935c94c0c815",
+      "fromSide": "bottom",
+      "toNode": "d038018048ae349c",
+      "toSide": "top"
+    },
+    {
+      "id": "ac44b43b67330d21",
+      "styleAttributes": {},
+      "fromNode": "cc6e29ef9b65fbe3",
+      "fromSide": "bottom",
+      "toNode": "e9c4797b6962b24b",
+      "toSide": "top"
+    },
+    {
+      "id": "fe8e52bd8a93b234",
+      "styleAttributes": {},
+      "fromNode": "dabf2a0937b792f8",
+      "fromSide": "bottom",
+      "toNode": "172ae053f4157218",
+      "toSide": "top"
+    },
+    {
+      "id": "7dcb126263a667bf",
+      "styleAttributes": {},
+      "fromNode": "ca47760d3575f111",
+      "fromSide": "bottom",
+      "toNode": "a16576996b4e142c",
+      "toSide": "top"
+    },
+    {
+      "id": "1b8e261d3ed2a3e1",
+      "styleAttributes": {},
+      "fromNode": "311c000693f31c62",
+      "fromSide": "bottom",
+      "toNode": "b33df7b178e8ee89",
+      "toSide": "top"
+    },
+    {
+      "id": "4705831499afa0f8",
+      "styleAttributes": {},
+      "fromNode": "2adb1fd8718342e2",
+      "fromSide": "bottom",
+      "toNode": "64b1b2fa73306241",
+      "toSide": "top"
+    },
+    {
+      "id": "cdb3220360477dca",
+      "styleAttributes": {},
+      "fromNode": "3c19d83a069bc604",
+      "fromSide": "bottom",
+      "toNode": "d372689effbaf14f",
+      "toSide": "top"
+    },
+    {
+      "id": "d54ecfd01097519e",
+      "styleAttributes": {},
+      "fromNode": "d038018048ae349c",
+      "fromSide": "bottom",
+      "toNode": "ab2b79252e9bd724",
+      "toSide": "top"
+    },
+    {
+      "id": "977437503ce94a45",
+      "styleAttributes": {},
+      "fromNode": "b9637499e4426593",
+      "fromSide": "bottom",
+      "toNode": "b0c961ee377d26b8",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
