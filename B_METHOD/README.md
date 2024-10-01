@@ -1,5 +1,5 @@
 ![](../E_ASSETS/repo-images/skeuomorphism_method.png)
-# PROCESS
+# Process
 
 ### [New Methodology and Themes](PROCESS/2024-09-30/New_Pulled_Themes.md)
 **2024-09-30:** New Methodology Canvas after Nicola Nova's Feedback.

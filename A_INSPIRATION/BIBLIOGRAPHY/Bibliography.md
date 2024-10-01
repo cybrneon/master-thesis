@@ -3,6 +3,8 @@
 ### Papers
 Backhaus, N., Trapp, A. K., & Thüring, M. (2018). Skeuomorph Versus Flat Design: User Experience and Age-Related Preferences. In A. Marcus & W. Wang (Eds.), _Design, User Experience, and Usability: Designing Interactions_ (Vol. 10919, pp. 527–542). Springer International Publishing. [https://doi.org/10.1007/978-3-319-91803-7_40](https://doi.org/10.1007/978-3-319-91803-7_40)
 
+Blackwell, A. F. (2006). The reification of metaphor as a design tool. _ACM Transactions on Computer-Human Interaction_, _13_(4), 490–530. [https://doi.org/10.1145/1188816.1188820](https://doi.org/10.1145/1188816.1188820)
+
 Bollini, L. (2016). _From Skeuomorphism to Material Design and back. The language of colours in the 2nd generation of mobile interface design._ _Colour and colorimetry. Multidisciplinary contributions_.[https://boa.unimib.it/handle/10281/133589](https://boa.unimib.it/handle/10281/133589)
 
 Bollini, L. (2017). Beautiful interfaces. From user experience to user interface design. _The Design Journal_, _20_(sup1), S89–S101.[https://doi.org/10.1080/14606925.2017.1352649](https://doi.org/10.1080/14606925.2017.1352649)
@@ -12,6 +14,8 @@ Curtis, A. (2015). _RHETORIC OF FLAT DESIGN AND SKEUOMORPHISM IN APPLE’S iOS G
 Gatsou, C., & Farrington, J. S. (2022). THE EVOLUTION OF THE GRAPHICAL USER INTERFACE: FROM SKEUOMORPHISM TO MATERIAL DESIGN. _Design/Arts/Culture_, _2_. [https://doi.org/10.12681/dac.27466](https://doi.org/10.12681/dac.27466)
 
 Gaver, W. W. (1991). Technology affordances. _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Reaching through Technology - CHI ’91_, 79–84. [https://doi.org/10.1145/108844.108856](https://doi.org/10.1145/108844.108856)
+
+Gessler, N. (1998). Skeuomorphs and cultural algorithms. In V. W. Porto, N. Saravanan, D. Waagen, & A. E. Eiben (Eds.), _Evolutionary Programming VII_ (Vol. 1447, pp. 229–238). Springer Berlin Heidelberg. [https://doi.org/10.1007/BFb0040776](https://doi.org/10.1007/BFb0040776
 
 Kim, S., & Lee, S. (2020). Smash the dichotomy of Skeuomorphism and flat design: Designing an affordable interface to correspond with the human perceptuomotor process. _International Journal of Human-Computer Studies_, _141_, 102435. [https://doi.org/10.1016/j.ijhcs.2020.102435](https://doi.org/10.1016/j.ijhcs.2020.102435)
 
@@ -71,3 +75,6 @@ Manjoo, F. (2012, November 1). Should a Calendar App Look Like a Calendar? _Slat
 Nguyen, T. (2023, March 17). _Dirt: Skeuomorphia_. The Dirtyverse. [https://dirt.fyi/article/2023/03/skeuomorphia](https://dirt.fyi/article/2023/03/skeuomorphia)
 
 Oliveri, S. (2020, August 4). Skeuomorphism: Design we Learned to Outgrow. _Design Warp_. [https://medium.com/design-warp/skeuomorphism-design-we-learned-to-outgrow-8a24895a80d0](https://medium.com/design-warp/skeuomorphism-design-we-learned-to-outgrow-8a24895a80d0)
+
+### Lawsuits
+_Apple Computer, Inc. v. Microsoft Corp., 35 F.3d 1435 (9th Cir. 1994)_. (n.d.). Justia Law. https://law.justia.com/cases/federal/appellate-courts/F3/35/1435/605245/

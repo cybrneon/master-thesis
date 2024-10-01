@@ -1,5 +1,5 @@
 ![](../E_ASSETS/repo-images/skeuomorphism_data.png)
-# DATA
+# Data
 
 ### [Interviews Highlights](INTERVIEWS/README)
 Only interviews photos for the moment.
