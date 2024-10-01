@@ -1,10 +1,12 @@
 # Introduction
-## What is Skeuomorphism?
+## A small bit of History
 In a small research lab down in Palo Alto, was an all-in-one desktop computer prototype that amazed anyone who had the chance to see it. The few who had the chance to meet this machine, took the main idea and ran with it to create a new generation of personal computers.
-
 That computer was the Xerox Alto, imagined at Xerox's PARC, and considered by many the first computer to feature a GUI, a Graphical User Interface, that almost turned the world upside down.
+Using common language, the portrait monitor displays text, small icons and allowed the use of multiple programs at the same time, in what was called the Desktop, just like the one at work, with items on it. The Alto is the first computer to use a WYSIWYG, What You See Is What You Get, text editor and bitmap display, meaning that you could print exactly what was displayed on the screen. Steve Jobs and Bill Gates both went to see this marvel and went on to copy the idea for their respective software, with Apple unveiling the Lisa in 1983 and the Macintosh in 1984. As for Microsoft, the first version of the Windows OS, operating system, was announced in 1983 as a GUI add-on for MS-DOS, but later came out as a standalone OS in 1985 and was licensed by PC manufacturers, mainly IBM.
 
-Using common language, the portrait monitor displays text, small icons and allowed the use of multiple programs at the same time, in what was called the Desktop, just like the work desktop. The Alto is the first computer to use a WYSIWYG, What You See Is What You Get, text editor and bitmap display, meaning that you could print exactly what was displayed on the screen.
+## What is Skeuomorphism?
+In a small research lab do
+
 
 
 ## Why this subject?

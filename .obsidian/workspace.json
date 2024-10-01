@@ -25,30 +25,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b53511a75a1c2e8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-30/240930_Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba578b8840fe948d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
@@ -56,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B_METHOD/Methodology_Canvas-2024-09-30.canvas"
+                "file": "README.md"
               }
             }
           }
@@ -213,8 +189,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -2560,
-        "y": -459,
+        "x": -1652,
+        "y": -1415,
         "width": 1490,
         "height": 927,
         "maximize": false,
@@ -222,11 +198,12 @@
       }
     ]
   },
-  "active": "721a4756bf3d9fee",
+  "active": "c64d8159f6d98613",
   "lastOpenFiles": [
+    "C_DATA/README.md",
     "README.md",
-    "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
     "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
     "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "D_OUTPUT/WRITING/2024-09-30/240930_Structure.md",
     "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
@@ -244,7 +221,6 @@
     "D_OUTPUT/WRITING/2024-09-30",
     "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
     "C_DATA/THOUGHTS/Thoughts_Collection.md",
-    "C_DATA/README.md",
     "B_METHOD/PROCESS/2024-09-25",
     "E_ASSETS/repo-images/skeuomorphism_hero.png",
     "E_ASSETS/repo-images/skeuomorphism_hero 1.png",
