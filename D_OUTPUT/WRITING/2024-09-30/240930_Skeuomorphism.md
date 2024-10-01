@@ -5,7 +5,7 @@ That computer was the Xerox Alto, imagined at Xerox's PARC, and considered by ma
 Using common language, the portrait monitor displays text, small icons and allowed the use of multiple programs at the same time, in what was called the Desktop, just like the one at work, with items on it. The Alto is the first computer to use a WYSIWYG, What You See Is What You Get, text editor and bitmap display, meaning that you could print exactly what was displayed on the screen. Steve Jobs and Bill Gates both went to see this marvel and went on to copy the idea for their respective software, with Apple unveiling the Lisa in 1983 and the Macintosh in 1984. As for Microsoft, the first version of the Windows OS, operating system, was announced in 1983 as a GUI add-on for MS-DOS, but later came out as a standalone OS in 1985 and was licensed by PC manufacturers, mainly IBM.
 
 ## What is Skeuomorphism?
-In a small research lab do
+Skeuomorphism traces its roots from 
 
 
 
@@ -21,13 +21,13 @@ text
 
 # Design Elements
 ## Visual
-text
+Glossy Elements, Textiles, Metal, Wood, Paper, ...
 
 ## Audio
-text
+Sound Effects recreating real world sounds, helps with immersion.
 
 ## Motion
-text
+Movement and animations
 
 
 # Usability and Accessibility
@@ -44,13 +44,13 @@ After explaining the concept of Affordances to the people I interviewed, many at
 
 # Nostalgia
 ## Simpler Times
-text
+We tend to think that "Before, things were better".
 
 ## Legacy
-text
+How does Skeuomorphism's legacy influence today's UI design.
 
 ## An Unrealised Future
-text
+How Gen Z sees Skeuomorphism.
 
 
 # Conclusion
