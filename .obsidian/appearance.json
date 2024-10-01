@@ -1,8 +1,11 @@
 {
-  "accentColor": "",
+  "accentColor": "#579aff",
   "translucency": false,
-  "cssTheme": "Typewriter",
+  "cssTheme": "Primary",
   "theme": "system",
   "nativeMenus": true,
-  "textFontFamily": ""
+  "textFontFamily": "Calluna",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16
 }

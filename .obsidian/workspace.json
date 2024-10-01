@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c64d8159f6d98613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b53511a75a1c2e8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D_OUTPUT/WRITING/2024-09-30/240930_Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -145,37 +170,77 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37c072e1ed310f63",
+  "floating": {
+    "id": "06bd2ee3f03aeebe",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b91657188dbf7bee",
+        "type": "window",
+        "children": [
+          {
+            "id": "5b6d5de63a0e6579",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "721a4756bf3d9fee",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
+                    "viewState": {
+                      "x": -40.41332963456832,
+                      "y": 311.0148581135345,
+                      "zoom": -0.12419103023519375
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -2560,
+        "y": -459,
+        "width": 1490,
+        "height": 927,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c64d8159f6d98613",
   "lastOpenFiles": [
+    "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
+    "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "D_OUTPUT/WRITING/2024-09-30/240930_Structure.md",
+    "README.md",
+    "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
+    "A_INSPIRATION/README.md",
+    "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md",
     "B_METHOD/README.md",
     "B_METHOD/PROCESS/2024-09-30/New_Pulled_Themes.md",
     "B_METHOD/PROCESS/2024-09-23/Meeting_With_Nicolas_Nova.md",
-    "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "B_METHOD/PROCESS/2024-09-25/Following_The_WIP_Workshop.md",
     "B_METHOD/PROCESS/2024-09-30/Methodology_Canvas-2024-09-30.png",
     "B_METHOD/PROCESS/2024-09-30",
     "B_METHOD/Methodology_Canvas-2024-09-03.canvas",
-    "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-09-19/240919_Writing-Stuff.md",
     "D_OUTPUT/WRITING/2024-09-02/240902_Structure.md",
     "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
-    "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/2024-09-30",
     "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
     "C_DATA/THOUGHTS/Thoughts_Collection.md",
     "C_DATA/README.md",
-    "README.md",
     "B_METHOD/PROCESS/2024-09-25",
     "E_ASSETS/repo-images/skeuomorphism_hero.png",
     "E_ASSETS/repo-images/skeuomorphism_hero 1.png",
     "B_METHOD/PROCESS/2024-09-23/Nicolas-Nova-Sketch_230924.png",
     "B_METHOD/PROCESS/2024-09-23",
-    "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
     "D_OUTPUT/EXPORTS/240919_Writing-Stuff.pdf",
     "D_OUTPUT/EXPORTS",
     "E_ASSETS/repo-images/skeumorphism_hero.png",
-    "A_INSPIRATION/README.md",
     "PROCESS/Methodology_Canvas.md",
     "C_DATA/INTERVIEWS/README.md",
     "E_ASSETS/method/devices-excel-screenshot.png",

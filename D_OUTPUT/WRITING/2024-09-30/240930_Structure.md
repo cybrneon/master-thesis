@@ -4,6 +4,7 @@
 - ### Skeuomorphism?
 - ### Why this subject?
 - ### Research Question
+- ### Methodology
 
 ## Design Elements
 - ### Visual
@@ -23,5 +24,6 @@
 
 ## Conclusion
 - ### What's Next?
+- ### Practical Project
 
 
