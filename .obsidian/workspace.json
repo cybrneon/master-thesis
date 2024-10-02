@@ -25,24 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ad2b557c98baf585",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
-                "viewState": {
-                  "x": 335.82236812136256,
-                  "y": 81.06830413468661,
-                  "zoom": -0.7552210756142935
-                }
               }
             }
           }
@@ -113,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md"
+                "file": "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md"
               }
             }
           }
@@ -210,15 +195,51 @@
         "height": 800,
         "maximize": false,
         "zoom": 0
+      },
+      {
+        "id": "9da0898517d77bc9",
+        "type": "window",
+        "children": [
+          {
+            "id": "75da617ccd6e3bf4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ad2b557c98baf585",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
+                    "viewState": {
+                      "x": 234.3248700836525,
+                      "y": -48.289267471750534,
+                      "zoom": -0.26439293583234164
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -2560,
+        "y": -551,
+        "width": 1647,
+        "height": 931,
+        "maximize": false,
+        "zoom": 0
       }
     ]
   },
   "active": "c8494e41990e5108",
   "lastOpenFiles": [
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
-    "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
     "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
+    "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
     "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-02",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "C_DATA/SPECTRUM",
     "A_INSPIRATION/README.md",
     "B_METHOD/README.md",
@@ -259,10 +280,8 @@
     "C_DATA/INTERVIEWS/NUMBER 1/IMG_8267.jpeg",
     "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
     "D_OUTPUT/PRACTICAL-PROJECT",
-    "D_OUTPUT/WRITING/2024-09-02",
     "B_METHOD/PROCESS/2024-09-04/How_To_Start.md",
     "INTERVIEWS.md",
-    "D_OUTPUT/WRITING/2024-09-02/240902_Introduction.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

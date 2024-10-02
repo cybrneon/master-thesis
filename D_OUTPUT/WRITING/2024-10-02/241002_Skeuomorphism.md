@@ -8,6 +8,8 @@ I've always been curious and interested of graphical user interfaces. I find it 
 GUI: Graphical User Interface
 UI: User Interface
 UX: User Experience
+GPU: Graphical Processing Unit
+OEM: Original Equipement Manufacturer
 
 ## A small bit of History
 In a small research lab down in Palo Alto, was an all-in-one desktop computer prototype that amazed anyone who had the chance to see it. The few who had the chance to meet this machine, took the main idea and ran with it to create a new generation of personal computers.
@@ -17,7 +19,23 @@ Using common language, the portrait monitor displays text, small icons and allow
 In 1988, Apple filed a lawsuit against Microsoft and Hewlett-Packard for using visual GUI elements similar to Apple's Lisa and Macintosh OSs. Seeing this lawsuit, Xerox also filed one against Apple alleging that the Macintosh's GUI was heavily based on the Xerox Alto's OS.
 After 4 years and an unsuccessful appeal to the Supreme Court, the United States Court of Appeals for the Ninth Circuit dismissed. Claiming that "Apple cannot get patent-like protection for the idea of a graphical user interface, or the idea of a desktop metaphor which concededly came from Xerox. It can, and did, put those ideas together creatively with animation, overlapping windows, and well-designed icons; but it licensed the visual displays which resulted."
 
-From that point on, GUIs kind of became open-source, in a way that nobody could copyright the famous desktop metaphor.
+From that point on, GUIs kind of became open-source, in a way that nobody could copyright the famous desktop metaphor. This led to the popularisation of personal computers and the internet coming at the same time.
+
+At the 2000 Macworld Conference and Expo in San Francisco, Steve Jobs announced a complete reengineering and redesign of MacOS calling it MacOS X (or 10). A new base and architecture, that comes with a new design language called Aqua. During the event, Jobs stated that "it's liquid, one of the design goals was when you saw it you wanted to lick it". Breaking up from the gray, pixelated and static design of the 1990s, Aqua was about droplet-like components, reflections, translucency, depth and life-like material textures.
+
+This move started a new trend, for a new decade. Aqua was possible thanks to advancements in technologies like improved processor speeds and more importantly GPUs that allowed the display of life-like shadows, three dimension effects, animations and better anti-aliasing fonts. The 2000s saw the Apple UI design and MacOS X's versions evolve into more refined and less flashy visuals till the 2010s, with Microsoft also jumping into the same train in 2001 with Windows XP, followed by Windows Vista (and its development hell with Codename Longhorn) and finally Windows 7. At the same time, linux-based OSs were growing and more and more started incorporating Skeuomorphic elements like Ubuntu.
+
+But before the 2010s ended, Apple unveiled it's most successful device after the Macintosh, based on MacOS X's design language; the iPhone. Although not being the first smartphone, it brought a lot of the desktop's Skeuomorphism language to the pocket, with a finger-friendly touch interface but also a rethinking of mobile phone interactions. In 2007, the landscape of mobile phones was pretty crowded. Many OEMs were fighting in a booming market with clunky, slow, unresponsive and not touch friendly phones, until Apple came and proposed a vision of what smartphones should be. This vision was later taken by multiple OEMs and made it their own for the years to come, leading to a wide spectrum of skeuomorphic mobile GUIs, from Google, Samsung, HTC, Motorola and others all creating different looks on top of the Android OS.
+
+In 2006, Microsoft released the Zune, an mp3 player created to take on the Apple iPod. The Zune was different, and made use of lowercase typography, a grid and monochromatic font colors. But Microsoft only went full Flat Design on it's modern new mobile OS, Windows Phone 7, bringing a fresh take on mobile GUIs and differentiating themselves from the competition, fully breaking up from the Skeuomorphic 3D visual style they've called Windows Aero. Windows Phone 7 was considered a breathe of fresh air by people as the Skeuomorphism Spectrum was beginning to become crowded. That style was called Metro (before changing its name because of a lawsuit over the name). Metro is based on the design principles of the Swiss Design style; clear typography, large texts, simplicity and was considered more artistic in a way. The interactivity part was also important as motion played a bigger role, all while being simple.
+
+In 2013, Apple announced it's 7th major version of the iPhone OS, iOS 7, that completely strips away the Skeuomorphic Design Language for a more Flat and Flashy Design Philosophy, with other OEMs following on the trend.
+
+Flat Design became the norm, providing clear, simple and efficient design to designers and app developers. It was a breathe of fresh air in general, and everything that came out using a skeuomorphic visual style at the time was considered out of date.
+
+That is until the 2017 when Microsoft revived the movement announcing the Fluent Design System focusing on five key principles; Light, Depth, Motion, Material and Scale. But at the time, it was only an evolution of Microsoft's flat design.
+
+In 2020, Apple announced
 
 ## What is Skeuomorphism?
 Way before screens, Skeuomorphism traces its roots from material objects and movements like Art Nouveau, but it only used on computers starting from the 1980s. Skeuomorphism is considered to be the use of metaphors of real life to mimic the real-world objects represented.
@@ -29,7 +47,7 @@ It's with that fascination into user interfaces that I wanted to revisit Skeuomo
 Mixing qualitative and quantitative surveys and interviews, I wanted to know how ordinary people think of Skeuomorphism in user interfaces. I started interviewing people for an hour, where we went back in time and used old technologies from more than ten years ago! Apart from that, I went on to post a survey on some Reddit groups to gather insights on people but also references.
 
 The interviews I first conducted consisted of asking people about their knowledge of Skeuomorphism, explaining it, comparing it to Flat Design, asking their opinion on both design styles and finally enquire them about their ideas for future GUIs or UIs in general.
-The next step was to make them choose a device from the table, turn it on and use it until they want to go to another one. While they're using it, I'm asking questions and guiding them to open some apps like Calendar, Notes, Media Player, ... All while prompting them for reactions and emotions. The devices were composed of two laptops and three smartphones, displaying a range of what I call the spectrum of skeuomorphic GUIs.
+The next step was to make them choose a device from the table, turn it on and use it until they want to go to another one. While they're using it, I'm asking questions and guiding them to open some apps like Calendar, Notes, Media Player, ... All while prompting them for reactions and emotions. The devices were composed of two laptops and three smartphones, displaying a range of what I call *The Spectrum of Skeuomorphic GUIs*.
 
 
 # Design Elements
