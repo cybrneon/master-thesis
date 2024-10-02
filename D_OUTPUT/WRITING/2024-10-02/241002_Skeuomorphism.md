@@ -31,14 +31,14 @@ In 2006, Microsoft released the Zune, an mp3 player created to take on the Apple
 
 In 2013, Apple announced it's 7th major version of the iPhone OS, iOS 7, that completely strips away the Skeuomorphic Design Language for a more Flat and Flashy Design Philosophy, with other OEMs following on the trend.
 
-Flat Design became the norm, providing clear, simple and efficient design to designers and app developers. It was a breathe of fresh air in general, and everything that came out using a skeuomorphic visual style at the time was considered out of date.
+Flat Design became the norm, providing clear, simple and efficient design to designers and app developers. It was a breathe of fresh air in general, and everything that came out using a skeuomorphic visual style at the time was considered out of date. Apple followed for MacOS X on 2014 by incorporating design elements from iOS 7.
 
 That is until the 2017 when Microsoft revived the movement announcing the Fluent Design System focusing on five key principles; Light, Depth, Motion, Material and Scale. But at the time, it was only an evolution of Microsoft's flat design.
 
-In 2020, Apple announced
+In 2020, Apple announced a new version for its Mac OS, reconciling with Skeuomorphism or a smart part of it by launching new icons and interfaces. Recently, iOS also received small hints of Skeuomorphism through some parts of the OS.
 
 ## What is Skeuomorphism?
-Way before screens, Skeuomorphism traces its roots from material objects and movements like Art Nouveau, but it only used on computers starting from the 1980s. Skeuomorphism is considered to be the use of metaphors of real life to mimic the real-world objects represented.
+Way before screens, Skeuomorphism traces its roots from material objects and artistic movements like Art Nouveau, but it was only quoted on computers starting from the 1980s. Skeuomorphism is considered to be the use of metaphors of real life to mimic the real-world objects represented. The most common example that is always given is "the iPhone's old visual interface".
 
 ## Research Question
 It's with that fascination into user interfaces that I wanted to revisit Skeuomorphism, maybe out of Nostalgia, but more importantly investigate the emotions of people who used these interfaces and what they think of them now. I'm also thinking about the future, as we're recently seeing a return to three dimension styling to user interfaces. So, what is the Role of Skeuomorphism through Materiality, Accessibility and Nostalgia?
