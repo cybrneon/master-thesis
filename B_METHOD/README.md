@@ -1,6 +1,9 @@
 ![](../E_ASSETS/repo-images/skeuomorphism_method.png)
 # Process
 
+### [Small Presentation Output](PROCESS/2024-09-30/New_Pulled_Themes.md)
+**2024-10-03:** Output from Nicolas Nova, Daniel Sciboz and Joël Vacheron on my thesis's plan, the progress and how I'm looking into it.
+
 ### [New Methodology and Themes](PROCESS/2024-09-30/New_Pulled_Themes.md)
 **2024-09-30:** New Methodology Canvas after Nicola Nova's Feedback.
 

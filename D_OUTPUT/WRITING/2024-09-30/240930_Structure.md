@@ -1,8 +1,10 @@
 # Thesis Structure
 
+## Preface
+Why this subject.
+
 ## Introduction
 - ### Skeuomorphism?
-- ### Why this subject?
 - ### Research Question
 - ### Methodology
 

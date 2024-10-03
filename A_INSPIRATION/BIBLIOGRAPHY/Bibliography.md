@@ -64,6 +64,10 @@ Darius, M. (2023b, October 19). _The Quiet Disappearance of Skeuomorphism in Mod
 
 Darius, M. (2023c, October 19). _Unsung Revolutions: A Brief History of Natural User Interfaces_. [https://skeuomorphic.design/p/unsung-revolutions-a-brief-history](https://skeuomorphic.design/p/unsung-revolutions-a-brief-history)
 
+Giampietro, R. (2013). _The Uses of Metaphor_. Lined & Unlined. [https://linedandunlined.com/archive/the-uses-of-metaphor/](https://linedandunlined.com/archive/the-uses-of-metaphor/)
+
+Giampietro, R. (2017, March 28). _Over the Bridge_. Digital Strategies in Genre Defining-Magazines. [https://digital-strategies.ma-ad.ch/article/overthebridge/](https://digital-strategies.ma-ad.ch/article/overthebridge/)
+
 Hein, B. (2015, July 26). _Jony Ive explains why he decided to gut skeuomorphism from IOS 7_. Cult of Mac. https://www.cultofmac.com/246312/jony-ive-explains-why-he-decided-to-gut-skeuomorphism-out-of-ios/
 
 Ilies, A. (2024, May 31). Frutiger Aero: the Trend of 2024? - elevenpm - Medium. _Medium_. https://medium.com/elevenpm/frutiger-aero-the-trend-of-2024-1be502c0b367

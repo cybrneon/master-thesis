@@ -38,7 +38,7 @@ That is until the 2017 when Microsoft revived the movement announcing the Fluent
 In 2020, Apple announced a new version for its Mac OS, reconciling with Skeuomorphism or a smart part of it by launching new icons and interfaces. Recently, iOS also received small hints of Skeuomorphism through some parts of the OS.
 
 ## What is Skeuomorphism?
-Way before screens, Skeuomorphism traces its roots from material objects and artistic movements like Art Nouveau, but it was only quoted on computers starting from the 1980s. Skeuomorphism is considered to be the use of metaphors of real life to mimic the real-world objects represented. The most common example that is always given is "the iPhone's old visual interface".
+Way before screens, Skeuomorphism traces its roots from material objects and artistic movements like Art Nouveau, but it was only quoted on computers starting from the 1980s. Skeuomorphism is considered to be the use of metaphors of real life to mimic the real-world objects represented. One of the most common example that is always given is "the iPhone's old visual interface".
 
 ## Research Question
 It's with that fascination into user interfaces that I wanted to revisit Skeuomorphism, maybe out of Nostalgia, but more importantly investigate the emotions of people who used these interfaces and what they think of them now. I'm also thinking about the future, as we're recently seeing a return to three dimension styling to user interfaces. So, what is the Role of Skeuomorphism through Materiality, Accessibility and Nostalgia?
@@ -47,7 +47,7 @@ It's with that fascination into user interfaces that I wanted to revisit Skeuomo
 Mixing qualitative and quantitative surveys and interviews, I wanted to know how ordinary people think of Skeuomorphism in user interfaces. I started interviewing people for an hour, where we went back in time and used old technologies from more than ten years ago! Apart from that, I went on to post a survey on some Reddit groups to gather insights on people but also references.
 
 The interviews I first conducted consisted of asking people about their knowledge of Skeuomorphism, explaining it, comparing it to Flat Design, asking their opinion on both design styles and finally enquire them about their ideas for future GUIs or UIs in general.
-The next step was to make them choose a device from the table, turn it on and use it until they want to go to another one. While they're using it, I'm asking questions and guiding them to open some apps like Calendar, Notes, Media Player, ... All while prompting them for reactions and emotions. The devices were composed of two laptops and three smartphones, displaying a range of what I call *The Spectrum of Skeuomorphic GUIs*.
+The next step was to make them choose one device from a table, turn it on and use it until they want to go to another one. While they're using it, I'm asking questions and guiding them to open some apps like Calendar, Notes, Media Player, ... All while prompting them for reactions and emotions. The devices were composed of two laptops and three smartphones, displaying a range of what I call *The Spectrum of Skeuomorphic GUIs*.
 
 
 # Design Elements
@@ -94,7 +94,7 @@ How Gen Z sees Skeuomorphism.
 
 # Conclusion
 ## What's Next?
-text
+AR? VR? Apple started incorporating some of it's design elements from the Vision Pro OS into its mobile OS UI.
 
 ## Practical Project
 I don't know yet. :(
