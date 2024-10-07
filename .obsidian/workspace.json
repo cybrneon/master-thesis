@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "29160e697d04d4d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md"
               }
             }
           }
@@ -145,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8494e41990e5108",
+  "active": "29160e697d04d4d3",
   "lastOpenFiles": [
-    "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "README.md",
+    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
+    "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "B_METHOD/README.md",
     "B_METHOD/PROCESS/2024-09-30/New_Pulled_Themes.md",
     "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
@@ -174,7 +188,6 @@
     "B_METHOD/PROCESS/2024-09-30",
     "B_METHOD/Methodology_Canvas-2024-09-03.canvas",
     "D_OUTPUT/WRITING/2024-09-02/240902_Structure.md",
-    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "D_OUTPUT/WRITING/2024-09-30",
     "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
     "C_DATA/THOUGHTS/Thoughts_Collection.md",
