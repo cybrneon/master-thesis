@@ -10,14 +10,25 @@ List of all ideas for my master project.
 Thinking of the final shape of the Thesis...
 
 ### Writing
+#### **2024-10-08**
+#### [Writing + Thinking of the Final Object Shape](WRITING/2024-10-08/241008_Skeuomorphism.md)
+Establishing the cases I want to analyze, and thinking graphic design and layout of the final object.
 
-#### [10'000 characters! 🥳](WRITING/2024-10-02/241002_Skeuomorphism.md)
-**2024-10-02:** Passing the 10'000 characters threshold. A bit late, but let's trust the process.
+#### **2024-10-02**
+#### [10'000 characters!](WRITING/2024-10-02/241002_Skeuomorphism.md)
+Passing the 10'000 characters threshold. A bit late, but let's trust the process.
+
+#### **2024-09-30**
 #### [Writing...](WRITING/2024-09-30/240930_Skeuomorphism.md)
-**2024-09-30:** Writing...
+Writing...
+
 #### [New Structure](WRITING/2024-09-30/240930_Structure.md)
-**2024-09-30:** Making things clearer.
+Making things clearer.
+
+#### **2024-09-19**
 #### [Writing Stuff](WRITING/2024-09-19/240919_Writing-Stuff.md)
-**2024-09-19:** Pushing myself to start writing.
+Pushing myself to start writing.
+
+#### **2024-09-02**
 #### [Structure](WRITING/2024-09-02/240902_Structure.md)
-**2024-09-02:** The Thesis's Table of Contents.
+The Thesis's Table of Contents.

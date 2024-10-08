@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e860f2e77050d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D_OUTPUT/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e72ceeb78f4dd88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D_OUTPUT/WRITING/2024-10-08/241008_Structure.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5a39bf822cd6ca3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
+                "file": "D_OUTPUT/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
+                "file": "D_OUTPUT/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md"
+                "file": "D_OUTPUT/README.md"
               }
             }
           }
@@ -158,21 +194,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "29160e697d04d4d3",
+  "active": "8e860f2e77050d96",
   "lastOpenFiles": [
-    "README.md",
-    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
-    "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
-    "B_METHOD/README.md",
-    "B_METHOD/PROCESS/2024-09-30/New_Pulled_Themes.md",
+    "D_OUTPUT/WRITING/2024-10-08/241008_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-08/241008_Structure.md",
     "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "E_ASSETS/repo-images/skeuomorphism_icon.png",
+    "C_DATA/IMAGES/MacOSX_Aqua_2.jpg",
+    "C_DATA/IMAGES/MacOSX_Aqua.jpg",
+    "C_DATA/IMAGES/VistaRTM_Aero.png",
+    "C_DATA/IMAGES/VistaBeta_Aero.png",
+    "C_DATA/IMAGES",
+    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
+    "README.md",
+    "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-08",
+    "B_METHOD/README.md",
+    "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
+    "B_METHOD/PROCESS/2024-09-30/New_Pulled_Themes.md",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "C_DATA/INTERVIEWS/README.md",
     "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "D_OUTPUT/WRITING/2024-09-30/240930_Structure.md",
     "B_METHOD/PROCESS/2024-10-03",
-    "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-02",
     "C_DATA/SPECTRUM",
@@ -196,18 +241,9 @@
     "E_ASSETS/repo-images/skeuomorphism_hero 1.png",
     "B_METHOD/PROCESS/2024-09-23/Nicolas-Nova-Sketch_230924.png",
     "B_METHOD/PROCESS/2024-09-23",
-    "D_OUTPUT/EXPORTS/240919_Writing-Stuff.pdf",
-    "D_OUTPUT/EXPORTS",
     "E_ASSETS/repo-images/skeumorphism_hero.png",
     "PROCESS/Methodology_Canvas.md",
-    "E_ASSETS/method/devices-excel-screenshot.png",
-    "E_ASSETS/method/user-tests-disposition-scheme.png",
     "D_OUTPUT/WRITING/2024-09-02/240902_Materiality.md",
-    "C_DATA/INTERVIEWS/Interviews_Table.jpeg",
-    "C_DATA/INTERVIEWS/NUMBER 1/IMG_8268.jpeg",
-    "C_DATA/INTERVIEWS/NUMBER 1/IMG_8267.jpeg",
-    "B_METHOD/PROCESS/2024-05-30/Early_Thesis_Research_Presentation.md",
-    "B_METHOD/PROCESS/2024-09-04/How_To_Start.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
