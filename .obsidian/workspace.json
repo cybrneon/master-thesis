@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b3e44080ae56cc6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D_OUTPUT/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md"
+                "file": "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md"
               }
             }
           }
@@ -170,54 +182,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "3088c19278777fa8",
-    "type": "floating",
-    "children": [
-      {
-        "id": "deeecd467a31f1f8",
-        "type": "window",
-        "children": [
-          {
-            "id": "8c007aa4a713fbb5",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b7131251c5f22b0e",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
-                    "viewState": {
-                      "x": 270,
-                      "y": -110,
-                      "zoom": -0.009915468865082962
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -2482,
-        "y": 267,
-        "width": 1794,
-        "height": 1286,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "5e72ceeb78f4dd88",
   "lastOpenFiles": [
+    "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "C_DATA/IMAGES/Vista_3Dflip.png",
+    "C_DATA/IMAGES/MacOS9.png",
+    "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-10",
+    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "README.md",
     "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
-    "D_OUTPUT/README.md",
-    "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
-    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "D_OUTPUT/WRITING/2024-10-08/241008_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-08/241008_Structure.md",
     "C_DATA/IMAGES/SegoeUI.png",
@@ -235,7 +212,6 @@
     "B_METHOD/README.md",
     "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "B_METHOD/PROCESS/2024-09-30/New_Pulled_Themes.md",
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "C_DATA/INTERVIEWS/README.md",
     "D_OUTPUT/WRITING/2024-09-30/240930_Structure.md",
     "B_METHOD/PROCESS/2024-10-03",
@@ -250,16 +226,12 @@
     "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
     "B_METHOD/PROCESS/2024-09-23/Meeting_With_Nicolas_Nova.md",
     "B_METHOD/PROCESS/2024-09-25/Following_The_WIP_Workshop.md",
-    "B_METHOD/PROCESS/2024-09-30/Methodology_Canvas-2024-09-30.png",
     "B_METHOD/PROCESS/2024-09-30",
     "B_METHOD/Methodology_Canvas-2024-09-03.canvas",
     "D_OUTPUT/WRITING/2024-09-02/240902_Structure.md",
     "D_OUTPUT/WRITING/2024-09-30",
     "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
     "C_DATA/THOUGHTS/Thoughts_Collection.md",
-    "B_METHOD/PROCESS/2024-09-25",
-    "E_ASSETS/repo-images/skeuomorphism_hero.png",
-    "PROCESS/Methodology_Canvas.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

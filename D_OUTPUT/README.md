@@ -10,6 +10,14 @@ List of all ideas for my master project.
 Thinking of the final shape of the Thesis...
 
 ### Writing
+
+#### **2024-10-10**
+#### [Writing...](WRITING/2024-10-10/241010_Skeuomorphism.md)
+Writing...
+
+#### **2024-10-09**
+#### [Writing...](WRITING/2024-10-09/241009_Skeuomorphism.md)
+Writing...
 #### **2024-10-08**
 #### [Writing + Thinking of the Final Object Shape](WRITING/2024-10-08/241008_Skeuomorphism.md)
 Establishing the cases I want to analyze, and thinking graphic design and layout of the final object.
