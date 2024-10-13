@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md"
+                "file": "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md"
               }
             }
           }
@@ -182,18 +182,63 @@
       "command-palette:Open command palette": false
     }
   },
+  "floating": {
+    "id": "1a5ba4e05d98b8a9",
+    "type": "floating",
+    "children": [
+      {
+        "id": "52f3f12adc4327eb",
+        "type": "window",
+        "children": [
+          {
+            "id": "15088ad9c4f6c2a9",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2a843557807db14f",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
+                    "viewState": {
+                      "x": 303.3963551243976,
+                      "y": 17.753104507077406,
+                      "zoom": -0.4427589225996294
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": -1867,
+        "y": 330,
+        "width": 1214,
+        "height": 965,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "5e72ceeb78f4dd88",
   "lastOpenFiles": [
+    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
+    "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md",
     "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/2024-10-11/241010_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-11",
+    "D_OUTPUT/WRITING/2024-10-10 - Copy/241010_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-10 - Copy",
     "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
+    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "C_DATA/IMAGES/Vista_3Dflip.png",
     "C_DATA/IMAGES/MacOS9.png",
     "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-10",
-    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "README.md",
-    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
     "D_OUTPUT/WRITING/2024-10-08/241008_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-08/241008_Structure.md",
@@ -226,12 +271,7 @@
     "A_INSPIRATION/PROCESS/2024-05-15/Talk_with_Nicolas_Nova.md",
     "B_METHOD/PROCESS/2024-09-23/Meeting_With_Nicolas_Nova.md",
     "B_METHOD/PROCESS/2024-09-25/Following_The_WIP_Workshop.md",
-    "B_METHOD/PROCESS/2024-09-30",
     "B_METHOD/Methodology_Canvas-2024-09-03.canvas",
-    "D_OUTPUT/WRITING/2024-09-02/240902_Structure.md",
-    "D_OUTPUT/WRITING/2024-09-30",
-    "B_METHOD/PROCESS/2024-09-13/Pulled_Themes.md",
-    "C_DATA/THOUGHTS/Thoughts_Collection.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
