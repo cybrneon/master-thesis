@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md",
+                "file": "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md"
+                "file": "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md"
               }
             }
           }
@@ -215,8 +215,8 @@
         "direction": "vertical",
         "x": -1867,
         "y": 330,
-        "width": 1214,
-        "height": 965,
+        "width": 1241,
+        "height": 975,
         "maximize": false,
         "zoom": 0
       }
@@ -224,22 +224,26 @@
   },
   "active": "5e72ceeb78f4dd88",
   "lastOpenFiles": [
-    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
-    "D_OUTPUT/WRITING/2024-10-11/241011_Skeuomorphism.md",
+    "C_DATA/IMAGES/iPhone_2007.jpg",
+    "C_DATA/IMAGES/iMac_G4.png",
+    "C_DATA/IMAGES/1998_iMac.jpg",
+    "C_DATA/IMAGES/osx_quicktime5.jpg",
     "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md",
+    "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
+    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
+    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "D_OUTPUT/WRITING/2024-10-11/241010_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-11",
+    "D_OUTPUT/WRITING/2024-10-14",
     "D_OUTPUT/WRITING/2024-10-10 - Copy/241010_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-10 - Copy",
     "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
-    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "C_DATA/IMAGES/Vista_3Dflip.png",
     "C_DATA/IMAGES/MacOS9.png",
     "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-10",
     "README.md",
-    "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
     "D_OUTPUT/WRITING/2024-10-08/241008_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-08/241008_Structure.md",
     "C_DATA/IMAGES/SegoeUI.png",
@@ -248,9 +252,6 @@
     "D_OUTPUT/WRITING/2024-10-09",
     "E_ASSETS/repo-images/skeuomorphism_icon.png",
     "C_DATA/IMAGES/MacOSX_Aqua_2.jpg",
-    "C_DATA/IMAGES/MacOSX_Aqua.jpg",
-    "C_DATA/IMAGES/VistaRTM_Aero.png",
-    "C_DATA/IMAGES/VistaBeta_Aero.png",
     "C_DATA/IMAGES",
     "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-08",

@@ -87,12 +87,12 @@ Shadows also play an important role in adding depth to windows and make them app
 
 ![](../../../C_DATA/IMAGES/Aero_Example.png)
 
-With this new visual style came a new typography that was developed especially for this new era. Developed by Steve Matteson at Monotype, Segoe replaces Franklin Gothic and Tahoma that Microsoft was using for its branding and UI. This new typeface characterizes itself as a humanist font family (Based on the VoxATypI classification). Segoe also worked great on the brand new LCD displays at the time.
+With this new visual style came a new typography that was designed especially for this new era. Developed by Steve Matteson at Monotype, Segoe replaces Franklin Gothic and Tahoma that Microsoft was using for its branding and UI. This new typeface characterizes itself as a humanist font family (Based on the VoxATypI classification). Segoe also worked great on the brand new LCD displays at the time.
 
 ![](../../../C_DATA/IMAGES/SegoeUI.png)
 
 ### Acoustics
-Outside of the trash bin sound when it's emptied, Aero brings many sounds. From the startup sound to the email notification sound. The audio cues of the new sounds are more softer than Windows XP's literal ones.
+Outside of the trash bin sound when it's emptied, Aero brings many high quality sounds. From the startup sound to the email notification sound. The audio cues of the new sounds are more softer than Windows XP's literal ones.
 
 These new sounds sound more synthetic, more glassy.
 
@@ -116,33 +116,48 @@ Introduced with the tenth version of Mac OS in 2000, Aqua was also a complete re
 ![](../../../C_DATA/IMAGES/MacOS9.png)
 
 ### Visuals
+During the announcement of this new version of Mac OS, Steve Jobs promised "killer graphics".
 Aqua featured new icons that looked just like real-life objects. The Mail app icon was a postage stamp, the Settings app icon was a switch on a board, etc. Nothing really new from what icons looked like before, but this was the first time that icons were in high definition and looked 3D, compared to illustrations or vectors. There was a big work on shapes, lightning and textures.
 
 ![](../../../C_DATA/IMAGES/MacOSX_Aqua.jpg)
 
-### Acoustics
+Some apps's backgrounds use metallic textures, like the QuickTime 5 video player. It uses a brushed aluminum texture all around.
 
+![](../../../C_DATA/IMAGES/osx_quicktime5.jpg)
+
+The new iMac G4 came out in 2002 with this new version of the Macintosh OS.
+
+![](../../../C_DATA/IMAGES/iMac_G4.png)
+
+### Acoustics
+Speaking of sounds, Aqua brings so many new high quality sounds that
 
 ### Motion
-
+Aqua brings so many new system wide animations. Icons bounce when loading from the dock, windows are squeezed into the app icon's on the dock when minimized and reopened (Genie Effect), Magnification of the dock, ...
 
 ## iPhoneOS
 Developer: Apple Computer
 Period: 2007-2013
 
+![](../../../C_DATA/IMAGES/iPhone_2007.jpg)
+In 2007, Apple shook the world by announcing their take on the mobile phone. The iPhone had a distinct industrial style; it looked simple, minimalist and fancy compared to other mobiles at the same time.
 ### Visuals
-text
+Based on MacOS X, iOS used lots of design cues from its desktop counterpart, all while having its own aesthetic and user experience.
 
 ### Acoustics
-text
+One of the most known iPhone ringtone is Marimba.
 
 ### Motion
-text
+Because of how new this type of multitouch interface was, Apple had to make animations for people to understand what was happening in the palm of their hand.
 
 
 ## Android Skins
 Developer: Google, Samsung, HTC, etc.
 Period: 2007-2013
+
+It wasn't until 2008 that the first third-party OEM, HTC, announced their first Android powered mobile phone. After that, many other OEMs felt the need to jump on the smartphone train.
+
+Apple Inc. v. Samsung Electronics Co. - Patent Infringements, smartphone wars.
 
 ### Visuals
 text
@@ -176,24 +191,36 @@ In the 1980 and 1990s, metaphors were being discussed in Human Computer Interact
 
 Metaphors also benefit from mimeticism, as lots of icons and layouts mimic their real life counterparts.
 
+
+
 ## Affordances
 "See that door handle? How do you know you have to pull it?"
 "Do you see the button on the blind's remote? How do you know you have to press it?"
 
 After explaining the concept of Affordances to the people I interviewed, many attested, without me asking, that phones and computers they use today have lost some affordances in their respective user interfaces. I couldn't disagree with them as multiple studies show that Skeuomorphism was winning in terms of accessibility. 
 
+Shadows are another element that is deemed important.
+
 But, same question as for the metaphors, how do you make current user interfaces intuitive when "everyone gets it now"? how do new generations tackle interactions with tech devices?
+
+To end this chapter, let's not forget that the actual perception of affordances will be determined in part by the observer's culture, social setting, experience and intentions. (ref. William Gaver)
 
 
 # Nostalgia
 ## Simpler Times
-We tend to think that "Before, things were always better".
+We tend to think that "Before, things were always better", and sometimes it can be better. A person I interviewed during my user tests found the iPhone 5's Settings app to be so uncluttered that it felt empty. It seems that user interfaces
 
 ## Legacy
 How does Skeuomorphism's legacy influence today's UI design.
 
+Finally, skeuomorphism's legacy can also be considered sociological thanks to one of the most fascinating design styles of the 2000s and its naming; Frutiger Aero.
+
 ## An Unrealized Future
-How Gen Z sees Skeuomorphism.
+How Gen Z AND Gen Alpha sees Skeuomorphism.
+
+Frutiger Aero is a broad design style and aesthetic attributed to the post Y2K era, that can be found in advertising, media, technology. Invented by Sofi Lee, the name Frutiger Aero is named after the famous typeface designer Adrian Frutiger (creator of the famous and copied Frutiger humanist typeface) and Windows Aero (the GUI of Windows Vista and 7). And according to the Aesthetics Wiki, it is sometimes references as Web 2.0 Gloss, and contains many sub-aesthetics and related aesthetics like Frutiger Metro, Technozen, Frutiger Eco and Helvetica Aqua.
+
+This style became viral in 2022 on social media, especially TikTok. It sparked a subreddit with nearly 70k members, at the time of writing.
 
 
 # Conclusion
