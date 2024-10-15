@@ -125,7 +125,7 @@ Some apps's backgrounds use metallic textures, like the QuickTime 5 video player
 
 ![](../../../C_DATA/IMAGES/osx_quicktime5.jpg)
 
-The new iMac G4 came out in 2002 with this new version of the Macintosh OS.
+The new iMac G4 came out in 2002 with this new version of the Mac OS. It featured a clean design that let the UI speak for itself.
 
 ![](../../../C_DATA/IMAGES/iMac_G4.png)
 
@@ -140,7 +140,8 @@ Developer: Apple Computer
 Period: 2007-2013
 
 ![](../../../C_DATA/IMAGES/iPhone_2007.jpg)
-In 2007, Apple shook the world by announcing their take on the mobile phone. The iPhone had a distinct industrial style; it looked simple, minimalist and fancy compared to other mobiles at the same time.
+
+In 2007, Apple shook the world by announcing their take on the mobile phone. The iPhone had a distinct industrial style; it looked simple, minimalist and fancy compared to other mobiles at the same time. It brought a distinctive design that was about to inspire many other companies for the years to come.
 ### Visuals
 Based on MacOS X, iOS used lots of design cues from its desktop counterpart, all while having its own aesthetic and user experience.
 
@@ -189,7 +190,7 @@ And here I will talk about my interviews, or reference them.
 ## Metaphors
 In the 1980 and 1990s, metaphors were being discussed in Human Computer Interaction as a way of democratizing computers by using words everyone knew, mainly in business environments; Desktop, Folder, File, Trash Bin, ... A reason for that was that computers were initially work equipment, but at the same time these were also words everyone already got the concept of.
 
-Metaphors also benefit from mimeticism, as lots of icons and layouts mimic their real life counterparts. The icons designed for the Xerox Alto give a really bold business setting through its UI, with cabinet files, mail baskets, folders, ...
+Metaphors also benefit from mimeticism, as lots of icons and layouts mimic their real life counterparts. The icons designed for the Xerox Alto give a really bold business setting through its UI, with cabinet files, mail baskets, folders, ... because computers were business machines.
 
 ![](../../../C_DATA/IMAGES/XeroxAlto_Icons.jpg)
 
@@ -198,7 +199,7 @@ Apple won't ask Susan Kare to design icons for the first Apple computer with a G
 ![](../../../C_DATA/IMAGES/MacOS1_Icons.png)
 ![](../../../C_DATA/IMAGES/Chicago.png)
 
-Although
+Although these icons were relatively new and user friendly, people sometime mistake them for other messages, like the dialog that shows up when any program crashes. People saw a bomb and kept calling Apple complaining that their computer was about to explode.
 
 ![](../../../C_DATA/IMAGES/MacOS1_Crash.png)
 
@@ -223,19 +224,23 @@ To end this chapter, let's not forget that the actual perception of affordances 
 
 # Nostalgia
 ## Simpler Times
-We tend to think that "Before, things were always better", and sometimes it can be better. A person I interviewed during my user tests found the iPhone 5's Settings app to be so uncluttered that it felt empty. It seems that user interfaces
+We tend to think that "Before, things were always better", and sometimes it can be better. A person I interviewed during my user tests found the iPhone 5's Settings app to be so uncluttered compared to today's version that it felt empty. It seems that user interfaces have gotten so complicated with time, all while getting flatter visually; "An abstract thing like software was just more easier when everything resembled real world objects".
 
 ## Legacy
 How does Skeuomorphism's legacy influence today's UI design.
-
+We've been through Skeuomorphism and switched to Flat Design because of how cluttered and kitsch everyday user interfaces became, but also because of the explosion of app marketplaces with developers all bringing their apps with their style of skeuomorphism which led to a visual saturation. Flat Design seemed like a solution, by stripping away all details, textures, 3D effects, and any other visual "pollution".
 Finally, skeuomorphism's legacy can also be considered sociological thanks to one of the most fascinating design styles of the 2000s and its naming; Frutiger Aero.
 
 ## An Unrealized Future
-How Gen Z AND Gen Alpha sees Skeuomorphism.
-
 Frutiger Aero is a broad design style and aesthetic attributed to the post Y2K era, that can be found in advertising, media, technology. Invented by Sofi Lee, the name Frutiger Aero is named after the famous typeface designer Adrian Frutiger (creator of the famous and copied Frutiger humanist typeface) and Windows Aero (the GUI of Windows Vista and 7). And according to the Aesthetics Wiki, it is sometimes references as Web 2.0 Gloss, and contains many sub-aesthetics and related aesthetics like Frutiger Metro, Technozen, Frutiger Eco and Helvetica Aqua.
 
-This style became viral in 2022 on social media, especially TikTok. It sparked a subreddit with nearly 70k members, at the time of writing.
+![](../../../C_DATA/IMAGES/frutiger-aero-default.png)
+
+This categorization is pretty interesting as it puts a name and a period on a design style that is too soon to be named, compared to other historical design and art time periods. This style became viral in 2022 on social media, especially TikTok, and sparked a subreddit with nearly 70k members, at the time of writing.
+
+According to people who like the style, they believe that Frutiger Aero is all about a future that was promised to us but never delivered, especially as Gen Z people who grew up with all these graphics that merged nature elements, fluid shapes, floating elements and technology. Humans fantasizing on merging nature and technology expressed it through what we call Frutiger Aero today.
+
+I believe that Frutiger Aero is a direct result of nostalgia. As a Gen Z person, I do feel a bit nostalgic because I grew up with these colorful and dynamic design trends, that a big chunk of people from my generation experienced.
 
 
 # Conclusion

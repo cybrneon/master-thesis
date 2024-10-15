@@ -57,6 +57,8 @@ Malewicz. (2023, November 29). _Flat design is OVER. What’s next?_ [Video]. 8'
 
 Phoebe Yu. (2024, July 15). _Japanese web design: weird, but it works. Here’s why_ [Video]. 11'48".YouTube. https://www.youtube.com/watch?v=vi8pyS076a8
 
+UNKOWN (2014 May)._Susan Kare, iconographer (EG8)_ [Video]. Unknown Duration. Vimeo. https://vimeo.com/97583369
+
 ### Websites
 ALLCHIN, Jim. _Windows Vista Team Blog : The Sounds of Windows Vista_. (2006, November 9). https://web.archive.org/web/20061110152317/http://windowsvistablog.com/blogs/windowsvista/archive/2006/11/09/the-sounds-of-windows-vista.aspx
 

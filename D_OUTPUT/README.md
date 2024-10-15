@@ -13,7 +13,7 @@ Thinking of the final shape of the Thesis...
 
 #### **2024-10-15**
 #### [Writing...](WRITING/2024-10-15/241015_Skeuomorphism.md)
-Writing... And passed the 20'000 characters mark. Still a long way to go.
+Writing... And passed the 22'000 characters mark. Still a long way to go.
 
 #### **2024-10-14**
 #### [Writing...](WRITING/2024-10-14/241014_Skeuomorphism.md)

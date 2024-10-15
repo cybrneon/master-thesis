@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "D_OUTPUT/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "123e64516c662e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "D_OUTPUT/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "D_OUTPUT/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "D_OUTPUT/README.md"
               }
             }
           }
@@ -213,8 +225,8 @@
           }
         ],
         "direction": "vertical",
-        "x": -2498,
-        "y": 273,
+        "x": -4996,
+        "y": 328,
         "width": 1024,
         "height": 800,
         "maximize": false,
@@ -225,25 +237,30 @@
   "active": "5e72ceeb78f4dd88",
   "lastOpenFiles": [
     "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
+    "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
+    "C_DATA/IMAGES/frutiger-aero-default.png",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "D_OUTPUT/README.md",
+    "E_ASSETS/buttons/iOS_Button_Test2.png",
+    "E_ASSETS/buttons/WindowsVista_Button_Test.png",
+    "E_ASSETS/buttons/MacOSX_Button_Test.png",
+    "E_ASSETS/buttons/iOS_Button_Test.png",
+    "E_ASSETS/buttons",
+    "E_ASSETS/repo-images/buttons",
+    "E_ASSETS/repo-images/button",
+    "E_ASSETS/repo-images/New folder",
+    "README.md",
     "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "C_DATA/IMAGES/Chicago.png",
     "C_DATA/IMAGES/MacOS1_Crash.png",
     "C_DATA/IMAGES/MacOS1_Icons.png",
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "C_DATA/IMAGES/XeroxAlto_Icons.jpg",
     "C_DATA/IMAGES/MacOS1.png",
-    "C_DATA/IMAGES/MacOSX_dialog.png",
-    "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-15/241014_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-15",
     "D_OUTPUT/WRITING/2024-10-14 - Copy/241014_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-14 - Copy",
-    "C_DATA/IMAGES/iPhone_2007.jpg",
-    "C_DATA/IMAGES/iMac_G4.png",
-    "C_DATA/IMAGES/1998_iMac.jpg",
-    "C_DATA/IMAGES/osx_quicktime5.jpg",
-    "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
     "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "D_OUTPUT/WRITING/2024-10-11/241010_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-14",
@@ -252,21 +269,16 @@
     "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-10",
-    "README.md",
     "D_OUTPUT/WRITING/2024-10-08/241008_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-08/241008_Structure.md",
     "D_OUTPUT/WRITING/2024-10-09",
-    "C_DATA/IMAGES",
     "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-08",
     "B_METHOD/README.md",
     "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "B_METHOD/PROCESS/2024-09-30/New_Pulled_Themes.md",
     "C_DATA/INTERVIEWS/README.md",
     "D_OUTPUT/WRITING/2024-09-30/240930_Structure.md",
-    "B_METHOD/PROCESS/2024-10-03",
     "D_OUTPUT/WRITING/2024-09-30/240930_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-02",
     "A_INSPIRATION/README.md",
     "C_DATA/README.md",
     "D_OUTPUT/EDITORIAL/Final_Shape.md",
