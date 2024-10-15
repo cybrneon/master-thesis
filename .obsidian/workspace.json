@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md"
+                "file": "README.md"
               }
             }
           }
@@ -215,8 +215,8 @@
         "direction": "vertical",
         "x": -2498,
         "y": 273,
-        "width": 819,
-        "height": 545,
+        "width": 1024,
+        "height": 800,
         "maximize": false,
         "zoom": 0
       }
@@ -224,15 +224,15 @@
   },
   "active": "5e72ceeb78f4dd88",
   "lastOpenFiles": [
+    "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
+    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "C_DATA/IMAGES/Chicago.png",
     "C_DATA/IMAGES/MacOS1_Crash.png",
     "C_DATA/IMAGES/MacOS1_Icons.png",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
-    "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
     "C_DATA/IMAGES/XeroxAlto_Icons.jpg",
     "C_DATA/IMAGES/MacOS1.png",
     "C_DATA/IMAGES/MacOSX_dialog.png",
-    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-15/241014_Skeuomorphism.md",
@@ -250,7 +250,6 @@
     "D_OUTPUT/WRITING/2024-10-10 - Copy/241010_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-10 - Copy",
     "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
-    "C_DATA/IMAGES/Vista_3Dflip.png",
     "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-10",
     "README.md",
