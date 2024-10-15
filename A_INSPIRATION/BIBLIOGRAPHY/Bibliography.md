@@ -39,6 +39,8 @@ Urbano, I. C. V. P., Guerreiro, J. P. V., & Nicolau, H. M. A. A. (2022a). From s
 
 Urbano, I. C. V. P., Guerreiro, J. P. V., & Nicolau, H. M. A. A. (2022b). From skeuomorphism to flat design: Age-related differences in performance and aesthetic perceptions. _Behaviour & Information Technology_, _41_(3), 452–467. [https://doi.org/10.1080/0144929X.2020.1814867](https://doi.org/10.1080/0144929X.2020.1814867)
 
+WICHARY, Marcin (1983). _Human Factors testing in the design of Xerox’s 8010 ‘Star’ office workstation._ https://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation
+
 Wu, L., Lei, T., Li, J., & Li, B. (2015). Skeuomorphism and Flat Design: Evaluating Users’ Emotion Experience in Car Navigation Interface Design. In A. Marcus (Ed.), _Design, User Experience, and Usability: Design Discourse_ (Vol. 9186, pp. 567–575). Springer International Publishing. [https://doi.org/10.1007/978-3-319-20886-2_53](https://doi.org/10.1007/978-3-319-20886-2_53)
 
 ### Podcasts
