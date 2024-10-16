@@ -194,52 +194,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "1a5ba4e05d98b8a9",
-    "type": "floating",
-    "children": [
-      {
-        "id": "dce9537bd1a8b3a1",
-        "type": "window",
-        "children": [
-          {
-            "id": "30bda78dd5d0b470",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ee2928e47aee1d3",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
-                    "viewState": {
-                      "x": 378.1201378877184,
-                      "y": -89.82551419953299,
-                      "zoom": -0.5195714125081586
-                    }
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1859,
-        "y": 361,
-        "width": 1233,
-        "height": 905,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "5e72ceeb78f4dd88",
   "lastOpenFiles": [
+    "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/2024-10-16/241016_Skeuomorphism.md",
+    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
+    "C_DATA/IMAGES/MacOSXCatalina_vs_MacOS11BigSur_FinderComparison.png",
     "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
-    "D_OUTPUT/WRITING/2024-10-16/241016_Skeuomorphism.md",
     "C_DATA/IMAGES/Samsung_TouchWiz.png",
     "C_DATA/IMAGES/HTCSenseUI.jpg",
     "C_DATA/IMAGES/MacOSX_ContactsApp.png",
@@ -248,8 +211,6 @@
     "C_DATA/IMAGES/MacOSX_Aqua_Pinstripes.png",
     "C_DATA/IMAGES/MacOSX_Aqua_Pinstripes.gif",
     "C_DATA/IMAGES/MacOSX_Aqua_Pinstripes.jpg",
-    "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
-    "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/2024-10-16/241015_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-16",
     "D_OUTPUT/WRITING/2024-10-15 - Copy/241015_Skeuomorphism.md",
@@ -257,7 +218,6 @@
     "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
     "C_DATA/IMAGES/frutiger-aero-default.png",
     "E_ASSETS/buttons/iOS_Button_Test2.png",
-    "E_ASSETS/buttons/WindowsVista_Button_Test.png",
     "E_ASSETS/buttons",
     "E_ASSETS/repo-images/buttons",
     "E_ASSETS/repo-images/button",

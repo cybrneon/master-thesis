@@ -234,6 +234,10 @@ But giving a long shadow to a bigger object like a window makes it look like its
 
 ![](../../../C_DATA/IMAGES/MacOS1.png)
 
+Today, we don't see this big title bar difference in texture from the window because of how this interaction gesture became the norm and people got used to clicking and dragging the top of any window.
+
+![](../../../C_DATA/IMAGES/MacOSXCatalina_vs_MacOS11BigSur_FinderComparison.png)
+
 But, same question as for the metaphors, how do you make current user interfaces intuitive when "everyone gets it now"? how do new generations tackle interactions with tech devices?
 
 To end this chapter, let's not forget that the actual perception of affordances will be determined in part by the observer's culture, social setting, experience and intentions. (ref. William Gaver). Designing user interfaces for a Western market is so different than designing user interfaces for the Japanese market for example. When looking at Japanese user interfaces, westerners can see cluttered interfaces that feel overwhelming.
@@ -241,13 +245,15 @@ To end this chapter, let's not forget that the actual perception of affordances 
 
 # Nostalgia
 ## Simpler Times
-We tend to think that "Before, things were always better", can that be true in the case of UI design?. A person I interviewed during my user tests found the iPhone 5's Settings app to be so uncluttered compared to today's version, that it felt empty. It seems that user interfaces have gotten so complicated with time, all while getting flatter visually; "An abstract thing like software was just more easier when everything resembled real world objects".
+We tend to think that "Before, things were always better", can that be true in the case of UI design? During my user tests, a person I interviewed found the iPhone 5's Settings app to be so uncluttered and simple compared to today's version, that it felt empty. It seems that user interfaces have gotten so complicated with time, all while getting flatter visually; "An abstract thing like software was just more easier when everything resembled real world objects". Unlocking my iPhone and opening the settings app, I found myself overwhelmed by the amount of settings, colors and texts. Although we have so many functionalities because of these OSs age and improvements that came with it, we probably have too much choice and features that we probably don't fully utilize.
 
 ## Legacy
 (How does Skeuomorphism's legacy influence today's UI design.)
 We've been through Skeuomorphism and switched to Flat Design because of how cluttered and kitsch everyday user interfaces became, but also because of the explosion of app marketplaces with developers all bringing their apps with their own style and take on skeuomorphism which led to visual saturation. Flat Design seemed like a solution, by stripping away all details, textures, 3D effects, and any other visual "pollution".
 
-...
+Recently, the resurgence of 3D in UI design really challenged our Flat Design saturation by bringing something new, breaking away from the flat and minimalist looks but maintaining a sense of restraint on exaggeration.
+
+Some designers even design UIs that are not made to be functional but are more reinterpretation works of art, devoted to waking emotions and feelings up from people.
 
 Finally, skeuomorphism's legacy can also be considered sociological thanks to one of the most fascinating design styles of the 2000s and its naming; Frutiger Aero.
 
