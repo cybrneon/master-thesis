@@ -62,7 +62,7 @@ UNKOWN (2014 May)._Susan Kare, iconographer (EG8)_ [Video]. Unknown Duration. Vi
 ### Websites
 ALLCHIN, Jim. _Windows Vista Team Blog : The Sounds of Windows Vista_. (2006, November 9). https://web.archive.org/web/20061110152317/http://windowsvistablog.com/blogs/windowsvista/archive/2006/11/09/the-sounds-of-windows-vista.aspx
 
-UNKOWN. _Frutiger Aero_. (2024, May 13). Aesthetics Wiki. [https://aesthetics.fandom.com/wiki/Frutiger_Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
+BRAMLEY, Ellie Violet (2023, December 22). Frutiger Aero: the Windows screen saver design trend taking TikTok by storm. _The Guardian_. https://www.theguardian.com/fashion/2023/dec/14/frutiger-aero-the-windows-screen-saver-design-trend-taking-tiktok-by-storm
 
 Darius, Michael (2023a, October 19). _From Paper Ballots to Pixels: Tracing the history of the radio button & checkbox_. [https://skeuomorphic.design/p/from-paper-ballots-to-pixels-tracing](https://skeuomorphic.design/p/from-paper-ballots-to-pixels-tracing)
 
@@ -85,6 +85,8 @@ MANJOO, Farhad (2012, November 1). Should a Calendar App Look Like a Calendar? _
 NGUYEN, Terry (2023, March 17). _Dirt: Skeuomorphia_. The Dirtyverse. [https://dirt.fyi/article/2023/03/skeuomorphia](https://dirt.fyi/article/2023/03/skeuomorphia)
 
 OLIVERI, Scott (2020, August 4). Skeuomorphism: Design we Learned to Outgrow. _Design Warp_. [https://medium.com/design-warp/skeuomorphism-design-we-learned-to-outgrow-8a24895a80d0](https://medium.com/design-warp/skeuomorphism-design-we-learned-to-outgrow-8a24895a80d0)
+
+UNKOWN. _Frutiger Aero_. (2024, May 13). Aesthetics Wiki. [https://aesthetics.fandom.com/wiki/Frutiger_Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 
 ### Lawsuits
 _Apple Computer, Inc. v. Microsoft Corp., 35 F.3d 1435 (9th Cir. 1994)_. (n.d.). Justia Law. https://law.justia.com/cases/federal/appellate-courts/F3/35/1435/605245/
