@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-18/241018_Skeuomorphism.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "241018_Skeuomorphism"
+              "title": "README"
             }
           },
           {
@@ -149,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-18/241018_Skeuomorphism.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 241018_Skeuomorphism"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -168,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-18/241018_Skeuomorphism.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 241018_Skeuomorphism"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -195,10 +195,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "D_OUTPUT/WRITING/2024-10-18/241018_Skeuomorphism.md"
+                "file": "README.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 241018_Skeuomorphism"
+              "title": "Outline of README"
             }
           }
         ]
@@ -219,9 +219,17 @@
   },
   "active": "3f276d0fd7dabbaa",
   "lastOpenFiles": [
+    "E_ASSETS/repo-images/skeuomorphism_subhero.png",
+    "E_ASSETS/repo-images/SK_small.png",
+    "D_OUTPUT/WRITING/2024-10-22/241022_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-18/241018_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-22/241018_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-22",
+    "D_OUTPUT/WRITING/2024-10-18 copy/241018_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-18 copy",
     "D_OUTPUT/EXPORTS/241018_Skeuomorphism.pdf",
     "D_OUTPUT/README.md",
-    "D_OUTPUT/WRITING/2024-10-18/241018_Skeuomorphism.md",
     "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "D_OUTPUT/WRITING/2024-10-18/241017_Skeuomorphism.md",
@@ -251,10 +259,6 @@
     "D_OUTPUT/WRITING/2024-10-15 - Copy/241015_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-15 - Copy",
     "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
-    "C_DATA/IMAGES/frutiger-aero-default.png",
-    "E_ASSETS/buttons",
-    "E_ASSETS/repo-images/buttons",
-    "E_ASSETS/repo-images/button",
     "README.md",
     "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-15/241014_Skeuomorphism.md",
@@ -262,10 +266,6 @@
     "D_OUTPUT/WRITING/2024-10-11/241010_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-10 - Copy/241010_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-10/241010_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-09/241009_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-08/241008_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-08/241008_Structure.md",
-    "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
     "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "B_METHOD/Methodology_Canvas-2024-09-03.canvas",
     "Untitled.canvas",

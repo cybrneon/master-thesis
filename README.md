@@ -1,4 +1,6 @@
+![](E_ASSETS/repo-images/skeuomorphism_subhero.png)
 ![](E_ASSETS/repo-images/skeuomorphism_hero.png)
+
 # Master Thesis
 
 ## Intro
