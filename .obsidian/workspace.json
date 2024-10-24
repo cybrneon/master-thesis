@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "c8494e41990e5108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Practical_Project_Ideas"
-            }
-          },
-          {
             "id": "123e64516c662e9b",
             "type": "leaf",
             "state": {
@@ -47,34 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "Bibliography"
-            }
-          },
-          {
-            "id": "b3e44080ae56cc6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D_OUTPUT/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "d5a39bf822cd6ca3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Small_Presentation_of_Process"
             }
           }
         ]
@@ -219,11 +177,14 @@
   },
   "active": "3f276d0fd7dabbaa",
   "lastOpenFiles": [
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "D_OUTPUT/README.md",
+    "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
+    "README.md",
+    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "B_METHOD/PROCESS/2024-10-24/Thesis_Names.md",
     "B_METHOD/README.md",
-    "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
     "B_METHOD/PROCESS/2024-10-24",
-    "README.md",
     "E_ASSETS/repo-images/skeuomorphism_subhero.png",
     "E_ASSETS/repo-images/SK_small.png",
     "D_OUTPUT/WRITING/2024-10-22/241022_Skeuomorphism.md",
@@ -234,9 +195,6 @@
     "D_OUTPUT/WRITING/2024-10-18 copy/241018_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-18 copy",
     "D_OUTPUT/EXPORTS/241018_Skeuomorphism.pdf",
-    "D_OUTPUT/README.md",
-    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "D_OUTPUT/WRITING/2024-10-18/241017_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-18",
     "D_OUTPUT/WRITING/2024-10-17 - Copy/241017_Skeuomorphism.md",
