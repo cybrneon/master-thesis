@@ -8,7 +8,7 @@ This is my Master Thesis repository.
 It's still a work in progress, final deadline is on the 6th of Dec 2024.
 
 ## Research Question
-**How does the evolution of skeuomorphism influence our perception of graphical interfaces, and what role does accessibility and nostalgia play in the way we consider and design these interfaces?**
+	**How does the evolution of skeuomorphism influence our perception of graphical interfaces, and what role does accessibility and nostalgia play in the way we consider and design these interfaces?**
 
 
 ## Links
