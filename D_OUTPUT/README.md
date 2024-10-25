@@ -11,6 +11,14 @@ Thinking of the final shape of the Thesis...
 
 ### Writing
 
+#### **2024-10-25**
+#### [✍️ ](WRITING/2024-10-25/241025_Skeuomorphism.md)
+Still small writing...
+
+#### **2024-10-22**
+#### [✍️](WRITING/2024-10-22/241022_Skeuomorphism.md)
+Small writing...
+
 #### **2024-10-18**
 #### [Writing... And sending to tutors](WRITING/2024-10-18/241018_Skeuomorphism.md)
 🎉🎉🎉🎉🎉🎉 yay.

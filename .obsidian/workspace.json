@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "43326fc6301d8918",
+        "id": "f90d02e5c74b2b51",
         "type": "tabs",
         "children": [
           {
-            "id": "123e64516c662e9b",
+            "id": "c26bbc651637a305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bibliography"
-            }
-          },
-          {
-            "id": "f743a29b7524644d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
+                "file": "D_OUTPUT/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
+            }
+          },
+          {
+            "id": "f75e179de7f3b9f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D_OUTPUT/WRITING/2024-10-25/241025_Skeuomorphism.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "241025_Skeuomorphism"
             }
           }
         ],
@@ -176,19 +176,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6518dcf2b102103",
+  "active": "f75e179de7f3b9f7",
   "lastOpenFiles": [
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "D_OUTPUT/README.md",
-    "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
+    "D_OUTPUT/WRITING/2024-10-25/241025_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-25/241022_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-25",
+    "D_OUTPUT/WRITING/2024-10-22 2/241022_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-10-22 2",
+    "D_OUTPUT/WRITING/2024-10-22/241022_Skeuomorphism.md",
     "README.md",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
     "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "B_METHOD/PROCESS/2024-10-24/Thesis_Names.md",
     "B_METHOD/README.md",
     "B_METHOD/PROCESS/2024-10-24",
     "E_ASSETS/repo-images/skeuomorphism_subhero.png",
     "E_ASSETS/repo-images/SK_small.png",
-    "D_OUTPUT/WRITING/2024-10-22/241022_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-02/241002_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-18/241018_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-22/241018_Skeuomorphism.md",
@@ -213,18 +218,13 @@
     "C_DATA/IMAGES/HTCSenseUI.jpg",
     "C_DATA/IMAGES/MacOSX_ContactsApp.png",
     "C_DATA/IMAGES/MacOSX_NotesApp.jpg",
-    "C_DATA/IMAGES/MacOSX_Aqua_Pinstripes.png.~tmp",
     "C_DATA/IMAGES/MacOSX_Aqua_Pinstripes.png",
     "C_DATA/IMAGES/MacOSX_Aqua_Pinstripes.gif",
     "D_OUTPUT/WRITING/2024-10-16/241015_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-16",
     "D_OUTPUT/WRITING/2024-10-15 - Copy/241015_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-15/241015_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-14/241014_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-15/241014_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-14 - Copy/241014_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-11/241010_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-10 - Copy/241010_Skeuomorphism.md",
     "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "B_METHOD/Methodology_Canvas-2024-09-03.canvas",
     "Untitled.canvas",
