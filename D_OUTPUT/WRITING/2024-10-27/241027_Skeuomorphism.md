@@ -175,7 +175,7 @@ Period: 2007-2013
 
 In 2007, Apple shook the world by announcing their take on the mobile phone. The iPhone had a distinct industrial style; it looked simple, minimalist and fancy compared to other mobiles at the same time. It brought a distinctive design that was about to inspire many other companies for the years to come.
 ### Visuals
-Based on MacOS X, iOS used lots of design cues from its desktop counterpart, all while having its own aesthetic and user experience.
+Based on MacOS X, iOS used lots of design cues from its desktop counterpart, all while having its own aesthetic and user experience. The iPhone was the first device that embraced many skeuomorphic principles in its user interface.
 
 ### Acoustics
 One of the most known iPhone ringtone is Marimba.
@@ -305,6 +305,7 @@ I believe that Frutiger Aero is a direct result of nostalgia. As a Gen Z person,
 
 # Conclusion
 ## What's Next?
+The post COVID-19 era has been marked by the democratisation of AI in our everyday lives.
 AR? VR? Apple started incorporating some of it's design elements from the Vision Pro OS into its mobile OS UI.
 
 ## Practical Project

@@ -64,6 +64,8 @@ ALLCHIN, Jim. _Windows Vista Team Blog : The Sounds of Windows Vista_. (2006, 
 
 BRAMLEY, Ellie Violet (2023, December 22). Frutiger Aero: the Windows screen saver design trend taking TikTok by storm. _The Guardian_. https://www.theguardian.com/fashion/2023/dec/14/frutiger-aero-the-windows-screen-saver-design-trend-taking-tiktok-by-storm
 
+CARRASQUEIRA, João (2024, March 31). 29 years ago, Microsoft Bob released and lived less than a year. _XDA_. https://www.xda-developers.com/on-this-day-29-years-ago-microsoft-bob-released/
+
 Darius, Michael (2023a, October 19). _From Paper Ballots to Pixels: Tracing the history of the radio button & checkbox_. [https://skeuomorphic.design/p/from-paper-ballots-to-pixels-tracing](https://skeuomorphic.design/p/from-paper-ballots-to-pixels-tracing)
 
 Darius, Michael (2023b, October 19). _The Quiet Disappearance of Skeuomorphism in Modern UI: A Re-examination_. [https://skeuomorphic.design/p/the-quiet-disappearance-of-skeuomorphism](https://skeuomorphic.design/p/the-quiet-disappearance-of-skeuomorphism)

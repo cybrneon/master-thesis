@@ -11,6 +11,10 @@ Thinking of the final shape of the Thesis...
 
 ### Writing
 
+#### **2024-11-04**
+#### [30'000! ](WRITING/2024-11-04/241104_Skeuomorphism.md)
+30'000 characters!!!
+
 #### **2024-10-25**
 #### [✍️ ](WRITING/2024-10-25/241025_Skeuomorphism.md)
 Still small writing...
