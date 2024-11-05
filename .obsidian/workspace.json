@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "3c8501cc945f5b58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Practical_Project_Ideas"
+            }
+          },
+          {
             "id": "9ad951b1ae8d2a8b",
             "type": "leaf",
             "state": {
@@ -192,11 +206,20 @@
   },
   "active": "bf6538e261a23313",
   "lastOpenFiles": [
+    "D_OUTPUT/EDITORIAL/Final_Shape.md",
+    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
+    "D_OUTPUT/README.md",
+    "D_OUTPUT/WRITING/2024-11-05/241105_Skeuomorphism.md",
+    "C_DATA/IMAGES/apple-vs-samsung.png",
+    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
+    "C_DATA/IMAGES/windows-8-wallpaper.jpg",
+    "D_OUTPUT/WRITING/2024-11-05/241104_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-11-05",
+    "D_OUTPUT/WRITING/2024-11-04 2/241104_Skeuomorphism.md",
+    "D_OUTPUT/WRITING/2024-11-04 2",
     "README.md",
     "D_OUTPUT/WRITING/2024-11-04/241104_Skeuomorphism.md",
-    "D_OUTPUT/README.md",
     "C_DATA/IMAGES/yahoo-jp.png",
-    "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "C_DATA/IMAGES/microsoft-bob-1995.png",
     "D_OUTPUT/WRITING/2024-10-27/241027_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-11-04/241027_Skeuomorphism.md",
@@ -213,7 +236,6 @@
     "D_OUTPUT/WRITING/2024-10-22 2",
     "D_OUTPUT/WRITING/2024-10-22/241022_Skeuomorphism.md",
     "B_METHOD/PROCESS/2024-10-03/Small_Presentation_of_Process.md",
-    "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
     "B_METHOD/README.md",
     "B_METHOD/PROCESS/2024-10-24",
     "E_ASSETS/repo-images/skeuomorphism_subhero.png",
@@ -224,20 +246,13 @@
     "D_OUTPUT/WRITING/2024-10-22",
     "D_OUTPUT/WRITING/2024-10-18 copy/241018_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-10-18 copy",
-    "D_OUTPUT/EXPORTS/241018_Skeuomorphism.pdf",
     "D_OUTPUT/WRITING/2024-10-18/241017_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-18",
     "D_OUTPUT/WRITING/2024-10-17 - Copy/241017_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-17/241017_Skeuomorphism.md",
     "C_DATA/IMAGES/WindowsPhone7.jpg",
-    "D_OUTPUT/WRITING/2024-10-16/241016_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-17/241016_Skeuomorphism.md",
     "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",
     "C_DATA/IMAGES/MacOSXCatalina_vs_MacOS11BigSur_FinderComparison.png",
     "C_DATA/IMAGES/Samsung_TouchWiz.png",
     "C_DATA/IMAGES/HTCSenseUI.jpg",
-    "C_DATA/IMAGES/MacOSX_ContactsApp.png",
-    "C_DATA/IMAGES/MacOSX_NotesApp.jpg",
     "B_METHOD/Methodology_Canvas-2024-09-30.canvas",
     "B_METHOD/Methodology_Canvas-2024-09-03.canvas",
     "Untitled.canvas",

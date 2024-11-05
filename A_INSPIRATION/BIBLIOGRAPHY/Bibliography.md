@@ -88,6 +88,8 @@ NGUYEN, Terry (2023, March 17). _Dirt: Skeuomorphia_. The Dirtyverse. [https://d
 
 OLIVERI, Scott (2020, August 4). Skeuomorphism: Design we Learned to Outgrow. _Design Warp_. [https://medium.com/design-warp/skeuomorphism-design-we-learned-to-outgrow-8a24895a80d0](https://medium.com/design-warp/skeuomorphism-design-we-learned-to-outgrow-8a24895a80d0)
 
+UNKNOWN, (2018, May 14). _Apple-Samsung patent battle revived in California court_. BBC News. https://www.bbc.com/news/technology-44108835
+
 UNKOWN. _Frutiger Aero_. (2024, May 13). Aesthetics Wiki. [https://aesthetics.fandom.com/wiki/Frutiger_Aero](https://aesthetics.fandom.com/wiki/Frutiger_Aero)
 
 ### Lawsuits

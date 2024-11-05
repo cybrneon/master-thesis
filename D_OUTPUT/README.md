@@ -11,6 +11,10 @@ Thinking of the final shape of the Thesis...
 
 ### Writing
 
+#### **2024-11-05**
+#### [32'000... It's going to be a rush to the finish line... ](WRITING/2024-11-05/241105_Skeuomorphism.md)
+Speedrunning a master thesis wasn't on my 2024 bingo card.
+
 #### **2024-11-04**
 #### [30'000! ](WRITING/2024-11-04/241104_Skeuomorphism.md)
 30'000 characters!!!
