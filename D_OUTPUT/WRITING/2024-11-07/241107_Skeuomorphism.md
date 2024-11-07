@@ -12,7 +12,8 @@ I also find it fascinating designing interfaces of operating systems, and the po
 
 # Introduction
 
-## A Dictionary
+## Appendix
+CLI: Command Line Interface
 GUI: Graphical User Interface
 UI: User Interface
 UX: User Experience
@@ -66,7 +67,7 @@ In 2023, Apple announced a mixed-reality headset called the Vision Pro and claim
 Mixing qualitative and quantitative surveys and interviews, I wanted to know how ordinary people think of Skeuomorphism in user interfaces. I started interviewing people (ordinary people and designers) for an hour, where we went back in time and used old technologies from more than ten years ago! Apart from that, I went on to post a survey on some Reddit groups to gather insights on people but also references.
 
 The interviews I first conducted consisted of asking people about their knowledge of Skeuomorphism, explaining it, comparing it to Flat Design, asking their opinion on both design styles and finally enquire them about their ideas for future GUIs or UIs in general.
-On the table in front of them, multiple diverse electronic devices that best represent the tech era. The devices were composed of two laptops and three smartphones, displaying a range of what I now call *The Spectrum of Skeuomorphic GUIs*.
+On the table in front of them, multiple diverse electronic devices that best represent the tech era. The devices were composed of two laptops and three smartphones, displaying a range of skeuomorphic GUIs of what I call *The Spectrum of Skeuomorphic GUIs*.
 The next step was to make them choose one device from the table, turn it on and use it until they want to go to another one. While they're using it, I'm asking questions and guiding them to open apps like Calendar, Notes, Media Player, etc. All while prompting them for reactions and emotions.
 
 
@@ -88,12 +89,6 @@ Movement and animations
 
 ---
 
-
-## The Spectrum of Skeuomorphic GUIs (is this really necessary?)
-Here's a visualization of all kinds of Skeuomorphic GUIs, as I've discovered there are lots of different designs and views of the Skeuomorphic Design movement.
-
-![](../../../C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas)
-
 ## Windows Aero
 Developer: Microsoft
 Period: 2005-2012
@@ -104,7 +99,7 @@ Introduced with Windows Vista in 2005, Aero was a complete redesign of the Windo
 
 ![](../../../C_DATA/IMAGES/XP_LunaBlue.png)
 ### Visuals
-People who used this OS, felt it was so glossy and looked shiny. They felt that the glossy and transparency elements gave the UI a light look to it. The most visible element on a desktop OS is the wallpaper, and the default wallpaper that comes with Vista references the northern lights. This can be considered skeuomorphism, in a way of employees view of auroras from Microsoft's headquarters in Redmond, USA (ref. Jenny Lam). And then comes the Desktop UI elements like the taskbar at the bottom, the icons all over the wallpaper and the widgets on the right.
+People who used this OS, felt it was so glossy and looked shiny. They felt that the glossy and transparency elements gave the UI a light look to it. The most visible element on a desktop OS is the wallpaper, and the default wallpaper that comes with Vista references the northern lights. This can be considered skeuomorphism, in a way, of employees view of auroras from Microsoft's headquarters in Redmond, USA (ref. Jenny Lam). And then comes the Desktop UI elements like the taskbar at the bottom, the icons all over the wallpaper and the widgets on the right.
 
 The taskbar looks shiny with its dark and glossy look. The Windows button all the way to the left has this glow to it that resembles a real button. And when you press it, it glows brighter signaling a feedback to the user, just like a real button.
 
@@ -122,15 +117,12 @@ With this new visual style came a new typography that was designed especially fo
 
 ### Acoustics
 Outside of the trash bin sound when it's emptied, Aero brings many high quality sounds. From the startup sound to the email notification sound. The audio cues of the new sounds are more softer than Windows XP's literal ones.
-
-These new sounds sound more synthetic, magic and glassy.
-
-ALLCHIN, Jim. _Windows Vista Team Blog : The Sounds of Windows Vista_. (2006, November 9). https://web.archive.org/web/20061110152317/http://windowsvistablog.com/blogs/windowsvista/archive/2006/11/09/the-sounds-of-windows-vista.aspx
+These new sounds sound more synthetic, magical, glassy and dreamy, immersing the users into the magical world of personal computing.
 
 ### Motion
 The Windows OS has been very static throughout its early years, and with this new design language came a new way of animating interface elements. Opening programs and closing them was animated with a fade in and fade out for example, things we take for granted today.
 
-There also was a new feature called 3D Flip that allowed you to see and switch from your open apps in a 3D way, giving a sci-fi/holographic way of seeing the desktop with an impression of control and power over the computer.
+There also was a new feature called 3D Flip that allowed you to see and switch from your open apps by showing them in a 3D way, giving a sci-fi/holographic way of seeing the desktop with an impression of control and power over the computer.
 
 ![](../../../C_DATA/IMAGES/Vista_3Dflip.png)
 
@@ -172,7 +164,9 @@ The new iMac G4 came out in 2002 with this new version of the Mac OS. It feature
 Speaking of sounds, Aqua brings so many new high quality sounds, from the start chime to the UI sounds.
 
 ### Motion
-Aqua brings so many new system wide animations. Icons bounce when loading from the dock, windows are squeezed into the app icon's on the dock when minimized and reopened (Genie Effect), Magnification of the dock, ...
+Aqua brings so many new system wide animations. Icons bounce when loading from the dock, windows are squeezed into the app icon's on the dock when minimized and reopened (Genie Effect, that is still present to this day!), Magnification of the dock, ...
+
+![](../../../C_DATA/IMAGES/macos-genie.jpg)
 
 ## iPhoneOS
 Developer: Apple Computer
@@ -181,14 +175,26 @@ Period: 2007-2013
 ![](../../../C_DATA/IMAGES/iPhone_2007.jpg)
 
 In 2007, Apple shook the world by announcing their take on the mobile phone. The iPhone had a distinct industrial style; it looked simple, minimalist and fancy compared to other mobiles at the same time. It brought a distinctive design that was about to inspire many other companies for the years to come.
+
 ### Visuals
-Based on MacOS X, iOS (initially known as iPhoneOS) used lots of design cues from its desktop counterpart, all while having its own aesthetic and user experience. The iPhone was the first device that embraced many skeuomorphic principles in its user interface.
+Based on MacOS X, iOS (initially known as iPhoneOS) used lots of design cues from its desktop counterpart, all while having its own aesthetic and user experience. The iPhone was the first device that embraced many skeuomorphic principles in its user interface. The GUI used a grid of 4 by 4 icons to display apps on the home screen. Swiping left or right revealed the next page of installed apps.
+
+Apps looked sharp and kind of out of this world, but at the same time replicating real-world elements. The giant display made it so that the GUI stands for itself. The homescreen layout with apps on a grid was something really new. With each icon having a detailed symbolization of its functionality. When opening apps, they literally open by scaling up its icon, something that other mobile phones didn't do and user no transitions because of how software and hardware heavy they were.
+
+Apple's Notes app on the iPhone looked like its macOS counterpart, although the later came in 2012, way after the iPhone when Apple implemented cues of its iOS into macOS. When the iPad came, the app took advantage of the whole display.
+
+![](../../../C_DATA/IMAGES/apple-notes-iphone.png)
+![](../../../C_DATA/IMAGES/apple-notes-ipad.png)
+
+The app UI featured leather, stiches, paper textures that made the iPad look like a notebook. The icons looked handdrawn, and when selecting a note, a red circle was drawn on the note's title in the side bar.
+
+Other apps featured similar metaphors like the Voice Memo app, having a big detailed microphone at the center of the screen. The camera app featured the look and feel of digital cameras. The Compass app really looked like a sailor's compass. Finally, Game Center, although being a social app for connecting players in iOS games, had a poker table texture.
 
 ### Acoustics
-One of the most known iPhone ringtone is Marimba.
+One of the most known iPhone ringtone is Marimba, xylophones playing a chime. The sounds also feel really material, from the ringtones to the system effects, it feels like real instruments or noise-making devices play the sounds.
 
 ### Motion
-Because of how new this type of multitouch interface was, Apple had to make animations for people to understand what was happening in the palm of their hand. When you tap an app, it scales to the screen to reveal the app, and when you close it the UI gets smaller and scales back to the app icon. Today, that kind of interaction feels normal, but back then the majority of phones didn't use transitions because it was gimmicky and took too much power.
+Because of how new this type of multitouch interface was, Apple had to make animations for people to understand what was happening in the palm of their hand. When you tap an app, it scales to the screen to reveal the app, and when you close it the UI gets smaller and scales back to the app icon. Today, that kind of interaction feels normal, but back then the majority of phones didn't use transitions because it was gimmicky and took too much power. Apple's animations on the first iPhone were slow, just to show first time users how apps "open" at the touch of their icon, compared to opening apps with a capacitive display or T9 keys.
 
 
 ## Android Skins
@@ -198,17 +204,16 @@ Period: 2007-2013
 It wasn't until 2008 that the first third-party OEM, HTC, announced their first Android powered mobile phone. After that, many other OEMs felt the need to jump on the smartphone train and take their part of the cake. Android is an open-source software, and OEMs can develop their own look and feel. So naturally, not every Android phone has the same IUI design. For this case, I will analyze Android Skins in general and not specific to each OEM. 
 
 ### Visuals
-Phone manufacturers were all making smartphones before, but when apple unveiled the clean and minimalist UI of the iPhone, they started taking notes on how they can make their interfaces more skeuomorphic, especially on touch screens.
+Phone manufacturers were all making smartphones before, but when apple unveiled the clean and minimalist UI of the iPhone, they really started taking notes on how they can make their interfaces more skeuomorphic, especially on touch screens. By using Android, OEMs also had extensive skinning possibilities to match their respective branding and styles.
 
 ![](../../../C_DATA/IMAGES/HTCSenseUI.jpg)
 
-Having analyzed three cases before, you kind of see the same design codes we've already seen before.
-
 ![](../../../C_DATA/IMAGES/Samsung_TouchWiz.png)
 
-Samsung who was already making phones jumped on Android and designed their Look and Feel UI called TouchWiz. And in 2011, they were sued by Apple over patent infringement, in one of the most known intellectual property and patent fights in tech history.
+Samsung who was already making phones jumped on Android and designed their Look and Feel UI called TouchWiz. And in 2011, they were sued by Apple over patent infringement, in one of the most known intellectual property and patent fights in tech history. Apple and other OEMs fought on multiple patents, but the Apple vs Samsung is the most known one, as multiple documents were published and shared to the public.
 
 ![](../../../C_DATA/IMAGES/apple-vs-samsung.png)
+![](../../../C_DATA/IMAGES/samsung_apple_patent_infringement_lawsuit.jpg)
 
 The trial concerned three things: the front and rear look of the iPhone and finally the GUI showing the layout of apps on its homescreen. Apple arguied that Samsung stole the home screen design of Apple's iOS.
 
@@ -225,16 +230,9 @@ Period: 2010-2020
 
 Honorable mention: I wanted to talk about Windows Phone, the forgotten mobile operating system that "didn't have apps". Windows Phone was a modern successor of Windows Mobile (2000-2013), that positioned itself as an alternative to the two other mobiles OSs already on the market, iOS and Android, by bringing a fresh and different UI and UX to the small screen. Windows Phone 7 marked the first move to flat design in UI design.
 
+Inspired by the Swiss Design Style, Metro was smooth; the GUI felt fluid and responsive to the finger's touch. The home screen differed from iOS and Android with the use of squares as apps, on a grid of two horizontally, and you could scroll vertically, up or down to see the rest (and not horizontally like the other mobiles OSs). Icons were monochrome, and the main color on the screen was your chosen color. Windows Phone was so personalizable, it went the opposite way of what GUIs were like; minimalism, frutiger-like fonts, monochrome, focus on typography...
+
 ![](../../../C_DATA/IMAGES/WindowsPhone7.jpg)
-
-### Visuals
-Flat elements
-
-### Acoustics
-Ringtones sound flat and simple.
-
-### Motion
-Motion is used mainly in finger movement.
 
 
 # Usability and Accessibility
@@ -260,6 +258,12 @@ Today, it seems like we're still living in the 1970s original desktop metaphor; 
 Can we reinvent the personal computer GUI? Microsoft tried in 1995 by releasing Microsoft Bob, a software program designed to replace the desktop of Windows 3.1 and 95 with the goal of offering a more user-friendly and easy-to-understand cartoonish interface than what Windows came with. Its goal was to make Windows more accessible to everyone.
 
 ![](../../../C_DATA/IMAGES/microsoft-bob-1995.png)
+
+A more contemporary project can be the MercuryOS, a GUI project by Jason Yuan, playing with a speculative vision of the operating system ditching the traditional desktop metaphor.
+
+Mobile-wise, by incorporating metaphors on the iPhone, Apple wanted to make the first experience of the device as easy and seamless as possible for people who never used a phone.
+
+Some courageous people also ditch the GUI entirely by only using the CLI on their computers.
 
 ## Affordances
 "See that door handle? How do you know you have to pull it?"
@@ -299,15 +303,16 @@ To end this chapter, let's not forget that the actual perception of affordances 
 ## Simpler Times
 We tend to think that "Before, things were always better", can that be true in the case of UI design? During my user tests, a person I interviewed found the iPhone 5's Settings app to be so uncluttered and simple compared to today's version, that it felt empty. It seems that user interfaces have gotten so complicated with time, all while getting flatter visually; "An abstract thing like software was just more easier when everything resembled real world objects". Unlocking my iPhone and opening the settings app, I found myself overwhelmed by the amount of settings, colors and texts. Although we have so many functionalities because of these OSs age and improvements that came with it, we probably have too much choice and features that we probably don't fully utilize.
 
-Operating systems became so complex with a multitude of features and functions that creating a new operating system and specific GUI today equals digging your own grave.
+Operating systems became so complex with a multitude of features and functions that creating a new operating system and specific GUI from scratch today equals digging your own grave.
 
 ## Legacy
-(How does Skeuomorphism's legacy influence today's UI design.)
-We've been through Skeuomorphism and switched to Flat Design because of how cluttered and kitsch everyday user interfaces became, but also because of the explosion of app marketplaces with developers all bringing their apps with their own style and take on skeuomorphism which led to visual saturation. Flat Design seemed like a solution, by stripping away all details, textures, 3D effects, and any other visual "pollution".
+We've been through Skeuomorphism and switched to Flat Design because of how cluttered and kitsch everyday user interfaces became, but also because of the explosion of app marketplaces with developers all bringing their apps with their own style and take on skeuomorphism which led to visual saturation. Flat Design seemed like a solution to that problem, by stripping away all details, textures, 3D effects, and any other visual "pollution". 
 
 Recently, the resurgence of 3D in UI design really challenged our Flat Design saturation by bringing something new, breaking away from the flat and minimalist looks but maintaining a sense of restraint on exaggeration.
 
-One attempt at that was Neumorphism, that focused on introducing subtle skeuomorphic elements. This style had big problems like having low contrasts and bad clickability detection causing bad reception; this style never made it mainstream.
+One attempt at that was Neumorphism, that focused on introducing subtle skeuomorphic elements. This style had big problems like having low contrasts and bad clickability detection causing bad reception; this style never made it mainstream and was just fancy/another good looking concept that is not applicable to real-world usage.
+
+But this new Glassmorphism or whatever we should call it is interesting. It brings back depth to the interfaces, breaking up with flat design principles like flat surfaces, or minimalist icons to cite a few. Skeuomorphism as we knew it lives on as this 
 
 Some designers even design UIs that are not made to be functional but are more reinterpretation works of art, devoted to waking emotions and feelings up from people.
 
@@ -320,14 +325,16 @@ Frutiger Aero is a broad design style and aesthetic attributed to the post Y2K e
 
 This categorization is pretty interesting as it puts a name and a period on a design style that is too soon to be named, compared to other historical design and art time periods. This style became viral in 2022 on social media, especially TikTok, and sparked a subreddit with nearly 70k members, at the time of writing.
 
-According to people who fancy the style, they believe that Frutiger Aero is all about a future that was promised to us but never delivered, especially as Gen Z people who grew up with all these graphics that merged nature elements, fluid shapes, floating elements and technology. Humans fantasizing on merging nature and technology expressed it through these designs of what we call Frutiger Aero today.
+According to people who fancy the style, they believe that Frutiger Aero is all about a bright, colorful and peacful future that was promised to us but never delivered, especially as Gen Z people who grew up with all these graphics that merged nature elements, fluid shapes, floating elements and technology. Humans fantasizing on merging nature and technology expressed it through these designs of what we call Frutiger Aero today.
+
+People I talked with on the internet said that Skeuomorphism can be considered a Frutiger Aero sub-style because they overlapped a lot during history, but they are not the same because of how some
 
 I believe that Frutiger Aero is a direct result of nostalgia. As a Gen Z person, I do feel a bit nostalgic because I grew up with these colorful and dynamic design trends, that a big chunk of people from my generation experienced. And I kind of miss them, in a way.
 
 
 # Conclusion
 ## What's Next?
-The post COVID-19 era has been marked by the democratisation of AI in our everyday lives.
+The post COVID-19 era has been marked by the democratisation of AI in our everyday lives.indes
 AR? VR? Apple started incorporating some of it's design elements from the Vision Pro OS into its mobile OS UI.
 
 ## Practical Project

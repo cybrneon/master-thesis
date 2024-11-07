@@ -4,3 +4,4 @@
 - Make a new way of interaction for tech devices.
 - Tabula rasa of the desktop metaphor for desktop operating system's UI and UX.
 - Make an operating system that removes the "work & capitalist" metaphor.
+- Because of a work already existing for reshaping the desktop metaphor, I can focus on the mobile interface, the grid.

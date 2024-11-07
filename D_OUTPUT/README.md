@@ -11,6 +11,14 @@ Thinking of the final shape of the Thesis...
 
 ### Writing
 
+#### **2024-11-07**
+#### [Still writing, the same day as the temp presentation to tutors](WRITING/2024-11-07/241107_Skeuomorphism.md)
+35'500, Yada yada yadayada
+
+#### **2024-11-06**
+#### [Let's do this ](WRITING/2024-11-06/241106_Skeuomorphism.md)
+Yada yada yadayada
+
 #### **2024-11-05**
 #### [32'000... It's going to be a rush to the finish line... ](WRITING/2024-11-05/241105_Skeuomorphism.md)
 Speedrunning a master thesis wasn't on my 2024 bingo card.
