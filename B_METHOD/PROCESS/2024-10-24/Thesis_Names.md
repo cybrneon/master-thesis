@@ -7,3 +7,4 @@
 - Skeuomorphism Reconsidered
 - Navigating the Familiar and the New
 - Beyond the Desktop Metaphor
+- Beyond the Metaphor: The Persistence of Skeuomorphism in Interface Design

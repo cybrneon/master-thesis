@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "bf6538e261a23313",
+            "id": "4215b7203a3dc625",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -204,18 +204,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf6538e261a23313",
+  "active": "4215b7203a3dc625",
   "lastOpenFiles": [
+    "D_OUTPUT/README.md",
+    "B_METHOD/PROCESS/2024-10-24/Thesis_Names.md",
+    "D_OUTPUT/WRITING/2024-11-08/241108_Skeuomorphism.md",
     "D_OUTPUT/EXPORTS/241108_Skeuomorphism.pdf",
     "D_OUTPUT/WRITING/2024-11-07/241107_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-11-08/241108_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-11-08/241107_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-11-08",
     "D_OUTPUT/WRITING/2024-11-07 2/241107_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-11-07 2",
-    "D_OUTPUT/README.md",
     "D_OUTPUT/PRACTICAL-PROJECT/Practical_Project_Ideas.md",
-    "B_METHOD/PROCESS/2024-10-24/Thesis_Names.md",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "C_DATA/IMAGES/samsung_apple_patent_infringement_lawsuit.jpg",
     "C_DATA/IMAGES/macos-genie.jpg",
@@ -249,7 +249,6 @@
     "D_OUTPUT/WRITING/2024-11-04/241027_Skeuomorphism.md",
     "D_OUTPUT/WRITING/2024-11-04",
     "D_OUTPUT/WRITING/2024-10-27 2/241027_Skeuomorphism.md",
-    "D_OUTPUT/WRITING/2024-10-27 2",
     "E_ASSETS/repo-images/skeuomorphism_subhero.png",
     "E_ASSETS/repo-images/SK_small.png",
     "C_DATA/SPECTRUM/The_Spectrum_of_Skeuomorphic_GUIs_241001.canvas",

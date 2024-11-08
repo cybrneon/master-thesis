@@ -11,6 +11,10 @@ Thinking of the final shape of the Thesis...
 
 ### Writing
 
+#### **2024-11-08**
+#### [Sent a version to Nicolas Nova](WRITING/2024-11-08/241108_Skeuomorphism.md)
+36'000.
+
 #### **2024-11-07**
 #### [Still writing, the same day as the temp presentation to tutors](WRITING/2024-11-07/241107_Skeuomorphism.md)
 35'500, Yada yada yadayada
