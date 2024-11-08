@@ -3,11 +3,11 @@ This Master Thesis examines the role of Skeuomorphism through history from the X
 Incorporating evidence from interviews, user tests and surveys, this study confirms that we actually never left skeuomorphism.
 
 # Preface
-I've always been curious and interested of graphical user interfaces. At the age of 10, I remember using PowerPoint to design user interfaces for my old bulky computer and later for my first smartphone (Samsung Galaxy Young).
+I've always been curious and interested of graphical user interfaces. At the age of 10, I remember using PowerPoint to design user interfaces for my old bulky HP laptop and later for my first smartphone (Samsung Galaxy Young).
 
 At the age of 11, I began developing utilitarian software like web browsers, media players and file downloaders using the C# coding language on Windows, by following YouTube tutorials. I then started thinking about the design part of these apps, how can I make them pretty and usable? how can I make them interesting? how can I make them intuitive for their users? how can I make them stand out and be different from what the tech giants are making.
 
-I also find it fascinating designing interfaces of operating systems, and the point of contact and connection between humans and machines. The portal to other apps, services, tools, while discreet has to be well designed.
+I also find it fascinating designing interfaces of operating systems, and the point of contact and connection between humans and machines. The portal to other apps, services, tools, while discreet have to be well designed.
 
 
 # Introduction
