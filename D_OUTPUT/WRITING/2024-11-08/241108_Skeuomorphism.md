@@ -2,8 +2,8 @@
 
 
 # Abstract (W-I-P)
-This Master Thesis examines the role of Skeuomorphism through history from the Xerox Alto to the Apple Vision Pro, and it's impact on today's graphical user interface design.
-Incorporating evidence from interviews, user tests and surveys, this study confirms that we actually never left skeuomorphism.
+This Master Thesis examines the role of Skeuomorphism in graphical user interface design (GUI) through history from the Xerox Alto to the Apple Vision Pro, and it's impact on today's graphical user interface design. Incorporating evidence from qualitative interviews, user testing and survey data, and by analyzing key historical cases like Windows Aero, MacOS's Aqua, early iOS and Android Skins, this study demonstrates that core principles of familiarity, affordance and metaphor remain fundamental to human-computer interaction. This research also explores how nostalgia for early digital skeuomorphic interfaces influences current design preferences and perceptions, particularly among Gen Z who associate skeuomorphic elements with an optimistic technological future, that never happened. With the recent advent of AR and VR computers, we're seing an emergence of old key skeuomorphic and material design elements that make up these new type of GUIs. Finally, this thesis reconceptualizes skeuomorphism not just as a historical design tred, but as an enduring approach to creating intuitive and emotionally resonant human-computer interfaces.
+
 
 # Preface
 I've always been curious and interested of graphical user interfaces. At the age of 10, I remember using PowerPoint to design user interfaces for my old bulky HP laptop and later for my first smartphone (Samsung Galaxy Young).
