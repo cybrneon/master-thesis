@@ -135,7 +135,7 @@ Period: 2000-2020
 
 ![](../../../C_DATA/IMAGES/MacOSX_Aqua_2.jpg)
 
-Introduced with the tenth version of Mac OS in 2000, Aqua was also a complete redesign of the MacOS interface. It was originally based on water and evolved into a more discreet visual style. The first version of Mac OS X was all blue and was later tuned down.
+Introduced with the tenth version of Mac OS in 2000, Aqua was also a complete redesign of the MacOS interface. It was originally based on water and evolved into a more discreet visual style. The first version of Mac OS X was all blue and was later tuned down as it evolved through Apple’s different design phases.
 
 ![](../../../C_DATA/IMAGES/MacOS9.png)
 
@@ -177,7 +177,7 @@ Period: 2007-2013
 
 ![](../../../C_DATA/IMAGES/iPhone_2007.jpg)
 
-In 2007, Apple shook the world by announcing their take on the mobile phone. The iPhone had a distinct industrial style; it looked simple, minimalist and fancy compared to other mobiles at the same time. It brought a distinctive design that was about to inspire many other companies for the years to come.
+In 2007, Apple shook the world by announcing their take on the mobile phone. The iPhone had a distinct industrial style; it looked simple, minimalist and fancy compared to other mobiles at the same time. It brought a distinctive design that was about to inspire many other companies for the years to come and created a new category of personal devices.
 
 ### Visuals
 Based on MacOS X, iOS (initially known as iPhoneOS) inherited lots of design cues from its desktop counterpart, all while having its own aesthetic and user experience. The iPhone was the first device that embraced many skeuomorphic principles in its user interface. The GUI used a grid of 4 by 4 icons to display apps on the home screen. Swiping left or right revealed the next page of installed apps.
