@@ -11,6 +11,10 @@ Thinking of the final shape of the Thesis...
 
 ### Writing
 
+#### **2024-11-11**
+#### [Speedrunning 🏃‍♂️‍➡️](WRITING/2024-11-11/241111_Skeuomorphism.md)
+44'000.
+
 #### **2024-11-08**
 #### [Sent a version to Nicolas Nova](WRITING/2024-11-08/241108_Skeuomorphism.md)
 36'000.
