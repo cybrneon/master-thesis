@@ -1,23 +1,23 @@
 # Bibliography
 
 ### Papers & Books
-BACKHAUS, Nils, TRAPP, Anna Katharina. & THÜRING, Manfred, 2018. Skeuomorph Versus Flat Design: User Experience and Age-Related Preferences. In A. Marcus & W. Wang (Eds.), _Design, User Experience, and Usability: Designing Interactions_, Vol. 10919, pp. 527–542. Springer International Publishing. [https://doi.org/10.1007/978-3-319-91803-7_40](https://doi.org/10.1007/978-3-319-91803-7_40)
+BACKHAUS, Nils, TRAPP, Anna Katharina & THÜRING, Manfred, 2018. Skeuomorph Versus Flat Design: User Experience and Age-Related Preferences. In A. Marcus & W. Wang (Eds.), _Design, User Experience, and Usability: Designing Interactions_, Vol. 10919, pp. 527–542. Springer International Publishing. [https://doi.org/10.1007/978-3-319-91803-7_40](https://doi.org/10.1007/978-3-319-91803-7_40)
 
 BLACKWELL, Alan F., 2006. The reification of metaphor as a design tool. _ACM Transactions on Computer-Human Interaction_, Vol. 13, Issue 4, pp. 490–530. [https://doi.org/10.1145/1188816.1188820](https://doi.org/10.1145/1188816.1188820)
 
-BOLLINI, Letizia, 2016. _From Skeuomorphism to Material Design and back. The language of colours in the 2nd generation of mobile interface design._ _Colour and colorimetry. Multidisciplinary contributions_, pp. 309-320. Torino: Gruppo del colore. [https://boa.unimib.it/handle/10281/133589](https://boa.unimib.it/handle/10281/133589)
+BOLLINI, Letizia, 2016. From Skeuomorphism to Material Design and back. The language of colours in the 2nd generation of mobile interface design. _Colour and colorimetry. Multidisciplinary contributions_, pp. 309-320. Torino: Gruppo del colore. [https://boa.unimib.it/handle/10281/133589](https://boa.unimib.it/handle/10281/133589)
 
-BOLLINI, Letizia, 2017. Beautiful interfaces. From user experience to user interface design. _The Design Journal_, _20_(sup1), S89–S101. [https://doi.org/10.1080/14606925.2017.1352649](https://doi.org/10.1080/14606925.2017.1352649)
+BOLLINI, Letizia, 2017. Beautiful interfaces. From user experience to user interface design. _The Design Journal_, Vol. 20, Issue 1, pp-89–101. [https://doi.org/10.1080/14606925.2017.1352649](https://doi.org/10.1080/14606925.2017.1352649)
 
-BURGESS, Jean & LIGHT Ben, 2018. The walkthrough method: An approach to the study of apps. New Media & Society, Vol. 20, Issue 3, pp-881-900. https://doi.org/10.1177/1461444816675438
+BURGESS, Jean & LIGHT Ben, 2018. The walkthrough method: An approach to the study of apps. *New Media & Society*, Vol. 20, Issue 3, pp-881-900. https://doi.org/10.1177/1461444816675438
 
-CURTIS, Ambrose, 2015. _Rhetoric of flat design and skeuomorphism in apple's iOS graphical user interface_. University of Rhode Island. [https://doi.org/10.23860/thesis-curtis-ambrose-2015](https://doi.org/10.23860/thesis-curtis-ambrose-2015)
+CURTIS, Ambrose, 2015. Rhetoric of flat design and skeuomorphism in apple's iOS graphical user interface. _Open Access Master's Theses_, University of Rhode Island, Paper 638. [https://doi.org/10.23860/thesis-curtis-ambrose-2015](https://doi.org/10.23860/thesis-curtis-ambrose-2015)
 
-GATSOU, Chrysoula & FARRINGTON, John Steven (2022). The evolution of the graphical user interface: from Skeuomorphism to Material Design. _Design/Arts/Culture_, Vol. 2. [https://doi.org/10.12681/dac.27466](https://doi.org/10.12681/dac.27466)
+GATSOU, Chrysoula & FARRINGTON, John Steven, 2022. The evolution of the graphical user interface: from Skeuomorphism to Material Design. _Design/Arts/Culture_, Vol. 2. [https://doi.org/10.12681/dac.27466](https://doi.org/10.12681/dac.27466)
 
 GAVER, W. William (1991). Technology affordances. _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Reaching through Technology - CHI ’91_, 79–84. [https://doi.org/10.1145/108844.108856](https://doi.org/10.1145/108844.108856)
 
-GESSLER, Nicholas (1998). Skeuomorphs and cultural algorithms. In V. W. Porto, N. Saravanan, D. Waagen, & A. E. Eiben (Eds.), _Evolutionary Programming VII_, Vol. 1447, pp. 229–238. Springer Berlin Heidelberg. [https://doi.org/10.1007/BFb0040776](https://doi.org/10.1007/BFb0040776
+GESSLER, Nicholas, 1998. Skeuomorphs and cultural algorithms. In V. W. Porto, N. Saravanan, D. Waagen, & A. E. Eiben (Eds.), _Evolutionary Programming VII_, Vol. 1447, pp. 229–238. Springer Berlin Heidelberg. [https://doi.org/10.1007/BFb0040776](https://doi.org/10.1007/BFb0040776
 
 KIM, Sangyeon & LEE, Sangwon, 2020. Smash the dichotomy of Skeuomorphism and flat design: Designing an affordable interface to correspond with the human perceptuomotor process. _International Journal of Human-Computer Studies_, Vol. 141. [https://doi.org/10.1016/j.ijhcs.2020.102435](https://doi.org/10.1016/j.ijhcs.2020.102435)
 
