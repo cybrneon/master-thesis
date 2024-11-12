@@ -5,10 +5,10 @@
 This Master Thesis examines the role of Skeuomorphism in graphical user interface design (GUI) through history from the Xerox Alto to the Apple Vision Pro, and it's impact on today's graphical user interface design. Incorporating evidence from qualitative interviews, user testing and survey data, and by analyzing key historical cases like Windows Aero, MacOS's Aqua, early iOS and Android Skins, this study demonstrates that core principles of familiarity, affordance and metaphor remain fundamental to human-computer interaction. This research also explores how nostalgia for early digital skeuomorphic interfaces influences current design preferences and perceptions, particularly among Gen Z who associate skeuomorphic elements with an optimistic technological future, that never happened. With the recent advent of AR and VR computers, we're seeing an emergence of old key skeuomorphic and material design elements that make up these new type of GUIs. Finally, this thesis reconceptualizes skeuomorphism not just as a historical design trend, but as an enduring approach to creating intuitive and emotionally resonant human-computer interfaces.
 
 
-# Preface
-I've always been curious and interested of graphical user interfaces. At the age of 10, I remember using PowerPoint to design user interfaces for my old bulky HP laptop and later for my first smartphone (Samsung Galaxy Young).
+# Foreword
+I've always been curious and interested of graphical user interfaces. At the age of 10, I remember using PowerPoint to design user interfaces for my old bulky HP laptop and later for my first smartphone (Samsung Galaxy Young). I was enthusiastic reimagining new interaction experiences.
 
-At the age of 11, I began developing utilitarian software like web browsers, media players and file downloaders using the C# coding language on Windows, by following YouTube tutorials. I then started thinking about the design part of these apps, how can I make them pretty and usable? how can I make them interesting? how can I make them intuitive for their users? how can I make them stand out and be different from what the tech giants are making.
+At the age of 11, I began developing utilitarian software like web browsers, media players and file downloaders using the C# coding language on Windows, by following YouTube tutorials. I then started thinking about the design part of these apps, how can I make them pretty and usable? how can I make them interesting? how can I make them intuitive for their users? how can I make them stand out and be different from what the tech giants are making. How can I fluidize interactions.
 
 I also find it fascinating designing interfaces of operating systems, and the point of contact and connection between humans and machines. The portal to other apps, services, tools, while discreet have to be well designed.
 
@@ -334,9 +334,9 @@ Today, we don't see this big title bar difference in texture from the window bec
 
 But how do you make current user interfaces intuitive when "everyone gets it now"? Same as the metaphors? How do new generations tackle interactions with tech devices?
 
-Scroll bars are also interesting, William Gaver also talks and compares the early Macintosh GUI to the Xerox Smalltalk GUI where he says that "dragging is a natural progression of grabbing". We see less and less of wrong affordances in today's UIs.
+Scroll bars are also interesting, Gaver (1991) talks and compares the early Macintosh GUI to the Xerox Smalltalk GUI where he says that "dragging is a natural progression of grabbing". We see less and less of wrong affordances in today's UIs.
 
-here I talk about sequential affordances
+According to Gaver (1991) When one affordance leads to the discovery of another, it is called a sequential affordance. In the functioning of a sequence, these types of affordances can be thought of as progressive discoveries where each interaction reveals the next possible action. One example would be the trash bin (again), where the initial affordance has to do with the icon suggesting it can hold deleted items, the second affordance is when the bin is filled and suggests it can be emptied, and the final affordance is when the emptying action triggers the sound effect, completing the sequence. Because of the impact of flat design, sequential affordances have adapted with the touch aspect of interfaces but also declutter and reduction, as users have adapted to new technologies and don't need explicit affordances, but rely on their learned behaviors. Other examples include hovering on a window's corner to reveal the resizing functionality, or clicking on a folder revealing the fact that it can be opened.
 
 When emptying my mac's bin, I was actually surprised to hear a clear sound of the throwing trash sound effect. I deleted some files again to rehear the sound, and was really impressed by the high quality and fidelity of the sound composition. When deleting a file, the sound of crushing paper is played, and when you empty the recycle bin, the sound of crushing paper and the metalic door closing is heard. This is not new as it started towards the end of the 1990s when computers got better soundcards, but what surprised me was that this sound is still present on computers to this day! Sounds that mimic their real life counterparts are interesting, as they make interactions feel physical, just as user interfaces, but with the use of sound effects, mimicking real life sounds and objects. Sending an email triggers the whoosh sound, so you feel like your letter literally travels by air to their recipient.
 
@@ -350,9 +350,11 @@ To end this chapter, let's not forget that the actual perception of affordances 
 ## Simpler Times
 We tend to think that "Before, things were always better", can that be true in the case of UI design? During my user tests, a person I interviewed found the iPhone 5's Settings app to be so uncluttered and simple compared to today's version, that it felt empty. It seems that user interfaces have gotten so complicated with time, all while getting flatter visually; "An abstract thing like software was just more easier when everything resembled real world objects". Unlocking my iPhone and opening the settings app, I found myself overwhelmed by the amount of settings, colors and texts. Although we have so many functionalities because of these OSs age and improvements that came with it, we probably have too much choice and features that we probably don't fully utilize.
 
-The tactile and tangible feel of these skeuomorphic GUIs calls upon our brain's understanding of physical affordances, as familiar interfaces help and comfort users into transitioning to new technologies without tension, easing their cognitive load. But is this nostalgia for skeuomorphism part of a desire to hold onto these "simpler times" with technology changing rapidly.
+The tactile and tangible feel of these skeuomorphic GUIs calls upon our brain's understanding of physical affordances, as familiar interfaces help and comfort users into transitioning to new technologies without tension, easing their cognitive load (Don Norman, 2013). But is this nostalgia for skeuomorphism part of a desire to hold onto these "simpler times" with technology changing rapidly.
 
-Operating systems became so complex with a multitude of features and functions that creating a new operating system and specific GUI from scratch today equals digging your own grave.
+Operating systems eventually became so complex with a multitude of features and functions that creating a new operating system and specific GUI from scratch today can't be simple task. According to the research done by Schwartz (2005) when people have so many options and features, it can lead to them getting overwhelmed. With multiple choices comes the difficulty of making a choice, it could also lead to regret and anxiety as to doing the wrong action, but having less choice often makes users dissatisfied with their final decision.
+
+But we should also never forget that these simple times we're talking about had tech devices with limited functionality, usability problems and technical restraints. All of that without talking about the learning curves people had to deal with that has since been forgotten.
 
 ## Legacy
 We've been through Skeuomorphism and switched to Flat Design because of how cluttered and kitsch everyday user interfaces became, but also because of the explosion of app marketplaces with developers all bringing their apps with their own style and take on skeuomorphism which led to visual saturation. Flat Design seemed like a solution to that problem, by stripping away all details, textures, 3D effects, and any other visual "pollution". 
@@ -363,7 +365,7 @@ One attempt at that was Neumorphism, that focused on introducing subtle skeuomor
 
 But this new Glassmorphism or whatever we should call it is interesting. It brings back depth to the interfaces, breaking up with flat design principles like flat surfaces, or minimalist icons to cite a few. This can be considered as a direct descendant of the Skeuomorphism UI style we know.
 
-Some designers even design UIs that are not made to be functional but are more reinterpretation works of art, devoted to waking emotions and feelings up from people.
+Some designers even design UIs that are not made to be functional but are more reinterpretation works of art, devoted to waking emotions and feelings up from people, considered design as an artistic expression, with a touch of nostalgic reinterpretations. Some designers also enjoy redesigning current user interfaces if flat design never went mainstream.
 
 Finally, skeuomorphism's legacy can also be considered sociological thanks to one of the most fascinating design styles of the 2000s and its naming; Frutiger Aero.
 
@@ -374,11 +376,13 @@ Frutiger Aero is a broad design style and aesthetic attributed to the post Y2K e
 
 This categorization is pretty interesting as it puts a name and a period on a design style that is too soon to be named, compared to other historical design and art time periods. This style became viral in 2022 on social media, especially TikTok, and sparked a subreddit with nearly 70k members, at the time of writing.
 
-According to people who fancy the style, they believe that Frutiger Aero is all about a bright, colorful and peacful future that was promised to us but never delivered, especially as Gen Z people who grew up with all these graphics that merged nature elements, fluid shapes, floating elements and technology. Humans fantasizing on merging nature and technology expressed it through these designs of what we call Frutiger Aero today.
+According to people who fancy the style, they believe that Frutiger Aero is all about a bright, colorful and peaceful future that was promised to us but never delivered, especially as Gen Z people who grew up with all these graphics that merged nature elements, fluid shapes, floating elements and technology. Humans fantasizing on merging nature and technology expressed it through these designs of what we call Frutiger Aero today.
 
-People I talked with on the internet said that Skeuomorphism can be considered a Frutiger Aero sub-style because they overlapped a lot during history, but they are not the same because of how some
+People I talked with on the internet said that Skeuomorphism can be considered a Frutiger Aero sub-style because they overlapped a lot during history, but they are not the same.
 
-I believe that Frutiger Aero is a direct result of nostalgia. As a Gen Z person, I do feel a bit nostalgic because I grew up with these colorful and dynamic design trends, that a big chunk of people from my generation experienced. And I kind of miss them, in a way.
+I believe that Frutiger Aero is a direct result of nostalgia. As a Gen Z person, I do feel a bit nostalgic because I grew up with these colorful and dynamic design trends, that a big chunk of people from my generation experienced and grew up with. We also understood computers and technology in general through this aesthetic.
+
+
 
 
 # Conclusion
