@@ -1,17 +1,13 @@
-![](E_ASSETS/repo-images/skeuomorphism_subhero.png)
 ![](E_ASSETS/repo-images/skeuomorphism_hero.png)
 
-# Master Thesis
+##### Master Thesis — Tutor: [Nicolas Nova]((https://www.nicolasnova.net/)
+### What role does accessibility and nostalgia play in the persistence of skeuomorphic design principles in modern interface development?
+
 
 ## Intro
 This is my Master Thesis repository.
 It's still a work in progress, final deadline is on the 6th of Dec 2024.
 
-## Research Question
-**How does the evolution of skeuomorphism influence our perception of graphical interfaces, and what role does accessibility and nostalgia play in the way we consider and design these interfaces?**
-
-#### Tutor
-[Nicolas Nova]((https://www.nicolasnova.net/)
 
 ## Links
 ### [Master Personal Space on Figma](https://www.figma.com/design/cBZwSZEBA5L0KyZoAiVZpU/Adam's-Master-Space?node-id=0-1&t=z42T0FIo4narjGbr-1)
