@@ -49,8 +49,7 @@
               "title": "Bibliography"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4215b7203a3dc625",
+  "active": "bc793be4e18cac85",
   "lastOpenFiles": [
-    "B_METHOD/PROCESS/2024-10-24/Thesis_Names.md",
     "D_OUTPUT/WRITING/2024-11-13/241113_Skeuomorphism.md",
+    "B_METHOD/PROCESS/2024-10-24/Thesis_Names.md",
     "README.md",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
