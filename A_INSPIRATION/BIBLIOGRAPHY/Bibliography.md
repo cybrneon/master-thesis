@@ -3,6 +3,8 @@
 ### Papers & Books
 BACKHAUS, Nils, TRAPP, Anna Katharina & THÜRING, Manfred, 2018. Skeuomorph Versus Flat Design: User Experience and Age-Related Preferences. In A. Marcus & W. Wang (Eds.), _Design, User Experience, and Usability: Designing Interactions_, Vol. 10919, pp. 527–542. Springer International Publishing. [https://doi.org/10.1007/978-3-319-91803-7_40](https://doi.org/10.1007/978-3-319-91803-7_40)
 
+BARDINI, Thierry, 2000. _Bootstrapping: Douglas Engelbart, Coevolution, and the Origins of Personal Computing_. Stanford University Press, December 1, 2000. ISBN: 9780804737234
+
 BLACKWELL, Alan F., 2006. The reification of metaphor as a design tool. _ACM Transactions on Computer-Human Interaction_, Vol. 13, Issue 4, pp. 490–530. [https://doi.org/10.1145/1188816.1188820](https://doi.org/10.1145/1188816.1188820)
 
 BOLLINI, Letizia, 2016. From Skeuomorphism to Material Design and back. The language of colours in the 2nd generation of mobile interface design. _Colour and colorimetry. Multidisciplinary contributions_, pp. 309-320. Torino: Gruppo del colore. [https://boa.unimib.it/handle/10281/133589](https://boa.unimib.it/handle/10281/133589)
@@ -10,6 +12,8 @@ BOLLINI, Letizia, 2016. From Skeuomorphism to Material Design and back. The lang
 BOLLINI, Letizia, 2017. Beautiful interfaces. From user experience to user interface design. _The Design Journal_, Vol. 20, Issue 1, pp-89–101. [https://doi.org/10.1080/14606925.2017.1352649](https://doi.org/10.1080/14606925.2017.1352649)
 
 BURGESS, Jean & LIGHT Ben, 2018. The walkthrough method: An approach to the study of apps. *New Media & Society*, Vol. 20, Issue 3, pp-881-900. https://doi.org/10.1177/1461444816675438
+
+CAMPBELL-KELLY, Martin, & ASPRAY, William, 2004. _Computer: A History of the Information Machine_. Westview Press, 3rd Edition, July 30, 2013. ISBN: 0813345901
 
 CURTIS, Ambrose, 2015. Rhetoric of flat design and skeuomorphism in apple's iOS graphical user interface. _Open Access Master's Theses_, University of Rhode Island, Paper 638. [https://doi.org/10.23860/thesis-curtis-ambrose-2015](https://doi.org/10.23860/thesis-curtis-ambrose-2015)
 
@@ -27,6 +31,8 @@ MENG, D. Matthew & LEARY, R. Bret, 2022. Mitigating the detrimental effect of sk
 
 MINNITI, Sergio, 2016. Photo-Objects and Analogue Instant Photography in the Digital Age. _TECNOSCIENZA_, Vol. 7, pp. 13-43. https://www.research.unipd.it/handle/11577/3455939
 
+MOGGRIDGE, Bill, 2006. *Designing Interactions*. MIT Press, October 18, 2006. ISBN: 9780262134743
+
 NORMAN, Don, 2013. *The Design of Everyday Things*. Revised and Expanded Edition. Basic Books. ISBN: 9780465050659
 
 OSWALD, David, 2018. Affordances and Metaphors Revisited: Testing Flat vs. Skeuomorph Design with Digital Natives and Digital Immigrants. _Proceedings of the 32nd International BCS Human Computer Interaction Conference._ [https://doi.org/10.14236/ewic/HCI2018.57](https://doi.org/10.14236/ewic/HCI2018.57)
@@ -42,6 +48,8 @@ URBANO, Inês Cunha Vaz Pereira, GUERREIRO, João Pedro Vieira, & NICOLAU,  Hugo
 REBER, Rolf, SCHWARZ Norbert and WINKIELMAN Piotr, 2004. Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver's Processing Experience? *Personality and Social Psychology Review*, February 2004, Vol. 8, Issue 4, pp. 322-338. https://doi.org/10.1207/s15327957pspr0804_3
 
 SCHWARTZ, Barry, 2005. *The Paradox of Choice: Why More is Less*. Harper Perennial. January 18, 2005. ISBN: 0060005696
+
+SMITH, Douglas K., & ALEXANDER, Robert C. (1988). _Fumbling the Future: How Xerox Invented, Then Ignored, the First Personal Computer_. William Morrow & Co, January 1, 1989. ISBN: 0688095119
 
 WICHARY, Marcin (1983). _Human Factors testing in the design of Xerox’s 8010 ‘Star’ office workstation._ https://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation
 
