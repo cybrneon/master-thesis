@@ -15,17 +15,27 @@ BURGESS, Jean & LIGHT Ben, 2018. The walkthrough method: An approach to the stud
 
 CAMPBELL-KELLY, Martin, & ASPRAY, William, 2004. _Computer: A History of the Information Machine_. Westview Press, 3rd Edition, July 30, 2013. ISBN: 0813345901
 
+CARROLL, John M., & THOMAS, John C., 1982. *Metaphor and the cognitive representation of computing systems*. IEEE Transactions on Systems, Man, and Cybernetics, Vol. 12, Issue 2, pp. 107-116. https://doi.org/10.1109/TSMC.1982.4308795
+
 CURTIS, Ambrose, 2015. Rhetoric of flat design and skeuomorphism in apple's iOS graphical user interface. _Open Access Master's Theses_, University of Rhode Island, Paper 638. [https://doi.org/10.23860/thesis-curtis-ambrose-2015](https://doi.org/10.23860/thesis-curtis-ambrose-2015)
 
 GATSOU, Chrysoula & FARRINGTON, John Steven, 2022. The evolution of the graphical user interface: from Skeuomorphism to Material Design. _Design/Arts/Culture_, Vol. 2. [https://doi.org/10.12681/dac.27466](https://doi.org/10.12681/dac.27466)
 
 GAVER, W. William (1991). Technology affordances. _Proceedings of the SIGCHI Conference on Human Factors in Computing Systems Reaching through Technology - CHI ’91_, 79–84. [https://doi.org/10.1145/108844.108856](https://doi.org/10.1145/108844.108856)
 
+GAVER, W. William (1989). The SonicFinder: An Interface That Uses Auditory Icons. *Human-Computer Interaction*, Vol. 4, Issue 1, pp. 67-94. https://doi.org/10.1207/s15327051hci0401_3
+
+GENTNER, Don, & NIELSEN, Jakob, 1996. The anti-Mac interface. *Communications of the ACM*, Vol. 39, Issue 8, pp. 70-82. https://doi.org/10.1145/232014.232032
+
 GESSLER, Nicholas, 1998. Skeuomorphs and cultural algorithms. In V. W. Porto, N. Saravanan, D. Waagen, & A. E. Eiben (Eds.), _Evolutionary Programming VII_, Vol. 1447, pp. 229–238. Springer Berlin Heidelberg. [https://doi.org/10.1007/BFb0040776](https://doi.org/10.1007/BFb0040776
 
 KIM, Sangyeon & LEE, Sangwon, 2020. Smash the dichotomy of Skeuomorphism and flat design: Designing an affordable interface to correspond with the human perceptuomotor process. _International Journal of Human-Computer Studies_, Vol. 141. [https://doi.org/10.1016/j.ijhcs.2020.102435](https://doi.org/10.1016/j.ijhcs.2020.102435)
 
+LAKOFF, George & JOHNSON, Mark, 1980. *Metaphors we live by.* University of Chicago Press, 1980. ISBN: 9780226468013
+
 MAGGAUDA, Paolo & MINNITI, Sergio, 2019. Retromedia-in-practice: A practice theory approach for rethinking old and new media technologies. _Convergence: The International Journal of Research into New Media Technologies_, Vol. 25, Issue 4, pp. 673–693. [https://doi.org/10.1177/1354856519842805](https://doi.org/10.1177/1354856519842805)
+
+MARCUS, Aaron & GOULD Emilie West, 2000. *Crosscurrents: cultural dimensions and global Web user-interface design*. Interactions, Vol. 7, Issue 4, pp. 32-46. https://doi.org/10.1145/345190.345238
 
 MENG, D. Matthew & LEARY, R. Bret, 2022. Mitigating the detrimental effect of skeuomorphism on gambling behavior. _Journal of Consumer Affairs_, Vol. 56, Issue 2, pp. 969–981. [https://doi.org/10.1111/joca.12427](https://doi.org/10.1111/joca.12427)
 
@@ -38,6 +48,8 @@ NORMAN, Don, 2013. *The Design of Everyday Things*. Revised and Expanded Edition
 OSWALD, David, 2018. Affordances and Metaphors Revisited: Testing Flat vs. Skeuomorph Design with Digital Natives and Digital Immigrants. _Proceedings of the 32nd International BCS Human Computer Interaction Conference._ [https://doi.org/10.14236/ewic/HCI2018.57](https://doi.org/10.14236/ewic/HCI2018.57)
 
 PAGE, Tom, 2014. Skeuomorphism or flat design: Future directions in mobile device User Interface (UI) design education. _International Journal of Mobile Learning and Organisation_, Vol. 8, No.2, pp. 130. [https://doi.org/10.1504/IJMLO.2014.062350](https://doi.org/10.1504/IJMLO.2014.062350)
+
+SMITH, David Canfield, IRBY, Charles, KIMBALL, Ralph, VERPLANK, Bill, & HARSLEM, Eric, 1982. *Designing the Star user interface*, 1982. Byte, Issue 4, pp. 242-282. Available here: http://billverplank.com/CiiD/XeroxStar.pdf [accessed on 8th November 2024]
 
 SPILIOTOPOULOS, Konstantinos, RIGOU, Maria & SIRMAKESSIS, Spiros, 2018. A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective. _Multimodal Technologies and Interaction_, Vol. 2, Issue 2, pp. 31. [https://doi.org/10.3390/mti2020031](https://doi.org/10.3390/mti2020031)
 
@@ -54,6 +66,8 @@ SMITH, Douglas K., & ALEXANDER, Robert C. (1988). _Fumbling the Future: How Xero
 WICHARY, Marcin (1983). _Human Factors testing in the design of Xerox’s 8010 ‘Star’ office workstation._ https://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation
 
 WU, Lei, LEI, Tian, LI, Juan, & LI, Bin, 2015. Skeuomorphism and Flat Design: Evaluating Users’ Emotion Experience in Car Navigation Interface Design. _Design, User Experience, and Usability: Design Discourse_, Vol. 9186, pp. 567–575. Springer International Publishing. [https://doi.org/10.1007/978-3-319-20886-2_53](https://doi.org/10.1007/978-3-319-20886-2_53)
+
+WROBLEWSKI, Luke, 2011. *Mobile First*. A Book Apart, January 1, 2011. ISBN: 1937557022
 
 ### Podcasts
 ROMERO, Tim, 2023. *The lies, myths, and secrets of Japanese UI design* [Audio podcast episode] Disrupting Japan: Startups and Venture Capital in Japan, march 6, 2023. https://www.disruptingjapan.com/the-lies-myths-and-secrets-of-japanese-ui-design/ [accessed on 12th September 2024]
