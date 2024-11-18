@@ -394,6 +394,6 @@ The post COVID-19 era has also been marked by the democratisation of artificial 
 ## Practical Project
 
 In regards to my practical project, I've been thinking of three main ideas.
-The first one is about designing an operating system that removes the "work & capitalist" metaphor by starting from scratch.
+The first one is about designing an operating system that removes the "work & capitalist" metaphor by starting from scratch. The second one is building a cyberdeck hardware and designing the software to be more humane, more natural and more skeuomorphic. Lastly, another idea would be to build something, that learns more on the design fiction side of things, that shows how interactions are shaped in the future.
 
 ![Practical_Project_Ideas](../../PRACTICAL-PROJECT/Practical_Project_Ideas.md)
