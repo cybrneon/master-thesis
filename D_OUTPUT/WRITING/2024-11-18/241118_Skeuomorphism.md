@@ -373,7 +373,7 @@ Frutiger Aero is a broad design style and aesthetic attributed to the post Y2K e
 
 This categorization is pretty interesting as it puts a name and a period on a design style that is too soon to be named, compared to other historical design and art time periods. This style became viral in 2022 on social media, especially TikTok, and sparked a subreddit with nearly 70k members, at the time of writing.
 
-According to people who fancy the style, they believe that Frutiger Aero is all about a bright, colorful and peaceful future that was promised to us but never delivered, especially as Gen Z people who grew up with all these graphics that merged nature elements, fluid shapes, floating elements and technology. Humans fantasizing on merging nature and technology expressed it through these designs of what we call Frutiger Aero today.
+According to people who fancy the style, they believe that Frutiger Aero is all about a bright, colorful and peaceful future that was promised to us but never delivered, especially as Gen Z people who grew up with all these graphics that merged nature elements, fluid shapes, floating elements and technology. Frutiger Aero is more than a design style, it is a fantasy of an unrealized vision of a harmonious future where technology and nature coexist seamlessly.
 
 People I talked with on the internet said that skeuomorphism can be considered a Frutiger Aero sub-style because they overlapped a lot during history, but they are not the same.
 
@@ -383,11 +383,17 @@ I believe that Frutiger Aero is a direct result of nostalgia. As a Gen Z person,
 
 # Conclusion
 ## What's Next?
-The post COVID-19 era has been marked by the democratisation of AI in our everyday lives, questioning the future of interface design. Can we rethink the computers and mobiles that surround us? Talk about the hot question everyone is asking, what's after the iPhone?
+This research journey began with a personal fascination; a childhood memory that interfaces were more than just functional tools. Interfaces are about creating comfortable, intuitive experiences. The use of skeuomorphism in time demonstrates that accessibility is as much about emotional comfort as it is about visual clarity. The familiar textures, shadows and real-world metaphors work together on reducing friction in the goal of making technology feel less intimidating and more approachable. Recent explorations in glassmorphism, subtle 3d effects and nuanced skeuomorphic references indicate that designers are seeking a more empathetic and contextually rich design language.
 
-AR? VR? Apple started incorporating some of it's design elements from the Vision Pro OS into its mobile OS UI. Reusing 3D layouts, More shadows, ...
+Based on this research, we could also say that nostalgia can be a powerful design tool. The resurgence of skeuomorphic elements in modern interfaces, like Airbnb's new app design, shows that users appreciate connections to familiar experiences.
 
-Can we finally make user interfaces that adapt to us and not the other way around, all while staying intuitive and easy to understand without friction?
+Skeuomorphism is a live design philosophy that serves as a reminder that technology is first and foremost a human experience, rather than a relic from the past. As we seem to move towards spatial computing and mixed reality interfaces, the lessons of skeuomorphism, creating comfort, reducing cognitive load, and telling visual stories, remain more relevant than ever. Our digital experiences are not just about what we see, but about how we feel.
+
+The post COVID-19 era has also been marked by the democratisation of artificial intelligence and machine learning in our everyday lives, questioning the future of interface design and usage. Can we rethink the computers and mobiles that surround us? Can we rethink the devices we use by adding AI and ML? And lastly, can we finally make user interfaces that adapt to us and not the other way around, all while staying intuitive and easy to understand without friction?
 
 ## Practical Project
+
+In regards to my practical project, I've been thinking of three main ideas.
+The first one is about designing an operating system that removes the "work & capitalist" metaphor by starting from scratch.
+
 ![Practical_Project_Ideas](../../PRACTICAL-PROJECT/Practical_Project_Ideas.md)

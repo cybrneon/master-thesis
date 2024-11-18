@@ -15,10 +15,6 @@ Thinking of the final shape of the Thesis...
 #### [Only one week left, omg.](WRITING/2024-11-18/241118_Skeuomorphism.md)
 No comment.
 
-#### **2024-11-15**
-#### [🏃‍♂️‍➡️](WRITING/2024-11-15/241115_Skeuomorphism.md)
-54'500.
-
 #### **2024-11-14**
 #### [Speedrunning x4 🏃‍♂️‍➡️🏃‍♂️‍➡️🏃‍♂️‍➡️🏃‍♂️‍➡️](WRITING/2024-11-14/241114_Skeuomorphism.md)
 52'000.
