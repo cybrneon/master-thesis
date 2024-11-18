@@ -41,6 +41,8 @@ MENG, D. Matthew & LEARY, R. Bret, 2022. Mitigating the detrimental effect of sk
 
 MINNITI, Sergio, 2016. Photo-Objects and Analogue Instant Photography in the Digital Age. _TECNOSCIENZA_, Vol. 7, pp. 13-43. https://www.research.unipd.it/handle/11577/3455939
 
+MITCHELL, Terence R., THOMPSON, Leigh, PETERSON, Erika, & CRONK, Randy, 1997. Temporal Adjustments in the Evaluation of Events: The "Rosy View". _Journal of Experimental Social Psychology_, Vol. 33, Issue 4, pp. 421-448.
+
 MOGGRIDGE, Bill, 2006. *Designing Interactions*. MIT Press, October 18, 2006. ISBN: 9780262134743
 
 NORMAN, Don, 2013. *The Design of Everyday Things*. Revised and Expanded Edition. Basic Books. ISBN: 9780465050659
