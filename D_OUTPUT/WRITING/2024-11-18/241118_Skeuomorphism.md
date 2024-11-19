@@ -78,6 +78,24 @@ The interviews I first conducted consisted of asking people about their knowledg
 These interviews were conducted at the school's library during summer, where I laid multiple diverse electronic devices a on a table. The devices were carefully chosen to be the most representative of the 2000s to 2010s era and were composed of two laptops and three smartphones, displaying a range of skeuomorphic graphical user interfaces. I call it *The Spectrum of Skeuomorphic GUIs*.
 The next step was to make them choose one device from the table, turn it on and use it until they want to go to another one. While they're using it, I'm asking open questions that drive a discussion like "What do you perceive now that you're on the desktop?", "Can you find a specific icon?" As well as guiding them to open apps like Calendar, Notes, Media Player, etc. All while prompting them for reactions and emotions.
 
+#### Devices
+All the devices people tested were bought second hand. Some didn’t even work and required some fixes, both hardware and software.
+
+**HP Compaq NC 6320**
+Laptop, 2006. Running Windows Vista
+
+**Apple Macbook Pro**
+Laptop, 2012. Running Mac OS X 10.8 Mountain Lion
+
+**Apple iPhone 5**
+Smartphone, 2012. Running iOS 6.1.6
+
+**Nokia Lumia 610**
+Smartphone, 2012. Running Windows Phone 7.8
+
+**HTC Desire S**
+Smartphone, 2011. Running Android 4.0 (Ice Cream Sandwich) with HTC Sense UI
+
 
 # Cases
 In this chapter, I will analyze five different operating systems that marked the 2010s era, especially the last remnants of what we call skeuomorphism and what can be considered peak skeuomorphism.
@@ -106,7 +124,7 @@ The taskbar looks shiny with its dark and glossy look. The Windows button all th
 
 When opening windows and programs, most of the time the title bar is translucent, giving the impression that windows are slabs of glass. Putting windows on top of other windows shows the translucency and blur that is happening. Just like putting many slabs of glass on top of each other, visually mimicking house windows. There was also a subtle reflective highlight along the edges suggesting polished glass.
 
-Shadows also play an important role in creating a realistic depth perception to windows and make them appear floating on the desktop. Today, we take that for granted, but shadows were heavy on performance, as with the blur and translucency effect. This is eventually what led to the initial mixed reception of Windows Vista, as it had problems running on computers of the time.
+Shadows also play an important role in creating a realistic depth perception to windows and make them appear floating on the desktop. Today, we take that for granted, but shadows were heavy on performance, as with the blur and translucency effect. This is eventually what led to the initial mixed reception of Windows Vista, as it had problems running on underpowered Windows computers of the time.
 
 ![](../../../C_DATA/IMAGES/Aero_Example.png)
 
@@ -121,7 +139,7 @@ These new sounds sound more synthetic, magical, glassy and dreamy, immersing the
 ### Motion
 The Windows OS has been very static throughout its early years, and with this new design language came a new way of animating interface elements. Opening programs and closing them was animated with a fade in and fade out for example, rather than appearing/disappearing instantly. Maximizing and minimizing windows also showed smooth scaling and transitioning.
 
-There also was a new feature called 3D Flip that allowed you to see a three-dimentional stack of your open windows that could be rotated through, giving a sci-fi/holographic way of seeing the desktop with an impression of control and power over the computer.
+There also was a new feature called 3D Flip that allowed you to see a dimensional stack of your open windows that could be rotated through, giving a sci-fi/holographic way of seeing the desktop with an impression of control and power over the computer.
 
 ![](../../../C_DATA/IMAGES/Vista_3Dflip.png)
 
@@ -139,7 +157,7 @@ Introduced with the tenth version of Mac OS in 2000, Aqua was also a complete re
 
 ### Visual Design
 During the announcement of this new version of Mac OS, Steve Jobs promised "killer graphics".
-Aqua featured new icons that looked just like real-life objects, that were different from what was already seen. The Mail app icon was a postage stamp, the Settings app icon was a switch on a board (before moving to gears, a metaphor of machinery and engineering), etc. Nothing really new from what icons looked like before, but this was the first time that icons were in high definition and looked 3D, compared to illustrations or vectors. There was a big work on shapes, lightning and textures.
+Aqua featured new icons that looked just like real-life objects, that were different from what was already seen. The Mail app icon was a postage stamp, the Settings app icon was a switch on a board (before moving to gears, a metaphor of machinery and engineering), etc. Nothing really new from what icons looked like before, but this was the first time that icons were in high definition and looked 3D, compared to illustrations, vectors or pixel art icons. There was a big work on shapes, lightning and textures.
 
 ![](../../../C_DATA/IMAGES/MacOSX_Aqua.jpg)
 
@@ -164,7 +182,7 @@ Some of the most famous ones were the Notes app with its yellow paper and torn p
 
 ![](../../../C_DATA/IMAGES/MacOSX_ContactsApp.png)
 
-The new iMac G4 came out in 2002 with this new version of the Mac OS. It featured a clean design that let the UI speak for itself, compared to the previous generation that had a colourful range. And the UI being that texture, gave the illusion that people were interacting with real object and materials, erasing the fact that the computer was an electric device computing zeros and ones.
+The new iMac G4 came out in 2002 with this new version of the Mac OS. It featured a clean design that let the UI speak for itself, compared to the previous generation that had a colourful range. The UI being that texture, gave the illusion that people were interacting with real object and materials, erasing the fact that the computer was an electric device computing zeros and ones.
 
 ![](../../../C_DATA/IMAGES/iMac_G4.png)
 
@@ -235,7 +253,7 @@ Samsung who was already making phones jumped on Android and designed their Look 
 
 The trial concerned three things: the front and rear look of the iPhone and finally the GUI showing the layout of apps on its homescreen. Apple arguied that Samsung stole the home screen design of Apple's iOS. By evolving its UI, Samsung also used heavy skeuomorphic elements (gradients, shadows, textures) with nature inspired themes like water droplets.
 
-Google's own version of stock Android featured a Tron-like aesthetic with electric blue accents and black backgrounds while using holographic effects that suggested technological advancements and futuristic interfaces. Google's UI was cleaner and minimalist compared to Samsung's, HTC's, or any manufacturers colored and detailed designs in the asian market.
+Google's own version of stock (or vanilla) Android featured a Tron-like aesthetic with electric blue accents and black backgrounds while using holographic effects that suggested technological advancements and futuristic interfaces. Google's UI was cleaner and minimalist compared to Samsung's, HTC's, or any manufacturers colored and detailed designs in the asian market.
 
 Meanwhile, HTC really went for super realistic animations and effects, like weather animations on the home screen (rain drops on screen, thunder) and feature sophisticated transparency effects. When switching between screens, you could also set custom animations (like a three-dimension cube spin) rather than just sliding left or right.
 
