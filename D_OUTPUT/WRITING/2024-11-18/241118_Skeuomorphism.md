@@ -61,7 +61,7 @@ In 2006, Microsoft released the Zune, an mp3 player created to take on the Apple
 
 In 2013, Apple announced it's 7th major version of the iPhone OS, iOS 7, that completely strips away the Skeuomorphic Design Language for a more Flat and Flashy Design Philosophy, with other manufacturers following on the trend.
 
-Flat Design became the norm, providing clear, simple and efficient design to designers and app developers. It was a breathe of fresh air in general, and everything that came out using a skeuomorphic visual style at the time was considered out of date. Apple followed for MacOS X on 2014 by incorporating flat design elements from iOS 7. Starting by removing years of skeuomorphic design elements across both operating systems, and then by 
+Flat Design became the norm, providing clear, simple and efficient design to designers and app developers. It was a breathe of fresh air in general, and everything that came out using a skeuomorphic visual style at the time was considered out of date. Apple followed for MacOS X on 2014 by incorporating flat design elements from iOS 7 to the desktop, starting by removing years of skeuomorphic design elements across both operating systems.
 
 That is until the 2017 when Microsoft revived the movement announcing the Fluent Design System focusing on five key principles; Light, Depth, Motion, Material and Scale. But at the time, it was only an evolution of Microsoft's flat design that was also pushed by the release of their mixed-reality headset, Hololens. Interacting in space has to feel 3D, and flat design was just not made for that.
 
@@ -96,7 +96,7 @@ Period: 2005-2012
 Introduced with Windows Vista in 2005, Aero was a complete redesign of the Windows interface, replacing Windows XP's Luna theme. According to Microsoft, Aero stands for "Authentic, Energetic, Reflective and Open" and goes way beyond what Luna achieved, in terms of visuals, performance and animations.
 
 ![](../../../C_DATA/IMAGES/XP_LunaBlue.png)
-### Visuals
+### Visual Design
 People who used this OS, felt it was so glossy and looked shiny. They felt that the glossy and transparency elements gave the UI a light look to it. The most visible element on a desktop OS is the wallpaper, and the default wallpaper that comes with Vista references the northern lights. This can be considered skeuomorphism, in a way, of employees view of auroras from Microsoft's headquarters in Redmond, USA (ref. Jenny Lam), connecting to the physical world. The default wallpaper wasn't just decorative, it established Aero's design language of ethereal light and transparency that permeated the entire interface, creating a cohesive environment that suggested high-tech sophistication.
 
 And then comes the Desktop UI elements like the taskbar at the bottom, the icons all over the wallpaper and the widgets on the right.
@@ -137,7 +137,7 @@ Introduced with the tenth version of Mac OS in 2000, Aqua was also a complete re
 
 ![](../../../C_DATA/IMAGES/MacOS9.png)
 
-### Visuals
+### Visual Design
 During the announcement of this new version of Mac OS, Steve Jobs promised "killer graphics".
 Aqua featured new icons that looked just like real-life objects, that were different from what was already seen. The Mail app icon was a postage stamp, the Settings app icon was a switch on a board (before moving to gears, a metaphor of machinery and engineering), etc. Nothing really new from what icons looked like before, but this was the first time that icons were in high definition and looked 3D, compared to illustrations or vectors. There was a big work on shapes, lightning and textures.
 
@@ -186,7 +186,7 @@ Period: 2007-2013
 
 In 2007, Apple shook the world by announcing their take on the mobile phone. The iPhone had a distinct industrial style; it looked simple, minimalist and fancy compared to other mobiles at the same time. It brought a distinctive design that was about to inspire many other companies for the years to come and created a new category of personal devices.
 
-### Visuals
+### Visual Design
 Based on MacOS X, iOS (initially known as iPhoneOS) inherited lots of design cues from its desktop counterpart, all while having its own aesthetic and user experience. The iPhone was the first device that embraced many, and extreme, skeuomorphic principles in its user interface. The GUI used a grid of 4 by 4 icons to display apps on the home screen. Swiping left or right revealed the next page of installed apps.
 
 Apps looked sharp, glossy and kind of out of this world, but at the same time replicating real-world elements. The giant display made it so that the GUI stands for itself. The homescreen layout with apps on a grid was something really new. With each icon having a detailed symbolization of its functionality. When opening apps, they literally open by scaling up its icon, something that other mobile phones didn't do and user no transitions because of how software and hardware heavy they were.
@@ -221,7 +221,7 @@ Period: 2008-2013
 
 It wasn't until 2008 that the first third-party manufacturers, HTC, announced their first Android powered mobile phone. After that, many other manufacturers felt the need to jump on the smartphone train and take their part of the cake. Android is an open-source software, and manufacturers can develop their own look and feel. So naturally, not every Android phone has the same UI design. For this case, I will analyze Android Skins in general and not specific to each manufacturers. 
 
-### Visuals
+### Visual Design
 Phone manufacturers were all making smartphones before, but when apple unveiled the clean and minimalist UI of the iPhone, they really started taking notes on how they can make their interfaces more skeuomorphic, especially on touch screens. By using Android, manufacturers also had extensive skinning possibilities to match their respective branding and styles. Each manufacturers tried to create a unique identity and had different interpretation of what a mobile interface should look like, all while staying in the same "grid of apps on a wallpaper" style.
 
 ![](../../../C_DATA/IMAGES/HTCSenseUI.jpg)
@@ -256,7 +256,7 @@ Honorable mention: I wanted to talk about Windows Phone, the forgotten mobile op
 
 ![](../../../C_DATA/IMAGES/WindowsPhone7.jpg)
 
-### Visually
+### Visual Design
 Inspired by the Swiss Design Style, Metro emphasized clean typography, dimensional layouts and a focus on content over form. The GUI felt fluid and responsive to the finger's touch. The home screen differed from iOS and Android with the use of squares as apps, on a grid of two horizontally, and you could scroll vertically, up or down to see the rest (and not horizontally like the other mobiles OSs). Icons were monochrome, and the main color on the screen was your chosen color. Windows Phone was so personalizable, it went the opposite way of what GUIs were like; minimalism, frutiger-like fonts, monochrome, focus on typography...
 
 ### Acoustics
