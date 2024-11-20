@@ -380,14 +380,14 @@ Recently, the resurgence of 3D in UI design really challenged our Flat Design sa
 
 One attempt at that was Neumorphism, that focused on introducing subtle skeuomorphic elements. This style had big problems like having low contrasts and bad clickability detection causing bad reception; this style never made it mainstream and was just fancy/another good looking concept that is not applicable to real-world usage.
 
-But this new Glassmorphism, or whatever we should call it, is interesting. It brings back depth to the interfaces, breaking up with flat design principles like flat surfaces, or minimalist icons to cite a few. This can be considered as a direct descendant of the skeuomorphism UI style we know, as it brings back the understanding of space, and not just simulating a 3D space.
+Glassmorphism, Cybermorphism or whatever we should call the current design trend, is interesting. It brings back depth to the interfaces, breaking up with flat design principles like flat surfaces, or minimalist icons to cite a few. This can be considered as a direct descendant of the skeuomorphism UI style we know, as it brings back the understanding of space, and not just simulating a 3D space.
 
-Some designers even design UIs that are not made to be functional but are more reinterpretation works of art, devoted to emerging emotions and feelings up from people, considered design as an artistic expression, with a touch of nostalgic reinterpretations. Some designers also enjoy redesigning current user interfaces if flat design never went mainstream, thinking of alternative historical timelines for interfaces evolution and exploring possible futures through design fiction.
+Some designers even design UIs that are not made to be functional but are more reinterpretation works of art, devoted to emerging emotions and feelings up from people, considered design as an artistic expression, with a touch of nostalgic reinterpretations. Others enjoy redesigning current user interfaces if flat design never went mainstream, thinking of alternative historical timelines for interfaces evolution and exploring possible futures through design fiction.
 
 Finally, skeuomorphism's legacy can also be considered sociological thanks to one of the most fascinating design styles of the 2000s and its naming; Frutiger Aero.
 
 ## An Unrealized Future
-Frutiger Aero is a broad design style and aesthetic attributed to the post Y2K era, that can be found in advertising, media, technology. Invented by Sofi Lee, the name Frutiger Aero is named after the famous typeface designer Adrian Frutiger (creator of the famous and copied Frutiger humanist typeface) and Windows Aero (the GUI of Windows Vista and 7). And according to the Aesthetics Wiki, it is sometimes referenced as Web 2.0 Gloss, and contains many sub-aesthetics and related aesthetics like Frutiger Metro, Technozen, Frutiger Eco and Helvetica Aqua.
+Frutiger Aero is a broad design style and aesthetic attributed to the post Y2K era, that can be found in advertising, media, technology. Invented by designer Sofi Lee, the name Frutiger Aero is named after the famous typeface designer Adrian Frutiger (creator of the famous and copied Frutiger humanist typeface) and Windows Aero (the GUI of Windows Vista and 7). According to the Aesthetics Wiki, it is sometimes referenced as Web 2.0 Gloss, and contains many sub-aesthetics and related aesthetics like Frutiger Metro, Technozen, Frutiger Eco and Helvetica Aqua.
 
 ![](../../../C_DATA/IMAGES/frutiger-aero-default.png)
 
