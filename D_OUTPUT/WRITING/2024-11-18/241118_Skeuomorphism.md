@@ -257,13 +257,13 @@ Google's own version of stock (or vanilla) Android featured a Tron-like aestheti
 
 Meanwhile, HTC really went for super realistic animations and effects, like weather animations on the home screen (rain drops on screen, thunder) and feature sophisticated transparency effects. When switching between screens, you could also set custom animations (like a three-dimension cube spin) rather than just sliding left or right.
 
-With time, the skins evolved to interfaces eventually being influenced by Google's Material Design.
+With time, the skins evolved to interfaces eventually being influenced by Google's Material Design, in an effort to reduce UI and development fragmentation.
 
 ### Acoustics
 Each manufacturers developed their own sounds to fit their branding and style. For example, Google's original sounds were futuristic with robot-like sounds. Samsung on the other hand used nature-inspired sounds like water drops and bird chirps with orchestral notification sounds. And finally, HTC used premium-feeling mechanical sounds with realistic environmental sounds.
 
 ### Motion
-Android skins all featured extravagant animations like 3D rotation effects, bouncy animations, water ripple effects and so much more that made each skin look like an upgraded iPhone. Something that ultimately had performance problems with smartphones of the time.
+Android skins all featured extravagant animations like 3D rotation effects, bouncy animations, water ripple effects and so much more that made each skin look like an upgraded iPhone. Something that ultimately had performance problems with entry-level smartphones of the time.
 
 
 ## Windows Phone
@@ -316,6 +316,8 @@ Mobile-wise, by incorporating metaphors on the iPhone, Apple wanted to make the 
 After the flat design period, we've seen less and less metaphors on mobile UIs.
 
 Some people completely ditch GUIs by only using the command line interface, just like how it was before the GUI. Other people use plain text computing environments like (GNU) Emacs that is a mix between a CLI and a GUI (Also featured in Tron: Legacy, 2010).
+
+Speaking of movies, in the original Jurassic Parc, characters interacted with computers that had a 3D file manager they called FSN (pronounced Fusion) or File System Navigator, allowing users to navigate their files in a three dimensional space. Although the interface was from a movie, the software actually existed but only as a demo from Silicon Graphics IRIX. Sadly, the software is not available anymore to download as the company shutdown years ago.
 
 If we come back to the cases I analyzed, you can feel that skeuomorphism also helped people understand the technical aspect of computers and smartphones. DVD drives, files, camera, saving files, etc. All these today feel obsolete in regards to their technology status, but also feel like relics of the past because of how GUIs evolved. For example, when taking a picture, you immediately see the picture in your photos gallery. Compared to 15 years ago, you had to wait for the camera app after pressing the (skeuomorphic) capture button to tell you the image has been saved but only after a few seconds. This explicitly showed, and was interpreted in the way that the image was being captured, just like a physical photo camera. Especially with the shutter sound and the camera's screen showing a sensor closing down circularly to the center.
 
