@@ -8,40 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc793be4e18cac85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D_OUTPUT/README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "4215b7203a3dc625",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D_OUTPUT/WRITING/2024-11-18/241118_Skeuomorphism.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "241118_Skeuomorphism"
-            }
-          },
-          {
             "id": "503d143d438964a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "D_OUTPUT/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -63,8 +35,7 @@
               "title": "Bibliography"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,30 +175,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4215b7203a3dc625",
+  "active": "503d143d438964a0",
   "lastOpenFiles": [
     "D_OUTPUT/README.md",
     "D_OUTPUT/WRITING/2024-11-18/241118_Skeuomorphism.md",
-    "C_DATA/IMAGES/psp-gui.png",
-    "C_DATA/IMAGES/helvetica-aqua.jpg",
-    "C_DATA/IMAGES/frutiger-eco.png",
-    "C_DATA/IMAGES/frutiger-eco.webp",
-    "C_DATA/IMAGES/frutiger-aero-meme.png",
-    "C_DATA/IMAGES/technozen.jpg",
-    "C_DATA/IMAGES/wii-sports-technozen.png",
-    "C_DATA/IMAGES/wii-sports-technozen.webp",
-    "C_DATA/IMAGES/frutiger-metro.png",
-    "C_DATA/IMAGES/frutiger-metro.jpeg",
+    "C_DATA/IMAGES/title/rgb/subtitle_2.png",
+    "C_DATA/IMAGES/title/rgb/subtitle_rgb.png",
+    "C_DATA/IMAGES/title/cmyk/logo_cmyk_styled.png",
+    "C_DATA/IMAGES/title/cmyk/logo_cmyk_outline.png",
+    "C_DATA/IMAGES/title/cmyk/logo_rgb_styled.png",
+    "C_DATA/IMAGES/title/cmyk/logo_rgb_outline.png",
+    "C_DATA/IMAGES/title/rgb/logo_rgb_outline.png",
+    "C_DATA/IMAGES/title/rgb/logo_rgb_styled.png",
+    "C_DATA/IMAGES/title/rgb/with_rgb.png",
+    "C_DATA/IMAGES/title/rgb/the_rgb.png",
+    "C_DATA/IMAGES/title/cmyk",
+    "C_DATA/IMAGES/title/untitled folder",
+    "C_DATA/IMAGES/title/rgb",
+    "C_DATA/IMAGES/title",
     "C_DATA/IMAGES/Mac OS X Cheetah Icons/mail.png.sb-244e9d9a-ni8V8I",
     "C_DATA/IMAGES/Mac OS X Cheetah Icons",
     "C_DATA/IMAGES/untitled folder",
     "C_DATA/IMAGES/OSX10Icons/actions/Scalable256x256",
     "C_DATA/IMAGES/OSX10Icons/actions/48x48",
     "C_DATA/IMAGES/OSX10Icons/actions/32x32",
-    "C_DATA/IMAGES/OSX10Icons/actions/24x24",
-    "C_DATA/IMAGES/OSX10Icons/actions/22x22",
-    "C_DATA/IMAGES/OSX10Icons/actions",
-    "C_DATA/IMAGES/OSX10Icons/emblems/Scalable256x256",
     "README.md",
     "A_INSPIRATION/BIBLIOGRAPHY/Bibliography.md",
     "B_METHOD/PROCESS/2024-07-26/Definitive_Methodology.md",
