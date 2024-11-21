@@ -1,4 +1,4 @@
-![](E_ASSETS/repo-images/skeuomorphism_hero.png)
+![](E_ASSETS/repo-images/dwtf_hero.png)
 
 ##### Master Thesis — Tutor: [Nicolas Nova](https://www.nicolasnova.net/)
 ### What role does accessibility and nostalgia play in the persistence of skeuomorphic design principles in modern interface development?
