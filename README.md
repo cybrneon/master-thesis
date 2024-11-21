@@ -10,8 +10,8 @@ It's still a work in progress, final deadline is on the 6th of Dec 2024.
 
 
 ## Links
+### [Read it Online](https://master.cybrneon.xyz/)
 ### [Master Personal Space on Figma](https://www.figma.com/design/cBZwSZEBA5L0KyZoAiVZpU/Adam's-Master-Space?node-id=0-1&t=z42T0FIo4narjGbr-1)
-
 
 ## Repo Summary
 
