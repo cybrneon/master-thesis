@@ -11,6 +11,10 @@ Thinking of the final shape of the Thesis...
 
 ### Writing
 
+#### **2024-11-22**
+#### [Final version sent to tutor before next week (printing)](WRITING/2024-11-22/241122_Skeuomorphism.md)
+60'000
+
 #### **2024-11-15**
 #### [Only one week left, omg.](WRITING/2024-11-18/241118_Skeuomorphism.md)
 No comment. 58'445.
