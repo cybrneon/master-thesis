@@ -51,9 +51,15 @@ OSWALD, David, 2018. Affordances and Metaphors Revisited: Testing Flat vs. Skeuo
 
 PAGE, Tom, 2014. Skeuomorphism or flat design: Future directions in mobile device User Interface (UI) design education. _International Journal of Mobile Learning and Organisation_, Vol. 8, No.2, pp. 130. [https://doi.org/10.1504/IJMLO.2014.062350](https://doi.org/10.1504/IJMLO.2014.062350)
 
+SCHWARTZ, Barry, 2005. *The Paradox of Choice: Why More is Less*. Harper Perennial. January 18, 2005. ISBN: 0060005696
+
+SMITH, Douglas K., & ALEXANDER, Robert C. (1988). _Fumbling the Future: How Xerox Invented, Then Ignored, the First Perso  nal Computer_. William Morrow & Co, January 1, 1989. ISBN: 0688095119
+
 SMITH, David Canfield, IRBY, Charles, KIMBALL, Ralph, VERPLANK, Bill, & HARSLEM, Eric, 1982. *Designing the Star user interface*, 1982. Byte, Issue 4, pp. 242-282. Available here: http://billverplank.com/CiiD/XeroxStar.pdf [accessed on 8th November 2024]
 
 SPILIOTOPOULOS, Konstantinos, RIGOU, Maria & SIRMAKESSIS, Spiros, 2018. A Comparative Study of Skeuomorphic and Flat Design from a UX Perspective. _Multimodal Technologies and Interaction_, Vol. 2, Issue 2, pp. 31. [https://doi.org/10.3390/mti2020031](https://doi.org/10.3390/mti2020031)
+
+SUCHMAN, Lucy A., 1985. *Plans and Situated Actions: The Problem of Human-Machine communication*. Xerox Palo Alto Research Center, February 1985.
 
 URBANO, Inês Cunha Vaz Pereira, 2018. _From Skeuomorphism to Flat design: Investigating Older Adults Experience_ [Instituto Superior Técnico]. [https://scholar.tecnico.ulisboa.pt/records/V2Aqmnvev-ae41koPVR9yMsjmh3U5CegEOq_](https://scholar.tecnico.ulisboa.pt/records/V2Aqmnvev-ae41koPVR9yMsjmh3U5CegEOq_)
 
@@ -61,15 +67,13 @@ URBANO, Inês Cunha Vaz Pereira, GUERREIRO, João Pedro Vieira, & NICOLAU,  Hugo
 
 REBER, Rolf, SCHWARZ Norbert and WINKIELMAN Piotr, 2004. Processing Fluency and Aesthetic Pleasure: Is Beauty in the Perceiver's Processing Experience? *Personality and Social Psychology Review*, February 2004, Vol. 8, Issue 4, pp. 322-338. https://doi.org/10.1207/s15327957pspr0804_3
 
-SCHWARTZ, Barry, 2005. *The Paradox of Choice: Why More is Less*. Harper Perennial. January 18, 2005. ISBN: 0060005696
-
-SMITH, Douglas K., & ALEXANDER, Robert C. (1988). _Fumbling the Future: How Xerox Invented, Then Ignored, the First Personal Computer_. William Morrow & Co, January 1, 1989. ISBN: 0688095119
-
 WICHARY, Marcin (1983). _Human Factors testing in the design of Xerox’s 8010 ‘Star’ office workstation._ https://guidebookgallery.org/articles/humanfactorstestinginthedesignofxeroxs8010starofficeworkstation
 
 WU, Lei, LEI, Tian, LI, Juan, & LI, Bin, 2015. Skeuomorphism and Flat Design: Evaluating Users’ Emotion Experience in Car Navigation Interface Design. _Design, User Experience, and Usability: Design Discourse_, Vol. 9186, pp. 567–575. Springer International Publishing. [https://doi.org/10.1007/978-3-319-20886-2_53](https://doi.org/10.1007/978-3-319-20886-2_53)
 
 WROBLEWSKI, Luke, 2011. *Mobile First*. A Book Apart, January 1, 2011. ISBN: 1937557022
+
+ZIMMERMANN, Basile, & NOVA, Nicolas, 2015. Circulation: A Theoretical Toolkit. _Design and Culture_, Vol. 7, Issue 2, pp. 167–184. https://doi.org/10.1080/17547075.2015.1051786
 
 ### Podcasts
 ROMERO, Tim, 2023. *The lies, myths, and secrets of Japanese UI design* [Audio podcast episode] Disrupting Japan: Startups and Venture Capital in Japan, march 6, 2023. https://www.disruptingjapan.com/the-lies-myths-and-secrets-of-japanese-ui-design/ [accessed on 12th September 2024]
@@ -103,6 +107,8 @@ HEIN, Buster, 2015. Jony Ive explains why he decided to gut skeuomorphism from I
 ILLIES, Alina, 2024. Frutiger Aero: the Trend of 2024?, *elevenpm* on Medium, May 2024. https://medium.com/elevenpm/frutiger-aero-the-trend-of-2024-1be502c0b367 [accessed on 1st October 2024]
 
 IRISH, Robert, 2022. What Apple learned from skeuomorphism and why it still matters. *AppleInsider*, August 23, 2022. [https://appleinsider.com/articles/22/08/23/what-apple-learned-from-skeuomorphism-and-why-it-still-matters](https://appleinsider.com/articles/22/08/23/what-apple-learned-from-skeuomorphism-and-why-it-still-matters) [accessed on 1st October 2024]
+
+PANG, Alex, 2000. Interview with Susan Kare. Making the Macintosh: Technology and Culture in Silicon Valley, September 8, 2000. https://web.stanford.edu/dept/SUL/sites/mac/primary/interviews/kare/trans.html  [accessed on 25th November 2024]
 
 MANJOO, Farhad, 2012. Should a Calendar App Look Like a Calendar? _Slate_, November 1, 2012. [https://slate.com/technology/2012/11/scott-forstall-fired-skeuomorphism-the-design-concept-thats-tearing-apple-and-the-tech-world-apart.html](https://slate.com/technology/2012/11/scott-forstall-fired-skeuomorphism-the-design-concept-thats-tearing-apple-and-the-tech-world-apart.html) [accessed on 1st October 2024]
 
