@@ -321,7 +321,7 @@ Its goal was to make Windows, and the personal computer, more accessible to ever
 
 ![](../../../C_DATA/IMAGES/microsoft-bob-1995.png)
 
-A more contemporary project can be the MercuryOS, a GUI project by Jason Yuan, playing with a speculative vision of the operating system ditching the traditional desktop metaphor.
+A more contemporary project can be MercuryOS, a GUI project by Jason Yuan, playing with a speculative vision of the operating system ditching the traditional desktop metaphor.
 
 Some people completely ditch GUIs by only using the command line interface, just like how it was before the GUI. Other people use plain text computing environments like (GNU) Emacs that is a mix between a CLI and a GUI (Also featured in Tron: Legacy, 2010).
 
