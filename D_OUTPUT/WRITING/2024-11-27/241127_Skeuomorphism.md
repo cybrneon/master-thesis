@@ -109,9 +109,6 @@ In this chapter, I will analyze five different operating systems that marked the
 
 For each case, I will describe and analyze Visuals, Acoustics and Motion settings of each. I will also describe how people used these interfaces at the time.
 
-PROBLEMATISER,EN QUOI LE skeuomorphismE REFORMULE L'UTILISABILITé?
-Mettre mes observations dans ces sous parties.
-
 
 ## Windows Aero
 Developer: Microsoft
