@@ -404,8 +404,6 @@ Frutiger Aero is a broad design style and aesthetic attributed to the post Y2K e
 
 ![](../../../C_DATA/IMAGES/frutiger-aero-default.png)
 
-This categorization is pretty interesting as it puts a name and a period on a design style that is too soon to be named, compared to other historical design and art time periods. This style became viral in 2022 on social media, especially TikTok, and sparked a subreddit with nearly 70k members, at the time of writing.
-
 This categorization is pretty interesting as it puts a name and a period on a design style that is too soon to be named, compared to other historical design and art time periods. This style became viral in 2022 on social media, especially TikTok, and sparked a subreddit with nearly 70k members (r/FrutigerAero), at the time of writing.
 
 According to people who fancy the style, they believe that Frutiger Aero is all about a bright, colorful and peaceful future that was promised to us but never delivered, especially as Gen Z people who grew up with all these graphics that merged nature elements, fluid shapes, floating elements and technology.
