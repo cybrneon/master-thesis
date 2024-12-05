@@ -103,6 +103,9 @@ Smartphone, 2012. Running Windows Phone 7.8
 **HTC Desire S**
 Smartphone, 2011. Running Android 4.0 (Ice Cream Sandwich) with HTC Sense UI
 
+**Nokia N8**
+Smartphone, 2010. Running Symbian 3 with Nokia Belle Refresh
+
 
 # Cases
 In this chapter, I will analyze five different operating systems that marked the 2000s eras, especially the last true remnants of what we call Skeuomorphism and what can be considered peak Skeuomorphism.
